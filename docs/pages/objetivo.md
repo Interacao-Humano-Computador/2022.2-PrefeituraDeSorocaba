@@ -5,5 +5,5 @@
 	Vale ressaltar que todos os documentos criados são de total autoria do grupo.<br>
      
 <br>
-	<div style="color:#c86355">O objetivo do nosso Pages será sempre a organização e documentação da nossa evolução!</div>
+	<div style="color:#e0218a">O objetivo do nosso Pages será sempre a organização e documentação da nossa evolução!</div>
 </h4>
