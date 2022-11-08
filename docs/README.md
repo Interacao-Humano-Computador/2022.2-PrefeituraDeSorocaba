@@ -2,7 +2,7 @@
 
 ## Colaboradores
 
-<!-- 
+<!--
 Arquiteto: rosa #FF00FF
 PO: azul #
 SM: marrom #
@@ -37,9 +37,17 @@ Desenvolvedor: amarelo #
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/marcusmartinsxx">
+        <img src="https://avatars.githubusercontent.com/u/89209017?v=4" width="100px;" alt="Foto Marcus Martins"/><br>
+        <sub>
+          <b>Marcus Martins</b>
+        </sub>
+      </a>
+    </td>
    </tr>
   <tr>
     
 </table>
 
-<br/> 
+<br/>
