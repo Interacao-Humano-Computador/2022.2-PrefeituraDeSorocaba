@@ -4,6 +4,7 @@
 - **Projeto Sorocaba**
 
   - [Escolha do site](/pages/projeto/escolha_site.md)
+  - [Sites Avaliados](/pages/projeto/sites_avaliados.md)
   - [Cronograma](/pages/projeto/cronograma.md)
   - [Processo de design](/pages/projeto/processo_design.md)
   - [Ferramentas](/pages/projeto/ferramentas.md)
