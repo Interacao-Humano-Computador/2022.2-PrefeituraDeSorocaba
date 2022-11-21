@@ -1,11 +1,11 @@
 - [Home](README.md)
 - [Objetivos](pages/objetivo.md)
 
-----------------------------------------------------
-### _**Projeto**_
+- **Projeto Sorocaba**
 
-----------------------------------------------------
-### _**Equipe**_
+  - [Escolha do site](/pages/projeto/escolha_site.md)
+  - [Cronograma](/pages/projeto/cronograma.md)
+  - [Processo de design](/pages/projeto/processo_design.md)
+  - [Ferramentas](/pages/projeto/ferramentas.md)
 
-
-   
+- [**Equipe**](/pages/equipe)
