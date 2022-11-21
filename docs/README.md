@@ -7,7 +7,8 @@ Devops: verde-escuro #
 Desenvolvedor: amarelo #
 -->
 
-# <a href="https://www.sorocaba.sp.gov.br/">Prefeitura de Sorocaba</a> 
+# Grupo 4 
+O site escolhido pelo grupo foi o da <a href="https://www.sorocaba.sp.gov.br/">Prefeitura de Sorocaba</a> 
 
 ## 🧑‍💻 Colaboradores
 <!-- Lembrar de colocar as pessoas em ordem alfabética -->
