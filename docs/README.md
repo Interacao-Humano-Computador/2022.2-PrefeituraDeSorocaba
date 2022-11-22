@@ -15,6 +15,10 @@ O site escolhido pelo grupo foi o da <a href="https://www.sorocaba.sp.gov.br/">P
 
 <table align="center">
   <tr>
+   <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/75335915?v=4" width="100px;" alt="Foto Charles"/><br>
+        <a href="https://github.com/charles-serafim"> Charles Serafim</a>
+    </td>
     <td align="center">
         <img src="https://avatars.githubusercontent.com/u/88345670?v=4" width="100px;" alt="Foto Luan Melo"/><br>
         <a href="https://github.com/luanmq">Luan Melo</a>
