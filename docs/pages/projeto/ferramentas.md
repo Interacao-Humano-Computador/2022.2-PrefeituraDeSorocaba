@@ -6,10 +6,10 @@ Abaixo segue uma lista das ferramentas utilizadas até o momento pela equipe dur
 
 |                                                  |                                                                                                                                            |
 | :----------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------- |
-|  <img src="../../media/logos/github.png" width="200">  | Usamos o Github para armazenamento de nossa documentação e controle de versionamento das atualização feitas.                               |
-| <img src="../../media/logos/telegram.png" width="200"> | Escolhemos o Telegram como ferramenta de comunicação pela familiaridade dos membros e pelas diversas funcionalidades que a aplicação traz. |
-|   <img src="../../media/logos/obs.png" width="200">    | OBS (Open Broadcast Software) foi usado para gravação das nossas apresentações. É uma aplicação gratuita e de fácil utilização.            |
-| <img src="../../media/logos/youtube.png" width="200">  | O Youtube foi utilizado para postagem e divulgação das apresentaçãos feitas pelo grupo.                                                    |
+|  <img src="https://interacao-humano-computador.github.io/2022.2-PrefeituraDeSorocaba/media/logos/github.png" width="200">  | Usamos o Github para armazenamento de nossa documentação e controle de versionamento das atualização feitas.                               |
+| <img src="https://interacao-humano-computador.github.io/2022.2-PrefeituraDeSorocaba/media/logos/telegram.png" width="200"> | Escolhemos o Telegram como ferramenta de comunicação pela familiaridade dos membros e pelas diversas funcionalidades que a aplicação traz. |
+|   <img src="https://interacao-humano-computador.github.io/2022.2-PrefeituraDeSorocaba/media/logos/obs.png" width="200">    | OBS (Open Broadcast Software) foi usado para gravação das nossas apresentações. É uma aplicação gratuita e de fácil utilização.            |
+| <img src="https://interacao-humano-computador.github.io/2022.2-PrefeituraDeSorocaba/media/logos/youtube.png" width="200">  | O Youtube foi utilizado para postagem e divulgação das apresentaçãos feitas pelo grupo.                                                    |
 
 <div style="text-align: center">
 <p>Tabela 1: Ícones, listagem e justificativa do uso das ferramentas</p>
