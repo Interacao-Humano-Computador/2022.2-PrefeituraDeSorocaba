@@ -13,7 +13,7 @@ Existem várias formas de organizar as atividades descritas acima, e a escolha d
 
 ## Ciclo de Vida Simples (Preece et al., 2002)
 
-![Ciclo de Vida Simples](../../media/processo_design/ciclo-de-vida-em-estrela.png)
+![Ciclo de Vida Simples](../../media/processo_design/ciclo-de-vida-simples.png)
 
 <div style="text-align: center">
 <p>Imagem 1: Ciclo de Vida Simples</p>
