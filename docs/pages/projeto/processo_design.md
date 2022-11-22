@@ -55,4 +55,4 @@ BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-com
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 21/011/2022 | `0.1`  | Criação da documentação do Processo de Design | [Charles Serafim](https://github.com/charles-serafim) | -
+| 21/11/2022 | `0.1`  | Criação da documentação do Processo de Design | [Charles Serafim](https://github.com/charles-serafim) | -
