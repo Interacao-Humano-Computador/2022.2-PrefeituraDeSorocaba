@@ -10,3 +10,14 @@ A avaliação para a melhoria do site é de suma importância tanto para a popul
 <br>
 
 Desse modo, conseguimos perceber alguns problemas que poderão afetar a usabilidade do site, causando algumas reações ruins aos seus usuários, fazendo a equipe escolhê-lo para o projeto da disciplina. 
+<br>
+
+## Referências Bibliográficas
+
+BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010.
+
+## Tabela de Versionamento
+
+| Data | Versão | Descrição | Autor | Revisor |
+| :--: | :----: | :-------: | :---: | :-----: |
+| 21/11/2022 | `0.1`  | Criação da página do Site escolhido | [Maria Abritta](https://github.com/MariaAbritta) | -

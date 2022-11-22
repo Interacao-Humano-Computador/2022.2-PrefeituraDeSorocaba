@@ -15,13 +15,23 @@ Existem várias formas de organizar as atividades descritas acima, e a escolha d
 
 ![Ciclo de Vida Simples](../../media/processo_design/ciclo-de-vida-em-estrela.png)
 
-Neste modelo, as autoras dividem a atividade de síntese em design (ou redesign) conceitual e construção de uma versão (ou versões) interativa. Este modelo é bastante iterativo, com cada atividade permitindo revelar a necessidade de retornar a atividades anteriores para melhorar o artefato produzido, e podendo essas atividades ocorrerem quantas vezes forem necessárias, dentro do que as condições permitirem. É um modelo indicado para designers experientes, visto que é pouco detalhado e bastante "direto ao ponto".
+<div style="text-align: center">
+<p>Imagem 1: Ciclo de Vida Simples</p>
+</div>
+<br>
+
+Neste modelo, representado na Imagem 1, as autoras dividem a atividade de síntese em design (ou redesign) conceitual e construção de uma versão (ou versões) interativa. Este modelo é bastante iterativo, com cada atividade permitindo revelar a necessidade de retornar a atividades anteriores para melhorar o artefato produzido, e podendo essas atividades ocorrerem quantas vezes forem necessárias, dentro do que as condições permitirem. É um modelo indicado para designers experientes, visto que é pouco detalhado e bastante "direto ao ponto".
 
 ## Ciclo de Vida em Estrela (Hix & Hartson, 1993)
 
 ![Ciclo de Vida em Estrela](../../media/processo_design/ciclo-de-vida-em-estrela.png)
 
-Um dos primeiros ciclos de vida voltados para IHC amplamente difundidos, o Ciclo de Vida em Estrela tem a característica de permitir que o designer decisa qual atividade deve ser realizada primeiro, a depender do que está disponível quando se inicia o processo e dos objetivos do processo de design. Também é iterativo e não prescreve uma sequência de atividades, e também tem a característica de exigir uma avaliação de cada atividade após sua conclusão, para verificar se está no caminho da solução e decidir os próximos passos.
+<div style="text-align: center">
+<p>Imagem 2: Ciclo de Vida em Estrela</p>
+</div>
+<br>
+
+Um dos primeiros ciclos de vida voltados para IHC amplamente difundidos, o Ciclo de Vida em Estrela, representado na Imagem 2, tem a característica de permitir que o designer decisa qual atividade deve ser realizada primeiro, a depender do que está disponível quando se inicia o processo e dos objetivos do processo de design. Também é iterativo e não prescreve uma sequência de atividades, e também tem a característica de exigir uma avaliação de cada atividade após sua conclusão, para verificar se está no caminho da solução e decidir os próximos passos.
 
 ## Engenharia de Usabilidade de Nielsen
 
@@ -41,7 +51,12 @@ Um dos primeiros ciclos de vida voltados para IHC amplamente difundidos, o Ciclo
 
 ![Ciclo de Vida em Estrela](../../media/processo_design/engenharia-de-usabilidade-de-mayhew.png)
 
-Neste modelo, Deborah Mayhew (1999) propõe um ciclo de vida para a engenharia de usabilidade, dividido em três fases: análise de requisitos, onde são definidas as metas de usabilidade com base do perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma do sistema e princípios gerais de design de IHC; design, avaliação e desenvolvimento, onde busca-se conceber uma solução de IHC que atenda às metas de usabilidade da fase anterior; instalação, onde o designer coleta as opiniões do usuário depois de algum tempo de uso, para melhorar o sistema em versões futuras ou identificar a necessidade de desenvolver novos sistemas interativos.
+<div style="text-align: center">
+<p>Imagem 3: Engenharia de Usabilidade de Mayhew</p>
+</div>
+<br>
+
+Neste modelo, representado na Imagem 3, Deborah Mayhew (1999) propõe um ciclo de vida para a engenharia de usabilidade, dividido em três fases: análise de requisitos, onde são definidas as metas de usabilidade com base do perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma do sistema e princípios gerais de design de IHC; design, avaliação e desenvolvimento, onde busca-se conceber uma solução de IHC que atenda às metas de usabilidade da fase anterior; instalação, onde o designer coleta as opiniões do usuário depois de algum tempo de uso, para melhorar o sistema em versões futuras ou identificar a necessidade de desenvolver novos sistemas interativos.
 
 ## Ciclo de Vida do Projeto
 

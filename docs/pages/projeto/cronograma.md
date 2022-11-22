@@ -35,7 +35,7 @@ O cronograma das atividades possui o objetivo de documentar quando, o que preten
 | 23/11/2022 | Slides e gravação do vídeo de apresentação | Todos | Todos | 22/11/2022
 
 <div style="text-align: center">
-<p>Tabela 1: Planejamento do projeto</p>
+<p>Tabela 2: Planejamento do projeto</p>
 </div>
 
 
@@ -52,7 +52,7 @@ O cronograma das atividades possui o objetivo de documentar quando, o que preten
 | 07/12/2022 | Edição do  vídeo de apresentação | [Maria Abritta](https://github.com/MariaAbritta) | Todos | 06/12/2022 
 
 <div style="text-align: center">
-<p>Tabela 2: Perfil do usuário, Personas e Análise de tarefas</p>
+<p>Tabela 3: Perfil do usuário, Personas e Análise de tarefas</p>
 </div>
 
 ## Etapa 3 - Princípios Gerais de Projeto
@@ -67,7 +67,7 @@ O cronograma das atividades possui o objetivo de documentar quando, o que preten
 12/12/2022 | Edição do  vídeo de apresentação | [Maria Abritta](https://github.com/MariaAbritta) | Todos | 11/12/2022
 
 <div style="text-align: center">
-<p>Tabela 3: Princípios Gerais de Projeto</p>
+<p>Tabela 4: Princípios Gerais de Projeto</p>
 </div>
 
 ## Etapa 4 - Planejamento da Avaliação do Storyboard e Análise de tarefas.
@@ -82,7 +82,7 @@ O cronograma das atividades possui o objetivo de documentar quando, o que preten
 14/12/2022 | [Maria Abritta](https://github.com/MariaAbritta) | Todos  | Todos | 14/12/2022 
 
 <div style="text-align: center">
-<p>Tabela 4: Planejamento da Avaliação do Storyboard e Análise de tarefas, planejamento do relato dos resultados da valiação do Storyboard e o planejamento do relato dos resultados da avaliação do Análise de tarefas</p>
+<p>Tabela 5: Planejamento da Avaliação do Storyboard e Análise de tarefas, planejamento do relato dos resultados da valiação do Storyboard e o planejamento do relato dos resultados da avaliação do Análise de tarefas</p>
 </div>
 
 ## Etapa 5 - Relato dos resultados do Story Board
@@ -99,7 +99,7 @@ O cronograma das atividades possui o objetivo de documentar quando, o que preten
 02/01/2023 | [Maria Abritta](https://github.com/MariaAbritta) | Todos  | Todos | 23/12/2022
 
 <div style="text-align: center">
-<p>Tabela 5: Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do planejamento do relato dos resultados da avaliação do Protótipo de Papel</p>
+<p>Tabela 6: Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do planejamento do relato dos resultados da avaliação do Protótipo de Papel</p>
 </div>
 
 
@@ -128,7 +128,7 @@ O cronograma das atividades possui o objetivo de documentar quando, o que preten
 
 
 <div style="text-align: center">
-<p>Tabela 6: Verificação dos artefatos</p>
+<p>Tabela 8: Verificação dos artefatos</p>
 </div>
 
 ## Etapa 8 - Relato dos Resultados do Protótipo de Alta Fidelidade
@@ -142,7 +142,7 @@ O cronograma das atividades possui o objetivo de documentar quando, o que preten
 25/01/2023| Edição do  vídeo de apresentação |[Maria Abritta](https://github.com/MariaAbritta) | Todos  | Todos | 24/01/2023
 
 <div style="text-align: center">
-<p>Tabela 8: Projeto Final - Construção do protótipo de alta fidelidade, Entrevistas de validação do protótipo de Alta Fidelidade, Relato dos resultados da avaliação do protótipo de alta fidelidade</p>
+<p>Tabela 9: Projeto Final - Construção do protótipo de alta fidelidade, Entrevistas de validação do protótipo de Alta Fidelidade, Relato dos resultados da avaliação do protótipo de alta fidelidade</p>
 </div>
 
 ## Etapa 9 - Projeto Final
@@ -153,8 +153,16 @@ O cronograma das atividades possui o objetivo de documentar quando, o que preten
 01/02/2023| Slides e gravação do vídeo de apresentação final | Todos | Todos | 31/01/2023
 01/02/2023| Edição do  vídeo de apresentação final |[Maria Abritta](https://github.com/MariaAbritta) | Todos  | Todos | 31/01/2023
 
+<div style="text-align: center">
+<p>Tabela 10: Projeto Final - Ajustes para finalização do projeto, gravação e edicação do vídeo de apresentação final</p>
+</div>
+
+## Referências Bibliográficas
+
+SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2335638/mod_resource/content/27/Plano_de_Ensino%20FIHC%20202202%20Turma%202%20Opção%202.pdf>>. Acesso em: 21 de novembro de 2022.
+
 ## Tabela de Versionamento
 
 | Data | Versão | Descrição | Autor | Revisor |
 | :--: | :----: | :-------: | :---: | :-----: |
-| 21/011/2022 | `0.1`  | Adição do cronograma completo| [Lucas Gomes](https://github.com/lucasgcaldas) | -
+| 21/11/2022 | `0.1`  | Adição do cronograma completo| [Lucas Gomes](https://github.com/lucasgcaldas) | -

@@ -5,11 +5,16 @@ Para realizar a escolha de um site a ser utilizado no decorrer da disciplina, fo
 
 ## Sites escolhidos pelos integrantes 
 
-| Site proposto |
-| ------------- |
-| Prefeitura de Sorocaba |
-| Prefeitura de Luziania | 
-| Pioneira Transportes |
+| Site proposto | Link |
+| ------------- | ---- |
+| Prefeitura de Sorocaba | <https://www.sorocaba.sp.gov.br/> |
+| Prefeitura de Luziania | <https://www.luziania.go.gov.br/> |
+| Pioneira Transportes | <https://www.pioneiratransportes.com.br/> |
+
+<div style="text-align: center">
+<p>Tabela 1: Lista de sites avaliados no projeto individual</p>
+</div>
+<br>
 
 ## Prefeitura de Sorocaba
 
@@ -30,11 +35,14 @@ Foi analisado o site da Pioneira Transportes do Rio Grande do Sul. O site aprese
 
 Diante dos sites analisados, optamos pelo site da [Prefeitura de Sorocaba](https://www.sorocaba.sp.gov.br/), que possui uma série de problemas identificados que serão válidos para a realização de uma análise de IHC.
 
+## Referências Bibliográficas
+
+BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010.
 
 ## Tabela de Versionamento
 
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
-| 21/011/2022 | `0.1`  | Criação da página de Sites Avaliados | [Lucas Gomes](https://github.com/lucasgcaldas) | -
+| 21/11/2022 | `0.1`  | Criação da página de Sites Avaliados | [Lucas Gomes](https://github.com/lucasgcaldas) | -
 
 
