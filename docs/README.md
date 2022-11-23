@@ -31,6 +31,10 @@ O site escolhido pelo grupo foi o da <a href="https://www.sorocaba.sp.gov.br/">P
         <img src="https://avatars.githubusercontent.com/u/87709987?v=4" width="100px;" alt="Foto Abritta"/><br>
         <a href="https://github.com/MariaAbritta">Maria Abritta</a>
     </td>
+    <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/45216323?v=4" width="100px;" alt="Foto Pablo S. Costa"/><br>
+        <a href="https://github.com/pabloheika">Pablo S. Costa</a>
+    </td>
    </tr>    
 </table>
 
