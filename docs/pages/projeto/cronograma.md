@@ -4,6 +4,8 @@
 
 O cronograma das atividades possui o objetivo de documentar quando, o que pretende-se fazer, por quem é feita e quem fará a revisão em cada entrega. Cada linha da tabela corresponde a uma etapa onde o grupo deve fazer uma apresentação do que foi desenvolvido. O cronograma foi feito a partir das datas e prazos disponibilizados no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2335638/mod_resource/content/27/Plano_de_Ensino%20FIHC%20202202%20Turma%202%20Opc%CC%A7a%CC%83o%202.pdf) (2022.2) da disciplina.
 
+<br>
+
 ## Cronograma Geral
 
 | Etapa |                         Título                         |                                                                                                                                                        Descrição                                                                                                                                                        |  Entrega   | Apresentação |
