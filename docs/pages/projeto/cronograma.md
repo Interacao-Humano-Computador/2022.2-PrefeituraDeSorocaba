@@ -18,7 +18,18 @@ O cronograma das atividades possui o objetivo de documentar quando, o que preten
 |   8   | Relatos dos resultados do protótipo de alta fidelidade |                                                                                                                                 Relato dos resultados do Protótipo de alta fidelidade.                                                                                                                                  | 25/01/2023 |  26/01/2023  |
 |   9   |             Apresentação do projeto final.             |                                                                                                                                             Apresentação do projeto final.                                                                                                                                              | 01/02/2023 |  02/02/2023  |
 
-<figcaption align="center">Tabela 1: Cronograma geral das entregas.</figcaption>
+## Cronograma Executado
+
+| Etapa |         Artefato          |   Início   |  Entrega   |                   Responsáveis                   |
+| :---: | :-----------------------: | :--------: | :--------: | :----------------------------------------------: |
+|   1   |          Equipe           | 20/11/2022 | 22/11/2022 | [Maria Abritta](https://github.com/MariaAbritta) |
+|   1   |     Atas das reuniões     | 22/11/2022 | 23/11/2022 | [Maria Abritta](https://github.com/MariaAbritta) |
+|   1   |     Site Selecionado      | 20/11/2022 | 22/11/2022 | [Maria Abritta](https://github.com/MariaAbritta) |
+|   1   | Listas de sites avaliados | 20/11/2022 | 22/11/2022 |  [Lucas Gomes](https://github.com/lucasgcaldas)  |
+|   1   |     Cronograma geral      | 20/11/2022 | 22/11/2022 |  [Lucas Gomes](https://github.com/lucasgcaldas)  |
+|   1   |        Ferramentas        | 21/11/2022 | 21/11/2022 |        [Luan](https://github.com/Luanmq)         |
+|   1   |   Cronograma executado    | 23/11/2022 | 23/11/2022 |        [Luan](https://github.com/Luanmq)         |
+|   1   |    Processo de design     | 21/11/2022 | 22/11/2022 |  [Charles](https://github.com/charles-serafim)   |
 
 ## Etapa 1 - Planejamento
 
