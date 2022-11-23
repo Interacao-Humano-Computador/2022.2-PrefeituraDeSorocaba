@@ -1,15 +1,14 @@
 # Equipe
 
-A equipe é composta por 4 integrantes. Infelizmente, dois integrantes desistiram da matéria, defasando o grupo. A equipe têm os membros: 
+A equipe é composta por 4 integrantes. Infelizmente, dois integrantes desistiram da matéria, defasando o grupo. A equipe têm os membros:
+
 1. Charles Manrique Serafim Morais
 2. Luan Melo Queiroz
 3. Lucas Melo Queiroz
 4. Maria Eduarda Dos Santos Abritta Ferreira
-<br>
 
 Todos terão os mesmos pesos e atividades, ajudando tanto na organização até a revisão dos desenvolvimentos obtidos ao decorrer da análise.
 
-#
 <table align="center">
   <tr>
    <td align="center">
@@ -30,5 +29,3 @@ Todos terão os mesmos pesos e atividades, ajudando tanto na organização até 
     </td>
    </tr>    
 </table>
-
-
