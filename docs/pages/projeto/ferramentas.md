@@ -19,5 +19,5 @@ Abaixo segue uma lista das ferramentas utilizadas até o momento pela equipe dur
 
 |    Data    | Versão |             Descrição             |                 Autor                  |                Revisor                 |
 | :--------: | :----: | :-------------------------------: | :------------------------------------: | :------------------------------------: |
-| 21.11.2022 | `0.1`  |       Criação do documento        |   [Luan](https://github.com/Luanmq)    | [Pablo](https://github.com/pabloheika) |
-| 22.11.2022 | `0.2`  | Ajustes no mapeamento das imagens | [Pablo](https://github.com/pabloheika) |   [Luan](https://github.com/Luanmq)    |
+| 21.11.2022 | `1.0`  |       Criação do documento        |   [Luan](https://github.com/Luanmq)    | [Pablo](https://github.com/pabloheika) |
+| 22.11.2022 | `1.1`  | Ajustes no mapeamento das imagens | [Pablo](https://github.com/pabloheika) |   [Luan](https://github.com/Luanmq)    |
