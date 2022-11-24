@@ -174,5 +174,5 @@ SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://a
 
 |    Data    | Versão |                        Descrição                         |                     Autor                      |                        Revisor                        |
 | :--------: | :----: | :------------------------------------------------------: | :--------------------------------------------: | :---------------------------------------------------: |
-| 21/11/2022 | `0.1`  |              Adição do cronograma completo               | [Lucas Gomes](https://github.com/lucasgcaldas) | [Charles Serafim](https://github.com/charles-serafim) |
-| 22/11/2022 | `0.2`  | Adição de novo integrante e replanejamento do cronograma | [Lucas Gomes](https://github.com/lucasgcaldas) |        [Pablo](https://github.com/pabloheika)         |
+| 21/11/2022 | `1.0`  |              Adição do cronograma completo               | [Lucas Gomes](https://github.com/lucasgcaldas) | [Charles Serafim](https://github.com/charles-serafim) |
+| 22/11/2022 | `1.1`  | Adição de novo integrante e replanejamento do cronograma | [Lucas Gomes](https://github.com/lucasgcaldas) |        [Pablo](https://github.com/pabloheika)         |
