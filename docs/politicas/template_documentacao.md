@@ -67,6 +67,6 @@ BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-com
 
 ## Tabela de Versionamento
 
-| Data | Versão | Descrição | Autor | Revisor |
-| :--: | :----: | :-------: | :---: | :-----: |
-| 21/11/2022 | `1.0`  | Criação da página do Site escolhido | [Charles Serafim](https://github.com/charles-serafim) | -
+|    Data    | Versão |                Descrição               |                         Autor                         | Revisor |
+| :--------: | :----: | :------------------------------------: | :---------------------------------------------------: | :-----: |
+| 21/11/2022 | `1.0`  | Criação do template para documentações | [Charles Serafim](https://github.com/charles-serafim) | -
