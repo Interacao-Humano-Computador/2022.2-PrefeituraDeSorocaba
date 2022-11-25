@@ -1,5 +1,11 @@
 # Site selecionado para o projeto da disciplina
 
+## Introdução
+
+Este documento relata o site escolhido para o desenvolvimento do projeto, assim como as motivações para sua escolha, as primeiras avaliações e a contextualização do trabalho.
+
+## Site selecionado
+
 O site escolhido para a avaliação do projeto da disciplina é o site da [Prefeitura de Sorocaba](https://www.sorocaba.sp.gov.br/). Sorocaba é um município brasileiro no interior do estado de São Paulo, sendo o quarto mais populoso do interior paulista, tendo uma população de aproximadamente 695.328, estimado pelo IBGE para 2021.
 <br>
 
@@ -24,6 +30,6 @@ BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-com
 
 ## Tabela de Versionamento
 
-| Data | Versão | Descrição | Autor | Revisor |
-| :--: | :----: | :-------: | :---: | :-----: |
-| 21/11/2022 | `1.0`  | Criação da página do Site escolhido | [Maria Abritta](https://github.com/MariaAbritta) | -
+|    Data    | Versão |              Descrição              |                       Autor                      |                        Revisor                        |
+| :--------: | :----: | :---------------------------------: | :----------------------------------------------: | :---------------------------------------------------: |
+| 21/11/2022 | `1.0`  | Criação da página do Site escolhido | [Maria Abritta](https://github.com/MariaAbritta) | [Charles Serafim](https://github.com/charles-serafim) |
