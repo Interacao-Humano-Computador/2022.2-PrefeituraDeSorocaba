@@ -25,3 +25,12 @@ Serão apresentadas por título, junto com a sua data, presença, onde ocorrreu,
 |**Local**| Discord|
 |**Conteúdo**| Conversamos mostrando o que cada um fez na sua parte, explicando o que se foi feito para todos terem um entendimento amplo de todo o projeto. Expomos nossas dificuldades e o que ainda não tinha sido feito.
 |**Definido**| Foi definido para nos ajudarmos nessas dificuldades para caminhar melhor com o porojeto. Terminar todas essas questões até o dia 23/11/2022
+
+## Reunião para organizar as tarefas e entregas da "Etapa 2"
+|Reunião 3|  |
+| -- | -- |
+|**Data**| 24/11/2022 |
+|**Presentes**| Todos presentes |
+|**Local**| Discord |
+|**Conteúdo**| Conversamos em equipe para o entendimento de todas as partes definidas para a montagem da "Etapa 2". Olhamos o cronograma já montado antes, para seguirmos conforme planejado. Percebemos que precisamos de uma reunião semanal on-line, onde todos possam estar presentes para a discussão das atividades. |
+|**Definido**| Foi definido uma reunião toda quarta-feira, às 11:30, para servir como uma review/planning. |
