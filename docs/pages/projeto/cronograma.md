@@ -8,6 +8,12 @@ O cronograma das atividades possui o objetivo de documentar quando, o que preten
 
 ## Cronograma Geral
 
+A Tabela 1 apresenta o cronograma geral planejado para o projeto, contendo: etapa, título, descrição e as datas das entrega e de duas devidas apresentações.
+
+<div style="text-align: center">
+<p>Tabela 1: Cronograma geral. </p>
+</div>
+
 | Etapa |                         Título                         |                                                                                                                                                        Descrição                                                                                                                                                        |  Entrega   | Apresentação |
 | :---: | :----------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :----------: |
 |   1   |                      Planejamento                      | Planejamento do Projeto, listas de sites avaliados, site selecionado para o projeto da disciplina, ferramentas do projeto, Processo de Design selecionado, cronograma detalhado das atividades do projeto (com data de inicio e fim de cada atividade, responsáveis e período de gravação da apresentação de cada etapa | 23/11/2022 |  24/11/2022  |
@@ -20,7 +26,18 @@ O cronograma das atividades possui o objetivo de documentar quando, o que preten
 |   8   | Relatos dos resultados do protótipo de alta fidelidade |                                                                                                                                 Relato dos resultados do Protótipo de alta fidelidade.                                                                                                                                  | 25/01/2023 |  26/01/2023  |
 |   9   |             Apresentação do projeto final.             |                                                                                                                                             Apresentação do projeto final.                                                                                                                                              | 01/02/2023 |  02/02/2023  |
 
+<div style="text-align: center">
+<p>Fonte: Autoria própria. </p>
+</div>
+<br>
+
 ## Cronograma Executado
+
+A Tabela 2 apresenta o cronograma executado, que contém as atividades e artefatos que já foram realizados e seus repectivos cronogramas e responsáveis.
+
+<div style="text-align: center">
+<p>Tabela 2: Cronograma executado. </p>
+</div>
 
 | Etapa |         Artefato          |   Início   |  Entrega   |                   Responsáveis                   |
 | :---: | :-----------------------: | :--------: | :--------: | :----------------------------------------------: |
@@ -33,7 +50,20 @@ O cronograma das atividades possui o objetivo de documentar quando, o que preten
 |   1   |   Cronograma executado    | 23/11/2022 | 23/11/2022 |        [Luan](https://github.com/Luanmq)         |
 |   1   |    Processo de design     | 21/11/2022 | 22/11/2022 |  [Charles](https://github.com/charles-serafim)   |
 
+<div style="text-align: center">
+<p>Fonte: Autoria própria. </p>
+</div>
+<br>
+
+# Entregas
+
+Os tópicos de Etapas apresentam os cronogramas de tarefas elaborados de acordo com as entregas do projeto, e são representados pelas tabelas 3-11.
+
 ## Etapa 1 - Planejamento
+
+<div style="text-align: center">
+<p>Tabela 3: Planejamento do projeto</p>
+</div>
 
 |   Prazo    |             Atividade/entrega              |                       Autor(es)                       | Data da Revisão |                    Revisor                     | Data da entrega |
 | :--------: | :----------------------------------------: | :---------------------------------------------------: | :-------------: | :--------------------------------------------: | :-------------: |
@@ -45,13 +75,18 @@ O cronograma das atividades possui o objetivo de documentar quando, o que preten
 | 23/11/2022 |           Ferramentas do projeto           |           [Luan](https://github.com/Luanmq)           |   22/11/2022    |     [Pablo](https://github.com/pabloheika)     |   21/11/2022    |
 | 23/11/2022 |             Processo de Design             | [Charles Serafim](https://github.com/charles-serafim) |   22/11/2022    |     [Pablo](https://github.com/pabloheika)     |   21/11/2022    |
 | 23/11/2022 | Slides e gravação do vídeo de apresentação |                         Todos                         |   22/11/2022    |                     Todos                      |   22/11/2022    |
-| 23/11/2022 |      Edição do vídeo de apresentação       |   [Maria Abritta](https://github.com/MariaAbritta)    |      Todos      |                   22/11/2022                   |   22/11/2022    |
+| 23/11/2022 |      Edição do vídeo de apresentação       |   [Maria Abritta](https://github.com/MariaAbritta)    |   22/11/2022    |                     Todos                      |   22/11/2022    |
 
 <div style="text-align: center">
-<p>Tabela 2: Planejamento do projeto</p>
+<p>Fonte: Autoria própria. </p>
 </div>
+<br>
 
 ## Etapa 2 - Perfil do usuário, Personas e Análise de tarefas
+
+<div style="text-align: center">
+<p>Tabela 4: Perfil do usuário, Personas e Análise de tarefas</p>
+</div>
 
 |   Prazo    |             Atividade/entrega              |                                                                Autor(es)                                                                 | Data da Revisão |                                                 Revisor                                                 | Data da entrega |
 | :--------: | :----------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :-----------------------------------------------------------------------------------------------------: | :-------------: |
@@ -64,10 +99,15 @@ O cronograma das atividades possui o objetivo de documentar quando, o que preten
 | 07/12/2022 |      Edição do vídeo de apresentação       |                                             [Maria Abritta](https://github.com/MariaAbritta)                                             |   06/12/2022    |                                                  Todos                                                  |   06/12/2022    |
 
 <div style="text-align: center">
-<p>Tabela 3: Perfil do usuário, Personas e Análise de tarefas</p>
+<p>Fonte: Autoria própria. </p>
 </div>
+<br>
 
 ## Etapa 3 - Princípios Gerais de Projeto
+
+<div style="text-align: center">
+<p>Tabela 5: Princípios Gerais de Projeto</p>
+</div>
 
 |   Prazo    |              Atividade/entrega               |                                                                   Autor(es)                                                                   |                 Data da Revisão                  |                                             Revisor                                              | Data da entrega |
 | :--------: | :------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------: | :----------------------------------------------------------------------------------------------: | :-------------: |
@@ -76,13 +116,18 @@ O cronograma das atividades possui o objetivo de documentar quando, o que preten
 | 12/12/2022 |                Guia de Estilo                | [Lucas Gomes](https://github.com/lucasgcaldas), [Charles Serafim](https://github.com/charles-serafim), [Pablo](https://github.com/pabloheika) |                    11/12/2022                    |       [Maria Abritta](https://github.com/MariaAbritta), [Luan](https://github.com/Luanmq)        |   11/12/2022    |
 | 12/12/2022 | Características da plataforma para o projeto |                              [Luan](https://github.com/Luanmq), [Maria Abritta](https://github.com/MariaAbritta)                              |                    11/12/2022                    |  [Charles Serafim](https://github.com/charles-serafim), [Pablo](https://github.com/pabloheika)   |   11/12/2022    |
 | 12/12/2022 |  Slides e gravação do vídeo de apresentação  |                                                                     Todos                                                                     |                    11/12/2022                    |                                              Todos                                               |   11/12/2022    |
-| 12/12/2022 |       Edição do vídeo de apresentação        |                                                                  09/12/2022                                                                   | [Maria Abritta](https://github.com/MariaAbritta) |                                              Todos                                               |   11/12/2022    |
+| 12/12/2022 |       Edição do vídeo de apresentação        |                                               [Maria Abritta](https://github.com/MariaAbritta)                                                |                    11/12/2022                    |                                              Todos                                               |   11/12/2022    |
 
 <div style="text-align: center">
-<p>Tabela 4: Princípios Gerais de Projeto</p>
+<p>Fonte: Autoria própria. </p>
 </div>
+<br>
 
 ## Etapa 4 - Planejamento da Avaliação do Storyboard e Análise de tarefas.
+
+<div style="text-align: center">
+<p>Tabela 6: Planejamento da Avaliação do Storyboard e Análise de tarefas, planejamento do relato dos resultados da valiação do Storyboard e o planejamento do relato dos resultados da avaliação do Análise de tarefas</p>
+</div>
 
 |   Prazo    |                            Atividade/entrega                             |                                                          Autor(es)                                                          | Data da Revisão |                                                 Revisor                                                 | Data da entrega |
 | :--------: | :----------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :-------------: | :-----------------------------------------------------------------------------------------------------: | :-------------: |
@@ -94,10 +139,15 @@ O cronograma das atividades possui o objetivo de documentar quando, o que preten
 | 14/12/2022 |                     Edição do vídeo de apresentação                      |                                      [Maria Abritta](https://github.com/MariaAbritta)                                       |   14/12/2022    |                                                  Todos                                                  |   14/12/2022    |
 
 <div style="text-align: center">
-<p>Tabela 5: Planejamento da Avaliação do Storyboard e Análise de tarefas, planejamento do relato dos resultados da valiação do Storyboard e o planejamento do relato dos resultados da avaliação do Análise de tarefas</p>
+<p>Fonte: Autoria própria. </p>
 </div>
+<br>
 
 ## Etapa 5 - Relato dos resultados do Story Board
+
+<div style="text-align: center">
+<p>Tabela 7: Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do planejamento do relato dos resultados da avaliação do Protótipo de Papel</p>
+</div>
 
 |   Prazo    |                            Atividade/entrega                             |                                                                    Autor(es)                                                                    | Data da Revisão |                                                Revisor                                                | Data da entrega |
 | :--------: | :----------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---------------------------------------------------------------------------------------------------: | :-------------: |
@@ -111,10 +161,15 @@ O cronograma das atividades possui o objetivo de documentar quando, o que preten
 | 02/01/2023 |                     Edição do vídeo de apresentação                      |                                                [Maria Abritta](https://github.com/MariaAbritta)                                                 |   16/12/2022    |                                                 Todos                                                 |   23/12/2022    |
 
 <div style="text-align: center">
-<p>Tabela 6: Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do planejamento do relato dos resultados da avaliação do Protótipo de Papel</p>
+<p>Fonte: Autoria própria. </p>
 </div>
+<br>
 
 ## Etapa 6 - Relato dos resultados do Protótipo de Baixa Fidelidade
+
+<div style="text-align: center">
+<p>Tabela 8: Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade</p>
+</div>
 
 |   Prazo    |                                  Atividade/entrega                                  |                                                         Autor(es)                                                         | Data da Revisão |                                                          Revisor                                                          | Data da entrega |
 | :--------: | :---------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :-------------: | :-----------------------------------------------------------------------------------------------------------------------: | :-------------: |
@@ -125,22 +180,32 @@ O cronograma das atividades possui o objetivo de documentar quando, o que preten
 | 11/01/2023 |                           Edição do vídeo de apresentação                           |                                     [Maria Abritta](https://github.com/MariaAbritta)                                      |      Todos      |                                                        10/01/2023                                                         |   10/01/2023    |
 
 <div style="text-align: center">
-<p>Tabela 7: Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade</p>
+<p>Fonte: Autoria própria. </p>
 </div>
+<br>
 
 ## Etapa 7 - Verificação dos Artefatos
 
-|   Prazo    |             Atividade/entrega              | Autor(es)  |                 Data da Revisão                  | Revisor | Data da entrega |
-| :--------: | :----------------------------------------: | :--------: | :----------------------------------------------: | :-----: | :-------------: |
-| 18/01/2023 |         Verificação dos Artefatos          |   Todos    |                    16/01/2023                    |  Todos  |   16/01/2023    |
-| 18/01/2023 | Slides e gravação do vídeo de apresentação |   Todos    |                    17/01/2023                    |  Todos  |   17/01/2023    |
-| 18/01/2023 |      Edição do vídeo de apresentação       | 16/01/2023 | [Maria Abritta](https://github.com/MariaAbritta) |  Todos  |   17/01/2023    |
-
 <div style="text-align: center">
-<p>Tabela 8: Verificação dos artefatos</p>
+<p>Tabela 9: Verificação dos artefatos</p>
 </div>
 
+|   Prazo    |             Atividade/entrega              |                    Autor(es)                     | Data da Revisão | Revisor | Data da entrega |
+| :--------: | :----------------------------------------: | :----------------------------------------------: | :-------------: | :-----: | :-------------: |
+| 18/01/2023 |         Verificação dos Artefatos          |                      Todos                       |    16/01/2023   |  Todos  |   16/01/2023    |
+| 18/01/2023 | Slides e gravação do vídeo de apresentação |                      Todos                       |    17/01/2023   |  Todos  |   17/01/2023    |
+| 18/01/2023 |      Edição do vídeo de apresentação       | [Maria Abritta](https://github.com/MariaAbritta) |    17/01/2023   |  Todos  |   17/01/2023    |
+
+<div style="text-align: center">
+<p>Fonte: Autoria própria. </p>
+</div>
+<br>
+
 ## Etapa 8 - Relato dos Resultados do Protótipo de Alta Fidelidade
+
+<div style="text-align: center">
+<p>Tabela 10: Projeto Final - Construção do protótipo de alta fidelidade, Entrevistas de validação do protótipo de Alta Fidelidade, Relato dos resultados da avaliação do protótipo de alta fidelidade</p>
+</div>
 
 |   Prazo    |                         Atividade/entrega                          |                                                                Autor(es)                                                                 | Data da Revisão |                                         Revisor                                          | Data da entrega |
 | :--------: | :----------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :--------------------------------------------------------------------------------------: | :-------------: |
@@ -151,10 +216,15 @@ O cronograma das atividades possui o objetivo de documentar quando, o que preten
 | 25/01/2023 |                  Edição do vídeo de apresentação                   |                                             [Maria Abritta](https://github.com/MariaAbritta)                                             |   20/01/2023    |                                          Todos                                           |   24/01/2023    |
 
 <div style="text-align: center">
-<p>Tabela 9: Projeto Final - Construção do protótipo de alta fidelidade, Entrevistas de validação do protótipo de Alta Fidelidade, Relato dos resultados da avaliação do protótipo de alta fidelidade</p>
+<p>Fonte: Autoria própria. </p>
 </div>
+<br>
 
 ## Etapa 9 - Projeto Final
+
+<div style="text-align: center">
+<p>Tabela 11: Projeto Final - Ajustes para finalização do projeto, gravação e edicação do vídeo de apresentação final</p>
+</div>
 
 |   Prazo    |                Atividade/entrega                 |                    Autor(es)                     | Data da Revisão | Revisor | Data da entrega |
 | :--------: | :----------------------------------------------: | :----------------------------------------------: | :-------------: | :-----: | :-------------: |
@@ -163,8 +233,9 @@ O cronograma das atividades possui o objetivo de documentar quando, o que preten
 | 01/02/2023 |      Edição do vídeo de apresentação final       | [Maria Abritta](https://github.com/MariaAbritta) |   31/01/2023    |  Todos  |   31/01/2023    |
 
 <div style="text-align: center">
-<p>Tabela 10: Projeto Final - Ajustes para finalização do projeto, gravação e edicação do vídeo de apresentação final</p>
+<p>Fonte: Autoria própria. </p>
 </div>
+<br>
 
 ## Referências Bibliográficas
 
@@ -174,5 +245,5 @@ SALES, André Barros. Plano de ensino da disciplina. Disponível em: <<https://a
 
 |    Data    | Versão |                        Descrição                         |                     Autor                      |                        Revisor                        |
 | :--------: | :----: | :------------------------------------------------------: | :--------------------------------------------: | :---------------------------------------------------: |
-| 21/11/2022 | `0.1`  |              Adição do cronograma completo               | [Lucas Gomes](https://github.com/lucasgcaldas) | [Charles Serafim](https://github.com/charles-serafim) |
-| 22/11/2022 | `0.2`  | Adição de novo integrante e replanejamento do cronograma | [Lucas Gomes](https://github.com/lucasgcaldas) |        [Pablo](https://github.com/pabloheika)         |
+| 21/11/2022 | `1.0`  |              Adição do cronograma completo               | [Lucas Gomes](https://github.com/lucasgcaldas) | [Charles Serafim](https://github.com/charles-serafim) |
+| 22/11/2022 | `1.1`  | Adição de novo integrante e replanejamento do cronograma | [Lucas Gomes](https://github.com/lucasgcaldas) |        [Pablo](https://github.com/pabloheika)         |

@@ -1,18 +1,25 @@
 # Sites Avaliados
+
 ## Introdução
 
 Para realizar a escolha de um site a ser utilizado no decorrer da disciplina, foram analisados 3 sites, a fim de selecionar o mais problematico e aplicar as análises escolhidas.
 
 ## Sites escolhidos pelos integrantes 
 
-| Site proposto | Link |
-| ------------- | ---- |
-| Prefeitura de Sorocaba | <https://www.sorocaba.sp.gov.br/> |
-| Prefeitura de Luziania | <https://www.luziania.go.gov.br/> |
-| Pioneira Transportes | <https://www.pioneiratransportes.com.br/> |
-
+<br>
 <div style="text-align: center">
 <p>Tabela 1: Lista de sites avaliados no projeto individual</p>
+</div>
+
+| Site proposto          | Link                                      |
+| :--------------------: | :---------------------------------------: |
+| Prefeitura de Sorocaba | <https://www.sorocaba.sp.gov.br/>         |
+| Prefeitura de Luziania | <https://www.luziania.go.gov.br/>         |
+| Pioneira Transportes   | <https://www.pioneiratransportes.com.br/> |
+
+
+<div style="text-align: center">
+<p>Fonte: Autoria própria. </p>
 </div>
 <br>
 
@@ -41,8 +48,6 @@ BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-com
 
 ## Tabela de Versionamento
 
-| Data | Versão | Descrição | Autor | Revisor |
-| ---- | ------ | --------- | ----- | ------- |
-| 21/11/2022 | `0.1`  | Criação da página de Sites Avaliados | [Lucas Gomes](https://github.com/lucasgcaldas) | -
-
-
+|    Data    |  Versão  |              Descrição               |                      Autor                     |                         Revisor                       |
+| :--------: | :------: | :----------------------------------: | :--------------------------------------------: | :---------------------------------------------------: |
+| 21/11/2022 |  `1.0`   | Criação da página de Sites Avaliados | [Lucas Gomes](https://github.com/lucasgcaldas) | [Charles Serafim](https://github.com/charles-serafim) |

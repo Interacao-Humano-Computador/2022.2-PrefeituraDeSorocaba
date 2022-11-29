@@ -8,7 +8,8 @@ A equipe é composta por 5 integrantes. Infelizmente, dois integrantes desistira
 4. Maria Eduarda Dos Santos Abritta Ferreira
 5. Pablo Santos Costa
 
-Todos terão os mesmos pesos e atividades, ajudando tanto na organização até a revisão dos desenvolvimentos obtidos ao decorrer da análise.
+Todos terão os mesmos pesos e atividades, ajudando tanto na organização até a revisão dos desenvolvimentos obtidos ao decorrer da análise.<br>
+A equipe definiu em conjunto, em fazer reuniões semanais, com o intuito de fazer uma review/restrospect, todas as quartas-feiras às 11:30.
 
 <table align="center">
   <tr>

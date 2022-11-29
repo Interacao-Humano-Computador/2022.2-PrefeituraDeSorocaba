@@ -8,4 +8,4 @@ Abaixo segue a primeira apresentação do projeto:
 
 |    Data    | Versão |      Descrição       |               Autor               |
 | :--------: | :----: | :------------------: | :-------------------------------: |
-| 23.11.2022 |  0.1   | Criação do documento | [Luan](https://github.com/Luanmq) |
+| 23.11.2022 |  1.0   | Criação do documento | [Luan](https://github.com/Luanmq) |
