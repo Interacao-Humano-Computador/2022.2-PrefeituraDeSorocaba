@@ -3,24 +3,27 @@
 - [**Equipe**](/pages/equipe)
 - **Projeto**
 
-  - [Escolha do site](/pages/projeto/escolha_site.md)
-  - [Sites Avaliados](/pages/projeto/sites_avaliados.md)
-  - [Cronograma](/pages/projeto/cronograma.md)
+  - **Etapa 1**
 
-    - [Cronograma geral](/pages/projeto/cronograma?id=cronograma-geral)
-    - [Cronograma executado](/pages/projeto/cronograma?id=cronograma-executado)
-    - [Etapa 1](/pages/projeto/cronograma?id=etapa-1-planejamento)
-    - [Etapa 2](/pages/projeto/cronograma?id=etapa-2-perfil-do-usuário-personas-e-análise-de-tarefas)
-    - [Etapa 3](/pages/projeto/cronograma?id=etapa-3-princípios-gerais-de-projeto)
-    - [Etapa 4](/pages/projeto/cronograma?id=etapa-4-planejamento-da-avaliação-do-storyboard-e-análise-de-tarefas)
-    - [Etapa 5](/pages/projeto/cronograma?id=etapa-5-relato-dos-resultados-do-story-board)
-    - [Etapa 6](/pages/projeto/cronograma?id=etapa-6-relato-dos-resultados-do-protótipo-de-baixa-fidelidade)
-    - [Etapa 7](/pages/projeto/cronograma?id=etapa-7-verificação-dos-artefatos)
-    - [Etapa 8](/pages/projeto/cronograma?id=etapa-8-relato-dos-resultados-do-protótipo-de-alta-fidelidade)
-    - [Etapa 9](/pages/projeto/cronograma?id=etapa-9-projeto-final)
+    - [Escolha do site](/pages/projeto/etapa1/escolha_site.md)
+    - [Sites Avaliados](/pages/projeto/etapa1/sites_avaliados.md)
+    - [Cronograma](/pages/projeto/etapa1/cronograma.md)
+      - [Cronograma geral](/pages/projeto/etapa1/cronograma?id=cronograma-geral)
+      - [Cronograma executado](/pages/projeto/etapa1/cronograma?id=cronograma-executado)
+      - [Etapa 1](/pages/projeto/etapa1/cronograma?id=etapa-1-planejamento)
+      - [Etapa 2](/pages/projeto/etapa1/cronograma?id=etapa-2-perfil-do-usuário-personas-e-análise-de-tarefas)
+      - [Etapa 3](/pages/projeto/etapa1/cronograma?id=etapa-3-princípios-gerais-de-projeto)
+      - [Etapa 4](/pages/projeto/etapa1/cronograma?id=etapa-4-planejamento-da-avaliação-do-storyboard-e-análise-de-tarefas)
+      - [Etapa 5](/pages/projeto/etapa1/cronograma?id=etapa-5-relato-dos-resultados-do-story-board)
+      - [Etapa 6](/pages/projeto/etapa1/cronograma?id=etapa-6-relato-dos-resultados-do-protótipo-de-baixa-fidelidade)
+      - [Etapa 7](/pages/projeto/etapa1/cronograma?id=etapa-7-verificação-dos-artefatos)
+      - [Etapa 8](/pages/projeto/etapa1/cronograma?id=etapa-8-relato-dos-resultados-do-protótipo-de-alta-fidelidade)
+      - [Etapa 9](/pages/projeto/etapa1/cronograma?id=etapa-9-projeto-final)
+    - [Processo de design](/pages/projeto/etapa1/processo_design.md)
+    - [Ferramentas](/pages/projeto/etapa1/ferramentas.md)
 
-  - [Processo de design](/pages/projeto/processo_design.md)
-  - [Ferramentas](/pages/projeto/ferramentas.md)
+  - **Etapa 2**
+    - [Perfil de usuário](/pages/projeto/etapa2/perfil_usuario.md)
 
 - **Apresentações**
   - [Apresentação 1](/pages/apresentacoes/apresentacao1.md)
