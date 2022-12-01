@@ -20,7 +20,7 @@ O Perfil de usuário se dá por meio do entendimento das informações reais de 
 <p>Figura 1: Gráfico apresentando a idade dos entrevistados. </p>
 </div>
 
-![Idade dos entrevistados](../../media/perfil_usuario/idade.png)
+![Idade dos entrevistados](../../../media/perfil_usuario/idade.png)
 
 <div style="text-align: center">
 <p>Fonte: Autoria própria. </p>

@@ -17,7 +17,7 @@ Existem várias formas de organizar as atividades descritas acima, e a escolha d
 <p>Figura 1: Ciclo de Vida Simples. </p>
 </div>
 
-![Ciclo de Vida Simples](../../media/processo_design/ciclo-de-vida-simples.png)
+![Ciclo de Vida Simples](../../../media/processo_design/ciclo-de-vida-simples.png)
 
 <div style="text-align: center">
 <p>Fonte: Barbosa & Silva, 2010.</p>
@@ -32,7 +32,7 @@ Neste modelo, representado na Figura 1, as autoras dividem a atividade de sínte
 <p>Figura 2: Ciclo de Vida em Estrela. </p>
 </div>
 
-![Ciclo de Vida em Estrela](../../media/processo_design/ciclo-de-vida-em-estrela.png)
+![Ciclo de Vida em Estrela](../../../media/processo_design/ciclo-de-vida-em-estrela.png)
 
 <div style="text-align: center">
 <p>Fonte: Barbosa & Silva, 2010.</p>
@@ -61,7 +61,7 @@ Um dos primeiros ciclos de vida voltados para IHC amplamente difundidos, o Ciclo
 <p>Figura 3: Engenharia de Usabilidade de Mayhew. </p>
 </div>
 
-![Ciclo de Vida em Estrela](../../media/processo_design/engenharia-de-usabilidade-de-mayhew.png)
+![Ciclo de Vida em Estrela](../../../media/processo_design/engenharia-de-usabilidade-de-mayhew.png)
 
 <div style="text-align: center">
 <p>Fonte: Barbosa & Silva, 2010.</p>
