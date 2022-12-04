@@ -34,9 +34,13 @@ KLM (Keystroke-level model) é uma das técnicas de GOMS e tem o objetivo de pre
 * Tempo de resposta do sistema.
 
 <br>
+<br
+>
 <div style="text-align: center">
 <p>Tabela 1 - Operador Primitivo (Kieras, 1993) </p>
 </div>
+
+<center>
 
 | Operador | Operação | Duração Média |
 | :------: | :------: | :-----------: |
@@ -48,6 +52,8 @@ KLM (Keystroke-level model) é uma das técnicas de GOMS e tem o objetivo de pre
 | M | Pressionar e soltar uma tecla do teclado | 1,2s |
 | W(t) | Pressionar e soltar uma tecla do teclado | Depende do sistema |
 
+</center>
+
 <div style="text-align: center">
 <p>Fonte: Autoria própria. </p>
 </div>
@@ -58,10 +64,14 @@ Na tabela 1, No operador K, sua duração média está como "depende", pois cada
 </div>
 
 <br>
+<br>
+
 <div style="text-align: center">
 <p>Tabela 2 - Tipos de digitadores do operador primitivo K apresentado na tabela 1
 </p>
 </div>
+
+<center>
 
 | Digitador | Duração Média |
 | :------: | :------: |
@@ -73,33 +83,52 @@ Na tabela 1, No operador K, sua duração média está como "depende", pois cada
 | Digitação de códigos complexos | 0,75s |
 | Digitalizador não familiarizados com o teclado | 1,20s |
 
+</center>
+
 <div style="text-align: center">
 <p>Fonte: Autoria própria. </p>
 </div>
 
+<center>
+
 #### Resultado da análise de desempenho do web site Prefeitura de Sorocaba com o KLM
 
+</center>
+
 <br>
+<br>
+
 <div style="text-align: center">
 <p>Tabela 3 - Tabela exemplo de Análise de tarefa </p>
 </div>
+
+<center>
 
 |  Operação | Tempo Médio |
 | ------------ | ------------ |
 | Operador - Operação | Tempo |
 | <b>Tempo total</b> | <b> Tempo total</b>
 
+</center>
+
 <div style="text-align: center">
 <p>Fonte: Autoria própria. </p>
 </div>
 
+<center>
+
 ##### Análise de tarefa: Acessar a aba “Notícias”
 
+</center>
+
 <br>
+<br>
+
 <div style="text-align: center">
 <p>Tabela 4 - Análise de tarefa: Acessar a aba “Notícias” </p>
 </div>
 
+<center>
 
 |  Operação | Tempo Médio |
 | ------------ | ------------ |
@@ -113,6 +142,8 @@ Na tabela 1, No operador K, sua duração média está como "depende", pois cada
 | B - Soltar o botão do mouse | 0,20s |
 | <b>Tempo total</b> | <b>4,30s</b>
 
+</enter>
+
 <div style="text-align: center">
 <p>Fonte: Autoria própria. </p>
 </div>
@@ -120,10 +151,13 @@ Na tabela 1, No operador K, sua duração média está como "depende", pois cada
 ##### Análise de tarefa: Acessar a aba “Concursos e Processos Seletivos”
 
 <br>
+<br>
+
 <div style="text-align: center">
-<p>Tabela 4 - Análise de tarefa: Acessar a aba “Concursos e Processos Seletivos” </p>
+<p>Tabela 5 - Análise de tarefa: Acessar a aba “Concursos e Processos Seletivos” </p>
 </div>
 
+<center>
 
 |  Operação | Tempo Médio |
 | ------------ | ------------ |
@@ -140,6 +174,8 @@ Na tabela 1, No operador K, sua duração média está como "depende", pois cada
 | B - Soltar o botão do mouse | 0,20s |
 | <b>Tempo total</b> | <b>5,7s</b>
 
+</center>
+
 <div style="text-align: center">
 <p>Fonte: Autoria própria. </p>
 </div>
@@ -147,10 +183,13 @@ Na tabela 1, No operador K, sua duração média está como "depende", pois cada
 ##### Análise de tarefa: Consultar 2° via de IPTU
 
 <br>
+<br>
+
 <div style="text-align: center">
-<p>Tabela 5 - Análise de tarefa: Consultar 2° via de IPTU </p>
+<p>Tabela 6 - Análise de tarefa: Consultar 2° via de IPTU </p>
 </div>
 
+<center>
 
 |  Operação | Tempo Médio |
 | ------------ | ------------ |
@@ -173,6 +212,8 @@ Na tabela 1, No operador K, sua duração média está como "depende", pois cada
 | B - Soltar o botão do mouse | 0,20s |
 | W(T) -Espera pela resposta do sistema | 0,2s | 
 | <b>Tempo total</b> | <b>15s</b>
+
+</center>
 
 <div style="text-align: center">
 <p>Fonte: Autoria própria. </p>
