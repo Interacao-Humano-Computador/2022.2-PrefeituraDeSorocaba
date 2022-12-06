@@ -251,3 +251,4 @@ frameworks: Toward a multidisciplinary science, pages 55–101. Morgan Kaufman
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
 | 03/12/2022 | `1.0`  | Criação da página e adição das análises| [Lucas Gomes](https://github.com/Neitan2001) | [Maria Abritta](https://github.com/MariaAbritta)
+| 05/12/2022 | `1.1`  | Adição do modlo CPM-GOMS| [Lucas Gomes](https://github.com/Neitan2001) | [Maria Abritta](https://github.com/MariaAbritta)
