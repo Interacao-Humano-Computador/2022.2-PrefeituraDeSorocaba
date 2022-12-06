@@ -181,7 +181,9 @@ Na tabela 1, No operador K, sua duração média está como "depende", pois cada
 </div>
 
 ##### Análise de tarefa: Consultar 2° via de IPTU
-
+<div style="text-align: justify">
+KLM (Keystroke-level model) é uma das técnicas de GOMS e tem o objetivo de prever quanto tempo um usuário levaria para desenvolver uma tarefa em uma rotina sem erros. Essa técnica tem um conjunto predefinido de operadores primitivos, sendo eles:
+</div>
 <br>
 <br>
 
@@ -218,6 +220,22 @@ Na tabela 1, No operador K, sua duração média está como "depende", pois cada
 <div style="text-align: center">
 <p>Fonte: Autoria própria. </p>
 </div>
+
+## CPM-GOMS
+<div style="text-align: justify">
+O CPM-GOMS foi assim designado por dois motivos: por representar operadores cognitivos, perceptivos e motores, e por seguir a abordagem de Critical Path Method (técnica de análise do caminho crítico).  CPM-GOMS é uma versão do GOMS baseada diretamente no processador humano de informações e, portanto, no modelo de estágios paralelos de processamento do processamento humano de informações. Isso significa que o CPM-GOMS não supõe que os operadores são executados sequencialmente. Em outras palavras, operadores cognitivos, perceptivos e motores podem ser tornar paralelos conforme a tarefa. O CPM-GOMS utiliza um diagrama tipo PERT para representar os operadores e as dependências entre eles. Nessa análise, o caminho crítico fornece uma previsão simples do tempo total da tarefa (Figura 1).
+<div>
+
+<div style="text-align: center">
+<p>Figura 1 - Exemplo de modelo CPM-GOMS </p>
+</div>
+
+![Exemplo de modelo CPM-GOMS](../../../media/goms/cpm-goms-exemplo.png)
+
+<div style="text-align: center">
+<p>Fonte: Capítulo 06 - Organização do Espaço de Problema – Livro IHC: Barbosa e SilvaArquivo. (Figura 6.3) </p>
+</div>
+
 
 ## Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
