@@ -134,30 +134,30 @@ Para a coleta de dados o grupo optou pela aplicação de um formulário online e
 <p>Tabela 2: Respostas dos entrevistados a pergunta: Encontrou as funcionalidades que esperava no site da Prefeitura de Sorocaba? Se não encontrou, quais foram elas? </p>
 </div>
 
-|                            Encontrou as funcionalidades que esperava no site da Prefeitura de Sorocaba? Se não encontrou, quais foram elas?                            |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------- |
-|                                                                                  Não                                                                                   |
+|                            Encontrou as funcionalidades que esperava no site da Prefeitura de Sorocaba?                             | Se não encontrou, quais foram elas? |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: |
+|                                                                                  Não                                                                                   | |
 |                                                   Só encontrei as notícias, faltou a parte dos locais importantes da                                                   | cidade.                                                          |
-|                                                                             Sim, encontrei                                                                             |
-|                                                           Não encontrei nada que tornasse o site acessível.                                                            |
+|                                                                             Sim, encontrei                                                                             | |
+|                                                           Não encontrei nada que tornasse o site acessível.                                                            | |
 |                                                  Não encontro sobre os eventos que irão acontecer mas encontrei a aba                                                  | notícias, porém demora muito a carregar essa aba!                |
-|                                                                  Não encontrei nenhuma acessibilidade                                                                  |
+|                                                                  Não encontrei nenhuma acessibilidade                                                                  | |
 |                                                  Não, o site tem trocentas abas e muitas coisas espalhadas que da até                                                  | confusão visual                                                  |
 |                                                   Encontrei, porém são apenas caminhos e mais caminhos para chegar a                                                   | uma questão específica, sendo praticamente um “caminho de rato”. |
-|                                                           Não, o site possui diversas coisas ao mesmo tempo                                                            |
-|                                                        Não. Agendamento para realização de documentos pessoais                                                         |
-|                                                                                  Sim                                                                                   |
-|                                                                          Internet mais rápida                                                                          |
-|                                                                             Não encontrei.                                                                             |
-|                                                                               Não todas.                                                                               |
-|                                                                             Em média sim.                                                                              |
-|                                               nao encontrei informações referentes a transparência nem futuros concursos                                               |
-|                                                               Não vi horários de funcionamento de locais                                                               |
-|                                                                             Em parte sim.                                                                              |
-|                                                                               Encontrei                                                                                |
-|                Não identifiquei de forma clara se no site possui a opção de registrar solicitação de serviços na sociedade e registrar irregularidades                 |
-|                                                                                  Sim                                                                                   |
-| O site não funciona. Ao clicar nas abas não somos direcionados para nenhum lugar, o site é pouco acessível (acessibilidade geral), em razão da sobreposição de imagens |
+|                                                           Não, o site possui diversas coisas ao mesmo tempo                                                            | |
+|                                                        Não. Agendamento para realização de documentos pessoais                                                         | |
+|                                                                                  Sim                                                                                   | |
+|                                                                          Internet mais rápida                                                                          | |
+|                                                                             Não encontrei.                                                                             | |
+|                                                                               Não todas.                                                                               | |
+|                                                                             Em média sim.                                                                              | |
+|                                               nao encontrei informações referentes a transparência nem futuros concursos                                               | |
+|                                                               Não vi horários de funcionamento de locais                                                               | |
+|                                                                             Em parte sim.                                                                              | |
+|                                                                               Encontrei                                                                                | |
+|                Não identifiquei de forma clara se no site possui a opção de registrar solicitação de serviços na sociedade e registrar irregularidades                 | |
+|                                                                                  Sim                                                                                   | |
+| O site não funciona. Ao clicar nas abas não somos direcionados para nenhum lugar, o site é pouco acessível (acessibilidade geral), em razão da sobreposição de imagens | |
 
 <div style="text-align: center">
 <p>Fonte: Autoria própria. </p>
