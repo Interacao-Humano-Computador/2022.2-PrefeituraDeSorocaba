@@ -221,6 +221,106 @@ KLM (Keystroke-level model) é uma das técnicas de GOMS e tem o objetivo de pre
 <p>Fonte: Autoria própria. </p>
 </div>
 
+<div style="text-align: justify">
+
+## Modelo CMN
+
+Se refere à proposta original de GOMS (Card et al., 1983), em que há uma hierarquia estrita de objetivos, onde os operadores são executadps estritamente em ordem sequencial e os métodos são representados numa notação semelhante a um pseudocódigo, que inclui submétodos e condicionais. Ao desenvolver um modelo GOMS, devemos definir cuidadosamente o que representar, o que não representar, o nivel de detalhamento em referência ao que se quer analizar e tarefas mentais que estejam relacionadas ao design do sistema devem ser incluídas no modelo (Kieras, 2001). O exemplo 1 demonstra, em lista, um modelo GOMS que será utilizado para fazer a análise neste artefato, obtido do livro da Simone. Lembrando que existe mais modelos GOMS para fazer análise de tarefas.
+<br>
+Exemplo 1 - Modelo GOMS
+<br>
+* GOAL 0: objetivo principal
+* GOAL 1: subobjetivo obtido da principal
+    *  METHOD 1.A: opção de método a ser seguido
+    * (SEL. RULE: a regra de seleção que deve ser satisfeita para se utilizar o método 1.A)
+    * METHOD 1.B: opção de método a ser seguido
+    * (SEL. RULE: a regra de seleção que deve ser satisfeita para se utilizar o método 1.B)
+* GOAL 2: subojetivo obtido da principal
+<br>
+
+Para exemplificar, no GOAL 0 é apresentado a tarefa que está sendo analisada, essa tarefa é o objetivo principal, desse objetivo principal é divido em vários outros subobjetivos, para poder separar o objetivo principal e assim adicionando os pedaços até chegar ao objetivo principal, concluindo a análise.
+ <br>
+###  Resultado da análise de tarefas do web site Prefeitura de Sorocaba com o CMN-GOMS
+Utilizando o modelo de exemplo apresentado no tópico anterior, foi feita a análise de três tarefas, sendo elas:
+1. Encontrar informações sobre doação de plaquetas em Sorocaba.
+2. Visualizar os sorteios realizados pelo “Nota da Bolada”.
+3. Encontrar informações sobre o Procon de Sorocaba. <br>
+
+Aplicando o modelo GOMS, temos:
+<br>
+
+**Tarefa 1**
+* GOAL 0: Encontrar o site da Prefeitura de Sorocaba
+* GOAL 1: Acessar o link “Doe Plaquetas!”
+    * METHOD 1.A: clicar com o botão esquerdo do mouse a frase/botão “Doe Plaquetas!”
+    * (SEL. RULE: O usuário conhece que tem um link na frase/botão)
+* GOAL 2: Acessar o link que surge no meio do site para a doação de plaquetas
+    * METHOD 2.A: clicar com o botão do mouse na frase “Clique aqui”
+    * (SEL. RULE: O usuário conhece que tem um link na frase “Clique aqui”)
+    * METHOD 2.B: clicar com o botão do mouse na frase “Doe Plaquetas”
+    * (SEL. RULE: O usuário conhece que tem um link na frase “Doe Plaquetas”)
+    * METHOD 2.C: clicar com o botão do mouse na imagem que contém a frase “A cada doação, a esperança se renova”
+    * (SEL. RULE: O usuário não conhece que tem um link na imagem que contém a frase “A cada doação, a esperança se renova”)
+* GOAL 3: Encontrar informações sobre a doação de plaquetas
+    * METHOD 3.A: clicar a seta para baixo no teclado
+    * (SEL. RULE: O usuário conhece a posição da tecla)
+    * METHOD 3.B: usar a barra de rolagem do site
+    * (SEL. RULE: O usuário sabe onde localiza a barra de rolagem)
+    * METHOD 3.C: usar o botão scroll do mouse
+    * (SEL. RULE: O usuário sabe o que é e como usar o botão)
+* GOAL 4: Clicar na imagem que obtém números e demais informações
+    * METHOD 4.A: clicar com o botão do mouse na imagem “3”
+    * (SEL. RULE: O usuário conhece que o 3 é um link)
+* GOAL 5: Encontra informações sobre doação de plaquetas em Sorocaba.
+
+<br>
+
+**Tarefa 2**
+* GOAL 0: Encontrar o site da Prefeitura de Sorocaba
+* GOAL 1: Acessar o link “Nota da Bolada”
+    * METHOD 1.A: clicar com o botão do mouse na frase/botão “Nota da Bolada”
+    * (SEL. RULE: O usuário conhece que tem um link na frase/botão “Nota da Bolada”)
+* GOAL 2: Acessar o link que surge no meio do site para a Nota da Bolada
+    * METHOD 2.A: clicar com o botão do mouse na frase “Clique aqui”
+    * (SEL. RULE: O usuário conhece que tem um link na frase “Clique aqui”)
+    * METHOD 2.B: clicar com o botão do mouse na frase “Nota da Bolada”
+    * (SEL. RULE: O usuário conhece que tem um link na frase “Nota da Bolada”)
+    * METHOD 2.C: clicar com o botão do mouse na imagem
+    * (SEL. RULE: O usuário não conhece que tem um link na imagem)
+* GOAL 3: Acessar o link “Sorteios”
+    * METHOD 3.A: clicar com o botão do mouse na frase “Sorteios”
+    * (SEL. RULE: O usuário conhece que tem um link na frase “Sorteios”)
+* GOAL 4: Encontrar informações sobre os sorteios
+    * METHOD 4.A: clicar a seta para baixo no teclado
+    * (SEL. RULE: O usuário conhece a posição da tecla)
+    * METHOD 4.B: usar a barra de rolagem do site
+    * (SEL. RULE: O usuário sabe onde localiza a barra de rolagem)
+    * METHOD 4.C: usar o botão scroll do mouse
+    * (SEL. RULE: O usuário sabe o que é e como usar o botão)
+* GOAL 5: Visualizar os sorteios realizados
+    * METHOD 5.A: clicar com o botão do mouse na frase/botão “Visualizar”
+    * (SEL. RULE: O usuário conhece que tem um link na frase/botão “Visualizar”)
+* GOAL 6: Visualiza os sorteios realizados pelo “Nota da Bolada''.
+
+<br>
+
+**Tarefa 3**
+* GOAL 0: Encontrar o site da Prefeitura de Sorocaba
+* GOAL 1: Acessar o link “Procon Sorocaba”
+    * METHOD 1.A: clicar com o botão esquerdo do mouse a frase/botão “Procon Sorocaba”
+    * (SEL. RULE: O usuário conhece que tem um link na frase/botão)
+* GOAL 2: Acessar o link que surge no meio do site para o Procon de Sorocaba
+    * METHOD 2.A: clicar com o botão do mouse na frase “Clique aqui”
+    * (SEL. RULE: O usuário conhece que tem um link na frase “Clique aqui”)
+    * METHOD 2.B: clicar com o botão do mouse na frase “Procon Sorocaba”
+    * (SEL. RULE: O usuário conhece que tem um link na frase “Doe Plaquetas”)
+    * METHOD 2.C: clicar com o botão do mouse na imagem
+    * (SEL. RULE: O usuário não conhece que tem um link na imagem)
+* GOAL 3: Acessar o link “Atendimento”
+    * METHOD 3.A: clicar com o botão do mouse na frase “Atendimento”
+    * (SEL. RULE: O usuário conhece que tem um link na frase “Atendimento”)
+*GOAL 4: Encontra informações sobre o Procon de Sorocaba.
+
 ## CPM-GOMS
 <div style="text-align: justify">
 O CPM-GOMS foi assim designado por dois motivos: por representar operadores cognitivos, perceptivos e motores, e por seguir a abordagem de Critical Path Method (técnica de análise do caminho crítico).  CPM-GOMS é uma versão do GOMS baseada diretamente no processador humano de informações e, portanto, no modelo de estágios paralelos de processamento do processamento humano de informações. Isso significa que o CPM-GOMS não supõe que os operadores são executados sequencialmente. Em outras palavras, operadores cognitivos, perceptivos e motores podem ser tornar paralelos conforme a tarefa. O CPM-GOMS utiliza um diagrama tipo PERT para representar os operadores e as dependências entre eles. Nessa análise, o caminho crítico fornece uma previsão simples do tempo total da tarefa (Figura 1).
