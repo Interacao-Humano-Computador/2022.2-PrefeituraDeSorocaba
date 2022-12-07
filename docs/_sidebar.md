@@ -25,6 +25,7 @@
   - **Etapa 2**
     - [Perfil de usuário](/pages/projeto/etapa2/perfil_usuario.md)
     - [Análise GOMS](/pages/projeto/etapa2/goms.md)
+    - [Personas](/pages/projeto/etapa2/personas.md)
 
 - **Apresentações**
   - [Apresentação 1](/pages/apresentacoes/apresentacao1.md)
