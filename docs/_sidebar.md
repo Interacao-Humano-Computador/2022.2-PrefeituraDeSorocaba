@@ -28,7 +28,10 @@
     - [Personas](/pages/projeto/etapa2/personas.md)
 
 - **Apresentações**
+
   - [Apresentação 1](/pages/apresentacoes/apresentacao1.md)
+  - [Apresentação 2](/pages/apresentacoes/apresentacao2.md)
+
 - **Reuniões**
   - [Atas](/pages/apresentacoes/atas.md)
   <!-- - [Gravações](/pages/apresentacoes/gravacoes_reunioes.md) -->
