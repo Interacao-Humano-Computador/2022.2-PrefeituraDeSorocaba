@@ -80,3 +80,10 @@ Além disso, uma adição para esta técnica é a criação de antipersonas que,
 <div style="text-align: center">
 <p>Fonte: Autoria própria. Imagem: [This Person Does Not Exist](https://thispersondoesnotexist.com/) </p>
 </div>
+
+## Tabela de Versionamento
+
+| Data | Versão | Descrição | Autor | Revisor |
+| ---- | ------ | --------- | ----- | ------- |
+| 03/12/2022 | `1.0`  | Criação da página e adição das análises| [Maria Abritta](https://github.com/MariaAbritta) | [Charles](https://github.com/charles-serafim)
+| 05/12/2022 | `1.1`  | Revisão e reajustes| [Charles](https://github.com/charles-serafim) | [Maria Abritta](https://github.com/MariaAbritta)

@@ -30,6 +30,7 @@
 
   - **Etapa 3**
     - [Guia de estilo](/pages/projeto/etapa3/guia_estilo.md)
+    - [Princípios Gerais e Diretrizes](/pages/projeto/etapa3/principiosGerais.md)
 
 - **Apresentações**
 
