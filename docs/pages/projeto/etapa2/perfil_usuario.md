@@ -134,30 +134,30 @@ Para a coleta de dados o grupo optou pela aplicação de um formulário online e
 <p>Tabela 2: Respostas dos entrevistados a pergunta: Encontrou as funcionalidades que esperava no site da Prefeitura de Sorocaba? Se não encontrou, quais foram elas? </p>
 </div>
 
-|                            Encontrou as funcionalidades que esperava no site da Prefeitura de Sorocaba?                             | Se não encontrou, quais foram elas? |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: |
-|                                                                                  Não                                                                                   | |
-|                                                   Só encontrei as notícias, faltou a parte dos locais importantes da                                                   | cidade.                                                          |
-|                                                                             Sim, encontrei                                                                             | |
-|                                                           Não encontrei nada que tornasse o site acessível.                                                            | |
-|                                                  Não encontro sobre os eventos que irão acontecer mas encontrei a aba                                                  | notícias, porém demora muito a carregar essa aba!                |
-|                                                                  Não encontrei nenhuma acessibilidade                                                                  | |
-|                                                  Não, o site tem trocentas abas e muitas coisas espalhadas que da até                                                  | confusão visual                                                  |
+|                                              Encontrou as funcionalidades que esperava no site da Prefeitura de Sorocaba?                                              |               Se não encontrou, quais foram elas?                |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------: |
+|                                                                                  Não                                                                                   |                                                                  |
+|                                                   Só encontrei as notícias, faltou a parte dos locais importantes da                                                   |                             cidade.                              |
+|                                                                             Sim, encontrei                                                                             |                                                                  |
+|                                                           Não encontrei nada que tornasse o site acessível.                                                            |                                                                  |
+|                                                  Não encontro sobre os eventos que irão acontecer mas encontrei a aba                                                  |        notícias, porém demora muito a carregar essa aba!         |
+|                                                                  Não encontrei nenhuma acessibilidade                                                                  |                                                                  |
+|                                                  Não, o site tem trocentas abas e muitas coisas espalhadas que da até                                                  |                         confusão visual                          |
 |                                                   Encontrei, porém são apenas caminhos e mais caminhos para chegar a                                                   | uma questão específica, sendo praticamente um “caminho de rato”. |
-|                                                           Não, o site possui diversas coisas ao mesmo tempo                                                            | |
-|                                                        Não. Agendamento para realização de documentos pessoais                                                         | |
-|                                                                                  Sim                                                                                   | |
-|                                                                          Internet mais rápida                                                                          | |
-|                                                                             Não encontrei.                                                                             | |
-|                                                                               Não todas.                                                                               | |
-|                                                                             Em média sim.                                                                              | |
-|                                               nao encontrei informações referentes a transparência nem futuros concursos                                               | |
-|                                                               Não vi horários de funcionamento de locais                                                               | |
-|                                                                             Em parte sim.                                                                              | |
-|                                                                               Encontrei                                                                                | |
-|                Não identifiquei de forma clara se no site possui a opção de registrar solicitação de serviços na sociedade e registrar irregularidades                 | |
-|                                                                                  Sim                                                                                   | |
-| O site não funciona. Ao clicar nas abas não somos direcionados para nenhum lugar, o site é pouco acessível (acessibilidade geral), em razão da sobreposição de imagens | |
+|                                                           Não, o site possui diversas coisas ao mesmo tempo                                                            |                                                                  |
+|                                                        Não. Agendamento para realização de documentos pessoais                                                         |                                                                  |
+|                                                                                  Sim                                                                                   |                                                                  |
+|                                                                          Internet mais rápida                                                                          |                                                                  |
+|                                                                             Não encontrei.                                                                             |                                                                  |
+|                                                                               Não todas.                                                                               |                                                                  |
+|                                                                             Em média sim.                                                                              |                                                                  |
+|                                               nao encontrei informações referentes a transparência nem futuros concursos                                               |                                                                  |
+|                                                               Não vi horários de funcionamento de locais                                                               |                                                                  |
+|                                                                             Em parte sim.                                                                              |                                                                  |
+|                                                                               Encontrei                                                                                |                                                                  |
+|                Não identifiquei de forma clara se no site possui a opção de registrar solicitação de serviços na sociedade e registrar irregularidades                 |                                                                  |
+|                                                                                  Sim                                                                                   |                                                                  |
+| O site não funciona. Ao clicar nas abas não somos direcionados para nenhum lugar, o site é pouco acessível (acessibilidade geral), em razão da sobreposição de imagens |                                                                  |
 
 <div style="text-align: center">
 <p>Fonte: Autoria própria. </p>
@@ -180,24 +180,24 @@ Após a coleta dos dados foi feita uma análise dos mesmos e a separação deles
 
 ### Perfil 1
 
-**1. Idade:** Entre 21 e 30 anos
-**2. Experiência:** Superior Completo
-**3. Atitudes:** Calmo e inteligente
-**4. Tarefas primárias:** Acesso do site buscando acessibilidade
+- **1. Idade:** Entre 21 e 30 anos
+- **2. Experiência:** Superior Completo
+- **3. Atitudes:** Calmo e inteligente
+- **4. Tarefas primárias:** Acesso do site buscando acessibilidade
 
 ### Perfil 2
 
-**1. Idade:** Entre 21 e 30 anos
-**2. Experiência:** Superior Completo
-**3. Atitudes:** Rígido e determinado
-**4. Tarefas primárias:** Acesso das notícias
+- **1. Idade:** Entre 21 e 30 anos
+- **2. Experiência:** Superior Completo
+- **3. Atitudes:** Rígido e determinado
+- **4. Tarefas primárias:** Acesso das notícias
 
 ### Perfil 3
 
-**1. Idade:** Menos de 20 anos
-**2. Experiência:** Superior Inompleto
-**3. Atitudes:** Agitado e curioso
-**4. Tarefas primárias:** Acesso do site buscando um ambiente dinâmico e fácil de utilizar
+- **1. Idade:** Menos de 20 anos
+- **2. Experiência:** Superior Inompleto
+- **3. Atitudes:** Agitado e curioso
+- **4. Tarefas primárias:** Acesso do site buscando um ambiente dinâmico e fácil de utilizar
 
 ## Referências Bibliográficas
 
@@ -209,5 +209,5 @@ Após a coleta dos dados foi feita uma análise dos mesmos e a separação deles
 | :--------: | :----: | :------------------------------: | :---------------------------------------------: | :---------------------------------------------: |
 | 30/11/2022 | `1.0`  |       Criação do documento       | [Pablo S. Costa](https://github.com/pabloheika) |        [Luan](https://github.com/Luanmq)        |
 | 01/12/2022 | `1.1`  |      Criação da Introdução       |        [Luan](https://github.com/Luanmq)        | [Pablo S. Costa](https://github.com/pabloheika) |
-| 01/12/2022 | `1.2`  | Adição de imagens |        [Lucas Gomes](https://github.com/lucasgacaldas)        | [Pablo S. Costa](https://github.com/pabloheika) |
+| 01/12/2022 | `1.2`  |        Adição de imagens         | [Lucas Gomes](https://github.com/lucasgacaldas) | [Pablo S. Costa](https://github.com/pabloheika) |
 | 01/12/2022 | `1.3`  | Criação dos perfis e Referências |        [Luan](https://github.com/Luanmq)        | [Pablo S. Costa](https://github.com/pabloheika) |
