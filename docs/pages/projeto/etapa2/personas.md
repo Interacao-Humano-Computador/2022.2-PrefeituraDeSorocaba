@@ -81,6 +81,15 @@ Além disso, uma adição para esta técnica é a criação de antipersonas que,
 <p>Fonte: Autoria própria. Imagem: [This Person Does Not Exist](https://thispersondoesnotexist.com/) </p>
 </div>
 
+## Bibliografia
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
+
+> Card, Stuart K., Newell, Allen, e Moran, Thomas P. (1983). The Psychology of Human-Computer
+Interaction. L. Erlbaum Associates Inc., USA.
+
+> John, Bonnie E. (2003). Information processing and skilled behavior. In HCI models, theories, and
+frameworks: Toward a multidisciplinary science, pages 55–101. Morgan Kaufman
+
 ## Tabela de Versionamento
 
 | Data | Versão | Descrição | Autor | Revisor |

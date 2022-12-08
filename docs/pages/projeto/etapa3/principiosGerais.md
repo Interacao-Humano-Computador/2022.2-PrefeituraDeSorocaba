@@ -151,6 +151,22 @@ No caso da Prefeitura de Sorocaba, percebemos que há uma série de recomendaç�
 ## 4. Conclusão
 Com isso, podemos perceber que logo de imediato conseguimos identificar elementos no site que não estão condizentes com os princípios e diretrizes do nosso projeto, e com base nas informações coletadas iremos dar continuidade ao trabalho visando melhorias não apenas nos pontos ressaltados e sim no site como um todo, levando sempre em consideração nossos princípios e diretrizes gerais durante este processo.
 
+## Bibliografia
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
+
+> Card, Stuart K., Newell, Allen, e Moran, Thomas P. (1983). The Psychology of Human-Computer
+Interaction. L. Erlbaum Associates Inc., USA.
+
+> John, Bonnie E. (2003). Information processing and skilled behavior. In HCI models, theories, and
+frameworks: Toward a multidisciplinary science, pages 55–101. Morgan Kaufman
+
+## Tabela de Versionamento
+
+| Data | Versão | Descrição | Autor | Revisor |
+| ---- | ------ | --------- | ----- | ------- |
+| 08/12/2022 | `1.0`  | Criação da página e adição da pesquisa| [Maria Abritta](https://github.com/MariaAbritta) |[Lucas Gomes](https://github.com/Neitan2001) 
+
+
 
 
 
