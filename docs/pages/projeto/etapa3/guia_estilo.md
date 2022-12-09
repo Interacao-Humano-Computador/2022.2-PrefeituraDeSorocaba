@@ -66,7 +66,15 @@ Porém as funcionalidades estão apenas alocadas nesse espaço sem nenhum contex
 
 ## Elementos de interface
 
-Luan
+Uma das partes importantes do Guia de estilo são os elementos de interface. Esses elementos são responsáveis por compor as interfaces gráficas que os usuários terão contato durante o uso do sistema. Segue abaixo cada um dos elementos trabalhados nesse tópico:
+
+### Disposição espacial e Grid
+
+### Janelas
+
+### Tipografia
+
+### Cores
 
 ## Elementos de interação
 
