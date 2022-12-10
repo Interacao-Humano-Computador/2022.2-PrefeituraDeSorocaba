@@ -142,7 +142,49 @@ Por último foi escolhida a cor cinza. Uma cor neutra característica de ambient
 
 ## Elementos de ação
 
-Luan
+Os elementos de ação são os componentes nos quais o usuário desempenha alguma ação, seja selecionando ou inserindo algum dado. Segue abaixo os principais elementos separados pelo grupo e os seus modelos fixos que devem ser adotados para reprodução no design das interfaces, de acordo com o contexto da ação a ser desempenhada.
+
+### Botão
+
+<div style="text-align: center">
+<p>Figura 1: Modelos de botões. </p>
+</div>
+<center>
+
+![Modelos de botões](../../../media/guia_estilo/Botao.png)
+
+</center>
+<div style="text-align: center">
+<p>Fonte: Autoria própria, 2022. </p>
+</div>
+
+### Input
+
+<div style="text-align: center">
+<p>Figura 1: Modelos de inputs. </p>
+</div>
+<center>
+
+![Modelos de inputs](../../../media/guia_estilo/Input.png)
+
+</center>
+<div style="text-align: center">
+<p>Fonte: Autoria própria, 2022. </p>
+</div>
+
+### Checkbox
+
+<div style="text-align: center">
+<p>Figura 1: Modelos de checkbox. </p>
+</div>
+<center>
+
+![Modelos de checkbox](../../../media/guia_estilo/Checkbox.png)
+
+</center>
+<div style="text-align: center">
+<p>Fonte: Autoria própria, 2022. </p>
+</div>
 
 ## Vocabulários e padrões
 
