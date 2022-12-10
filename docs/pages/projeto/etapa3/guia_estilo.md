@@ -2,6 +2,26 @@
 
 ## Introdução
 
+### Objetivo
+
+O Guia de estilo tem como objetivo registrar as principais decisões de design tomadas, sendo ferramenta de comunicação entre os membros da equipe de design e também com a equipe de desenvolvimento. Um guia de estilo deve incorporar decisões de design envolvendo os principais elementos e considerações de design de interface. No caso, a análise é aplicada ao site da Prefeitura de Sorocaba.
+
+### Organização e conteúdo do guia de estilo
+
+A organização e conteúdos desse guia de estilo seguem a estrutura definida pelo livro Interação Humano Computador da autora Simone Barbosa.
+
+### Público-alvo do guia de estilos
+
+O público-alvo desse guia de estilo são os alunos do grupo 04 da dasciplina Interação Humano-Computador.
+
+### Como utilizar o guia (em produção e manutenção)
+
+O guia de estilo é uma ferramenta que guiará a confecção dos protótipos de baixa e alta fidelidade.
+
+### Como manter o guia
+
+Deve-se atualizar o guia de estilos a cada modificação que for definida diante do surgimento de novas ideias, para que seja a principal base para artefatos de prototipação.
+
 ## Análise do ambiente de trabalho
 
 Antes da realização do Guia de estilo em si é importante entender o contexto de trabalho do usuário para saber quais elementos devem ser trabalhados, assim foi feita uma análise dos principais recursos que o usuário tem acesso dentro do site, chegando em 3 componentes para serem analisados. Segue abaixo uma imagem da tela inicial do site com marcações indicando os 3 elementos que serão analisados:
@@ -21,7 +41,7 @@ Antes da realização do Guia de estilo em si é importante entender o contexto 
 ### 1. Menu superior de navegação
 
 <div style="text-align: center">
-<p>Figura 1: Menu superior de navegação. </p>
+<p>Figura 2: Menu superior de navegação. </p>
 </div>
 <center>
 
@@ -37,7 +57,7 @@ O primeiro elemento que se trata de um menu de navegação bastante comum em out
 ### 2. Menu de navegação do carrossel
 
 <div style="text-align: center">
-<p>Figura 1: Menu de navegação do carrossel. </p>
+<p>Figura 3: Menu de navegação do carrossel. </p>
 </div>
 <center>
 
@@ -57,7 +77,7 @@ Outro ponto negativo é a falta de constraste entre as cores trazendo dificuldad
 ### 3. Menu de funcionalidades
 
 <div style="text-align: center">
-<p>Figura 1: Menu de funcionalidades. </p>
+<p>Figura 4: Menu de funcionalidades. </p>
 </div>
 <center>
 
@@ -81,7 +101,7 @@ Uma das partes importantes do Guia de estilo são os elementos de interface. Ess
 Foram consideradas pelo grupo as janelas sendo todo o espaço que contempla a interface de uma das páginas do site. Para garantir a padronização dos diferentes ambientes do site foi pensado em um modelo simples e escalável para orientar os designers no momento de pensar uma interface para o sistema. O modelo feito pelo grupo contém 3 elementos ilustrados abaixo:
 
 <div style="text-align: center">
-<p>Figura 1: Modelo de janelas utilizadas no sistema. </p>
+<p>Figura 5: Modelo de janelas utilizadas no sistema. </p>
 </div>
 <center>
 
@@ -99,7 +119,7 @@ A Tipografia é a área no design gráfico que trabalha o desenho de letras para
 A tipografia escolhida foi a fonte Latos. A escolha da fonte foi pensada por já ser utilizada no sistema atualmente e por ter uma boa leitura, além de ser uma fonte sem serifa trazendo mais modernidade para o site. Segue abaixo uma ilustração mostrando os diferentes pesos, contextos e suas aplicações da fonte escolhida:
 
 <div style="text-align: center">
-<p>Figura 1: Tipografias utilizadas no sistema. </p>
+<p>Figura 6: Tipografias utilizadas no sistema. </p>
 </div>
 <center>
 
@@ -115,7 +135,7 @@ A tipografia escolhida foi a fonte Latos. A escolha da fonte foi pensada por já
 As cores são um elemento essencial no guia de estilo e são responsáveis por grande parte da mensagem comunicada pela interface ao usuário. Para a escolha das cores foi pensada em uma paleta minimalista focando em apenas 3 cores, com suas respectivas variações para garantir a adaptação em diferentes contextos do sistema. Segue abaixo a ilustração mostrando cada uma das cores definidas:
 
 <div style="text-align: center">
-<p>Figura 1: Cores utilizadas no sistema. </p>
+<p>Figura 7: Cores utilizadas no sistema. </p>
 </div>
 <center>
 
@@ -140,6 +160,28 @@ Por último foi escolhida a cor cinza. Uma cor neutra característica de ambient
 
 ## Elementos de interação
 
+### Estilos de interação 
+
+As interações com o usuário no sitema searão por meio de ícones, botões e formulários.
+
+### Seleção de um estilo 
+
+Seguiremos utilizando ícones, botões e formulários.
+
+### Aceleradores (teclas de atalho)
+
+Serão utilizadas teclas de atalho do sistema, sendo elas, atalhos para as abas mais acessadas, entre elas, as abas de governo, diretrizes, cartas de serviços, legislação e notícias e a barra de pesquisa.
+
+<div style="text-align: center">
+<p>Figura 8: Página inicial do site com a barra de menu e barra de pesquisar </p>
+</div>
+
+![Página inicial do site com a barra de menu e barra de pesquisar](../../../media/guia_estilo/menu_barra_superior.png)
+
+<div style="text-align: center">
+<p>Fonte: Autoria própria, 2022. </p>
+</div>
+
 ## Elementos de ação
 
 Os elementos de ação são os componentes nos quais o usuário desempenha alguma ação, seja selecionando ou inserindo algum dado. Segue abaixo os principais elementos separados pelo grupo e os seus modelos fixos que devem ser adotados para reprodução no design das interfaces, de acordo com o contexto da ação a ser desempenhada.
@@ -147,7 +189,7 @@ Os elementos de ação são os componentes nos quais o usuário desempenha algum
 ### Botão
 
 <div style="text-align: center">
-<p>Figura 1: Modelos de botões. </p>
+<p>Figura 9: Modelos de botões. </p>
 </div>
 <center>
 
@@ -161,7 +203,7 @@ Os elementos de ação são os componentes nos quais o usuário desempenha algum
 ### Input
 
 <div style="text-align: center">
-<p>Figura 1: Modelos de inputs. </p>
+<p>Figura 10: Modelos de inputs. </p>
 </div>
 <center>
 
@@ -175,7 +217,7 @@ Os elementos de ação são os componentes nos quais o usuário desempenha algum
 ### Checkbox
 
 <div style="text-align: center">
-<p>Figura 1: Modelos de checkbox. </p>
+<p>Figura 11: Modelos de checkbox. </p>
 </div>
 <center>
 
@@ -187,6 +229,38 @@ Os elementos de ação são os componentes nos quais o usuário desempenha algum
 </div>
 
 ## Vocabulários e padrões
+
+### Terminologia 
+
+Por ser destinado ao público geral, a terminologia utilizada no site é simples, com excessão em algumas telas como Legislação, Fiscalização Tributária, ITBI, que podem requerer um conhecimento mais específicos de nomenclaturas.
+
+### Tipos de tela (para tarefas comuns) 
+
+Os protótipos de alta e baixa fidelidade devem seguir o guia de estilo e possuir as seguintes telas, mas seguindo todas os mesmos padroes de design:
+
+- **IPTU:** Essa tela apresenta as opções para Segunda via, Parcelamento, Requerimentos, Consulta de prazos, Planta Genérica de Valores, Solicitação de Desconto do IPTU, Relação de imóveis com desconto de 15%.
+
+- **Empresas:** Essa tela apresenta as opções para Acesso à Informação, Moradores, Empresas e Finançasde 15%.
+
+- **Concursos:** Essa tela apresenta diversas pastas com os diversos concursos que ja hocorreram ou estão em aberto. Cada pasta possui outras pastas com mais informações e editais.
+
+- **Notícias:** O site principal leva para outro site específico para notícias com diversas opções, como Videos, Fotos, Jornal Municipal, e algumas notícias sobre sobre temas específicos, como Habitação, Saae, Transporte, Cidadania.
+
+### Sequências de diálogos (e.g., para feedback ou confirmação de uma operação)
+
+Em telas como a de Segunda via de IPTU, em que necessitam que o usuário preencha alguns campos para conssultar alguma coisa, apresentam algum tipo de diálogo com o usuário, como pode ser visto na figura a seguir.
+
+<div style="text-align: center">
+<p>Figura 12: Exemplo de diálogo. </p>
+</div>
+<center>
+
+![Exemplo de diálogo](../../../media/guia_estilo/dialogo.png)
+
+</center>
+<div style="text-align: center">
+<p>Fonte: Autoria própria, 2022. </p>
+</div>
 
 ## Referências Bibliográficas
 
@@ -200,4 +274,5 @@ BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-com
 
 |    Data    | Versão |      Descrição       |               Autor               |                    Revisor                     |
 | :--------: | :----: | :------------------: | :-------------------------------: | :--------------------------------------------: |
-| 21/11/2022 | `1.0`  | Criação do documento | [Luan](https://github.com/Luanmq) | [Lucas Gomes](https://github.com/lucasgcaldas) |
+| 08/12/2022 | `1.0`  | Criação do documento | [Luan](https://github.com/Luanmq) | [Lucas Gomes](https://github.com/lucasgcaldas) |
+| 10/12/2022 | `1.1`  | Adição da Introdução, Elementos de interação e Vocabulários e padrões | [Lucas Gomes](https://github.com/lucasgcaldas) | [Luan](https://github.com/Luanmq) |
