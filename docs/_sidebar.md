@@ -27,6 +27,7 @@
     - [Perfil de usuário](/pages/projeto/etapa2/perfil_usuario.md)
     - [Análise GOMS](/pages/projeto/etapa2/goms.md)
     - [Personas](/pages/projeto/etapa2/personas.md)
+    - [Aspectos Éticos](/pages/projeto/etapa2/aspectos_eticos.md)
 
   - **Etapa 3**
     - [Guia de estilo](/pages/projeto/etapa3/guia_estilo.md)
