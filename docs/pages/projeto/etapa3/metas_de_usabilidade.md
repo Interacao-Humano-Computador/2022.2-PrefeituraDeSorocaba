@@ -48,19 +48,19 @@ O site exibe e permite a consulta das informações, bem como seu filtro. Porém
 
 ### Segurança
 
-
+O site cumpre com o básico de segurança, porém ainda possui falhas, uma vez conta com a barra de menu fixa para somente algumas telas e muitas vezes não há, recursos para que o usuário desfaça o que fez, tendo que por vezes recorrer a recursos do navegador para transitar entre telas, limpar campos.
 
 ### Utilidade
 
-
+O site cumpre os objetivos principais que todos os cidadãos precisam encontrar na Prefeitura de Sorocaba, como Legislação, IPTU, Notícias, cadastro MEI.
 
 ### Aprendizagem
 
-
+O site não é tão simples de se aprender, uma vez que não possui padrão de design e interface em todas as telas, ficando comprometida a aprendizagem do usuário.
 
 ### Memorização
 
-
+O site não possui fácil memorização, uma vez que algumas telas levam para outros sites da cidade com outros padrões diferentes e até mesmo as telas do próprio site, que em cada uma, a organização dos conteúdo são diferentes. Assim, o usuário pode ficar perdido e pode haver maior dificuldade de recordação a respeito de onde os conteúdos estão. 
 
 ## Referências Bibliográficas
 
@@ -75,3 +75,4 @@ BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-com
 |    Data    | Versão |      Descrição       |               Autor               |                    Revisor                     |
 | :--------: | :----: | :------------------: | :-------------------------------: | :--------------------------------------------: |
 | 10/12/2022 | `1.0`  | Criação do documento e análise de Eficácia e Eficiência | [Lucas Gomes](https://github.com/lucasgcaldas) | [Maria Abritta](https://github.com/MariaAbritta) 
+| 12/12/2022 | `1.1`  | Adicionando análise de Segurança, Utilidade, Aprendizagem e Memorização | [Lucas Gomes](https://github.com/lucasgcaldas) | [Maria Abritta](https://github.com/MariaAbritta) 
