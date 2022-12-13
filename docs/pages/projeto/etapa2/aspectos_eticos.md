@@ -86,11 +86,11 @@ Caso o participante seja menor de idade, é necessária a permissão do seu resp
 
 ## Referências Bibliográficas
 
-ACM Code of Ethics and Professional Conduct. [S. l.], 2018. Disponível em: <https://www.acm.org/code-of-ethics>. Acesso em: 10 dez. 2022.
+> ACM Code of Ethics and Professional Conduct. [S. l.], 2018. Disponível em: <https://www.acm.org/code-of-ethics>. Acesso em: 10 dez. 2022.
 
-IEEE Code of Ethics. [S. l.], 2022. Disponível em: <https://www.ieee.org/about/corporate/governance/p7-8.html>. Acesso em: 10 dez. 2022.
+> IEEE Code of Ethics. [S. l.], 2022. Disponível em: <https://www.ieee.org/about/corporate/governance/p7-8.html>. Acesso em: 10 dez. 2022.
 
-Interação humano-computador e experiência do usuário [livro eletrônico] / Simone Diniz Junqueira Barbosa ... [et al.]. -- 1. ed. -- Rio de Janeiro : Simone Diniz Junqueira Barbosa, 2021.
+> Interação humano-computador e experiência do usuário [livro eletrônico] / Simone Diniz Junqueira Barbosa ... [et al.]. -- 1. ed. -- Rio de Janeiro : Simone Diniz Junqueira Barbosa, 2021.
 
 
 ## Tabela de Versionamento

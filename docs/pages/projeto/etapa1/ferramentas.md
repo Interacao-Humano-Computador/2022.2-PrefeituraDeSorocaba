@@ -18,7 +18,7 @@ Abaixo, na Tabela 1, segue uma lista das ferramentas utilizadas até o momento p
 
 ## Referências Bibliográficas
 
-2020.1-BCE - Wiki. Disponível em: <<https://interacao-humano-computador.github.io/2020.1-BCE/#/>>. Acesso em: 21 de novembro de 2022.
+> 2020.1-BCE - Wiki. Disponível em: <<https://interacao-humano-computador.github.io/2020.1-BCE/#/>>. Acesso em: 21 de novembro de 2022.
 
 ## Histórico de versões
 

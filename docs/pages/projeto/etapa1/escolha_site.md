@@ -26,7 +26,7 @@ Desse modo, conseguimos perceber alguns problemas que poderão afetar a usabilid
 
 ## Referências Bibliográficas
 
-BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010.
+> BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010.
 
 ## Tabela de Versionamento
 

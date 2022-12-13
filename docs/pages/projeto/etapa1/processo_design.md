@@ -76,7 +76,7 @@ Para o desenvolvimento do trabalho, utilizaremos o modelo da Engenharia de Usabi
 
 ## Referências Bibliográficas
 
-BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010.
+> BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010.
 
 ## Tabela de Versionamento
 
