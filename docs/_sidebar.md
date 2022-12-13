@@ -27,10 +27,12 @@
     - [Perfil de usuário](/pages/projeto/etapa2/perfil_usuario.md)
     - [Análise GOMS](/pages/projeto/etapa2/goms.md)
     - [Personas](/pages/projeto/etapa2/personas.md)
+    - [Aspectos Éticos](/pages/projeto/etapa2/aspectos_eticos.md)
 
   - **Etapa 3**
     - [Guia de estilo](/pages/projeto/etapa3/guia_estilo.md)
-    - [Princípios Gerais e Diretrizes](/pages/projeto/etapa3/principiosGerais.md)
+    - [Princípios Gerais e Diretrizes](/pages/projeto/etapa3/principios_gerais.md)
+    - [Metas de Usabilidade](/pages/projeto/etapa3/metas_de_usabilidade.md)
 
 - **Apresentações**
 

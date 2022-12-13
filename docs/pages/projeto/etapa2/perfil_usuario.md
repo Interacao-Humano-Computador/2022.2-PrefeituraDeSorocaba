@@ -201,6 +201,8 @@ Após a coleta dos dados foi feita uma análise dos mesmos e a separação deles
 
 ## Referências Bibliográficas
 
+BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010.
+
 2020.1-BCE - Wiki. Disponível em: <<https://interacao-humano-computador.github.io/2020.1-BCE/#/>>. Acesso em: 01 de dezembro de 2022.
 
 ## Tabela de Versionamento
