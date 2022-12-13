@@ -64,15 +64,12 @@ O site não possui fácil memorização, uma vez que algumas telas levam para ou
 
 ## Referências Bibliográficas
 
-> ABNT | Referências Bibliográficas. [S. l.], [entre 2015 e 2022]. Disponível em: <https://referenciabibliografica.net/a/pt-br/ref/abnt>. Acesso em: 25 nov. 2022.
-
-> Dicas para seu TCC: veja como fazer referência ABNT. [S. l], 2020. Disponível em: <https://ead.urcamp.edu.br/blog/dicas-tcc-referencia-abnt>. Acesso em: 25 nov. 2022.
-
 > BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010.
 
 ## Tabela de Versionamento
 
 |    Data    | Versão |      Descrição       |               Autor               |                    Revisor                     |
 | :--------: | :----: | :------------------: | :-------------------------------: | :--------------------------------------------: |
-| 10/12/2022 | `1.0`  | Criação do documento e análise de Eficácia e Eficiência | [Lucas Gomes](https://github.com/lucasgcaldas) | [Maria Abritta](https://github.com/MariaAbritta) 
-| 12/12/2022 | `1.1`  | Adicionando análise de Segurança, Utilidade, Aprendizagem e Memorização | [Lucas Gomes](https://github.com/lucasgcaldas) | [Maria Abritta](https://github.com/MariaAbritta) 
+| 10/12/2022 | `1.0`  | Criação do documento e análise de Eficácia e Eficiência | [Lucas Gomes](https://github.com/lucasgcaldas) | [Maria Abritta](https://github.com/MariaAbritta) |
+| 12/12/2022 | `1.1`  | Adicionando análise de Segurança, Utilidade, Aprendizagem e Memorização | [Lucas Gomes](https://github.com/lucasgcaldas) | [Maria Abritta](https://github.com/MariaAbritta) |
+| 13/12/2022 | `1.2`  | Ajuste bibliográfico | [Pablo](https://github.com/pabloheika) | [Lucas Gomes](https://github.com/lucasgcaldas)|

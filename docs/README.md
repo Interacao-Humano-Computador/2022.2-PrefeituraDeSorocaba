@@ -1,6 +1,6 @@
 <h1 style="margin:0; padding:0">Sobre</h1>
 
-<img style="margin:0; padding:0; width:100%" src="../docs/media/readme/linha.png" alt="linha vemelha e amarela">
+<img style="margin:0; padding:0; width:100%" src="https://interacao-humano-computador.github.io/2022.2-PrefeituraDeSorocaba/media/readme/linha.png" alt="linha vemelha e amarela">
 
 Este repositório em página foi criado para facilitar a organização dos materiais e documentos utilizados na matéria Interação Humano Computador da Univerdidade de Brasília.
 
@@ -10,7 +10,7 @@ O site escolhido para avaliação pelo grupo foi o da [Prefeitura de Sorocaba](h
 
 <h1 style="margin:0; padding:0">Colaboradores</h1>
 
-<img style="margin:0; padding:0" src="../docs/media/readme/linha.png" alt="linha vemelha e amarela">
+<img style="margin:0; padding:0" src="https://interacao-humano-computador.github.io/2022.2-PrefeituraDeSorocaba/media/readme/linha.png" alt="linha vemelha e amarela">
 
 <!-- Lembrar de colocar as pessoas em ordem alfabética -->
 <table align="center">
@@ -40,7 +40,7 @@ O site escolhido para avaliação pelo grupo foi o da [Prefeitura de Sorocaba](h
 
 <h1 style="margin:0; padding:0">Cronograma Executado</h1>
 
-<img style="margin:0; padding:0" src="../docs/media/readme/linha.png" alt="linha vemelha e amarela">
+<img style="margin:0; padding:0" src="https://interacao-humano-computador.github.io/2022.2-PrefeituraDeSorocaba/media/readme/linha.png" alt="linha vemelha e amarela">
 
 Abaixo segue o cronograma relatando a execução das atividades de cada etapa do projeto por cada integrante do grupo:
 
