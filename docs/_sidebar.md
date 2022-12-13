@@ -1,6 +1,4 @@
 - [**Home**](README.md)
-- [**Objetivos**](pages/objetivo.md)
-- [**Equipe**](/pages/equipe)
 - **Projeto**
 
   - **Etapa 1**
