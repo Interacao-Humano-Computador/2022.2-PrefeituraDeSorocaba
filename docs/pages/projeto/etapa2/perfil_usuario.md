@@ -209,7 +209,8 @@ Após a coleta dos dados foi feita uma análise dos mesmos e a separação deles
 
 |    Data    | Versão |            Descrição             |                      Autor                      |                     Revisor                     |
 | :--------: | :----: | :------------------------------: | :---------------------------------------------: | :---------------------------------------------: |
-| 30/11/2022 | `1.0`  |       Criação do documento       | [Pablo S. Costa](https://github.com/pabloheika) |        [Luan](https://github.com/Luanmq)        |
+| 30/11/2022 | `1.0`  |       Criação do documento, adiciona graficos tratados.     | [Pablo S. Costa](https://github.com/pabloheika) |        [Luan](https://github.com/Luanmq)        |
 | 01/12/2022 | `1.1`  |      Criação da Introdução       |        [Luan](https://github.com/Luanmq)        | [Pablo S. Costa](https://github.com/pabloheika) |
 | 01/12/2022 | `1.2`  |        Adição de imagens         | [Lucas Gomes](https://github.com/lucasgacaldas) | [Pablo S. Costa](https://github.com/pabloheika) |
 | 01/12/2022 | `1.3`  | Criação dos perfis e Referências |        [Luan](https://github.com/Luanmq)        | [Pablo S. Costa](https://github.com/pabloheika) |
+| 01/12/2022 | `1.2`  | Adiciona dados das entrevistas em tabelas e graficos |       [Pablo S. Costa](https://github.com/pabloheika)       |   [Luan](https://github.com/Luanmq) |
