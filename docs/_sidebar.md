@@ -38,7 +38,7 @@
 
   - [Apresentação 1](/pages/apresentacoes/apresentacao1.md)
   - [Apresentação 2](/pages/apresentacoes/apresentacao2.md)
-  - [Apresentação 3](/pages/apresentacoes/apresentacao2.md)
+  - [Apresentação 3](/pages/apresentacoes/apresentacao3.md)
 
 - **Reuniões**
   - [Atas](/pages/apresentacoes/atas.md)
