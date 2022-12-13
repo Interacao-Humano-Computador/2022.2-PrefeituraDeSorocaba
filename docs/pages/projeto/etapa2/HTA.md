@@ -8,15 +8,27 @@ Neste documento faremos uma Análise Hierárquica de Tarefas (sigla em inglês H
 
 ## Metodologia
 
+A Análise Hierárquica de Tarefas (ATS) foi desenvolvida na decada de 1960 e foi originalmente proposta para identificar necessidades de treinamento. Teve como objetivo compreender as incompetências e aptidões associadas a tarefas complexos e geralmente não repetitivas e identificar problemas de desempenho. Nesses casos, após a identificação, seria possível pensar em treinamentos adequados para melhorar a eficiência na execução de tais atividades. A ideia básica desta análise é relacionar o que as pessoas fazem (tarefas), por que o fazem, e as consequências se não o efectivar correctamente. O ponto de partida para esta análise são os objetivos do usuário. A partir do objetivo as principais tarefas relacionadas à consecução desse objetivo são diferentes.
+
+O formato utilizado para a tarefa de demonstração será a notação textual e gráfica proposta por (Preece, Rogers e Sharp, 2005). Na notação de texto, os itens zero representam objetivos, os itens subsequentes representam tarefas e seus filhos representam subtarefas. Na notação gráfica, retângulos representam tarefas, linhas representam relações hierárquicas entre elas e planos representam relações entre hierarquias.
+
+## Análises
+
+### Representação textual
+
+### Representação gráfica
+
 <div style="text-align: center">
+<p>Figura 1: Exemplo. </p>
 
 ```mermaid
 graph TD
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
+A[Hard] -->|Text| B[Round]
+B --> C[Decision]
 C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
 ```
+<p>Fonte: Autoria própria. </p>
 </div>
 
 
