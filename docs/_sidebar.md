@@ -32,6 +32,10 @@
     - [Princípios Gerais e Diretrizes](/pages/projeto/etapa3/principios_gerais.md)
     - [Metas de Usabilidade](/pages/projeto/etapa3/metas_de_usabilidade.md)
 
+  - **Etapa 4**
+    - [Planejamento da Avaliação do Storyboard](/pages/projeto/etapa4/planejamento_storyboard.md)
+    - [Planejamento da Análise de Tarefas](/pages/projeto/etapa4/planejamento_analise_de_tarefas.md)
+
 - **Apresentações**
 
   - [Apresentação 1](/pages/apresentacoes/apresentacao1.md)
