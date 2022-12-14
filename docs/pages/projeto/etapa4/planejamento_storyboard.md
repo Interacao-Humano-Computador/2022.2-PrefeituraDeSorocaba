@@ -27,7 +27,7 @@ Faremos uma avaliação por meio de uma investigação com entrevistas. Permitin
 
 ### Quem participará e como será feito? 
 
-Para definir os participantes precisamos nos atentar se o perfil dos entrevistados se encaixa aos perfis definidos no documento [Perfil do Usuário](pages/projeto/etapa2/perfil_usuario?id=defini%c3%a7%c3%a3o-dos-perfis), sendo assim qualquer pessoa que se encaixe nesses perfis e se disponibilize pode participar. Deverá ser combinado uma data e horário para a realização da entrevista, que será realizada diretamente com um dos integrantes avaliadores utilizando recursos e materiais próprios. 
+Para definir os participantes precisamos nos atentar se o perfil dos entrevistados se encaixa aos perfis definidos no documento [Perfil do Usuário](pages/projeto/etapa2/perfil_usuario?id=defini%c3%a7%c3%a3o-dos-perfis), sendo assim qualquer pessoa que se encaixe nesses perfis, aceite os [Aspectos Éticos](pages/projeto/etapa2/aspectos_eticos) e se disponibilize pode participar. Deverá ser combinado uma data e horário para a realização da entrevista, que será realizada diretamente com um dos integrantes avaliadores utilizando recursos e materiais próprios. 
 
 ## Questionario a ser respondido
 Levando em conta os perfis do usuário e as necessidades do projeto foi elaborado o seguinte questionário sendo possível a inserção de novas questões a critério do avaliador. Neste questionário estão presentes questões que avaliam se o entrevistado pode participar, e que avaliam a qualidade do storyboard. 
