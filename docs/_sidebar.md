@@ -24,6 +24,7 @@
 
     - [Perfil de usuário](/pages/projeto/etapa2/perfil_usuario.md)
     - [Análise GOMS](/pages/projeto/etapa2/goms.md)
+    - [Análise Hierárquica de Tarefas](/pages/projeto/etapa2/HTA.md)
     - [Personas](/pages/projeto/etapa2/personas.md)
     - [Aspectos Éticos](/pages/projeto/etapa2/aspectos_eticos.md)
 
@@ -34,7 +35,9 @@
 
   - **Etapa 4**
     - [Planejamento da Avaliação do Storyboard](/pages/projeto/etapa4/planejamento_storyboard.md)
+    - [Planejamento do Relato dos Resultados da Avaliação do Storyboard](/pages/projeto/etapa4/planejamento_resultado_storyboard.md)
     - [Planejamento da Análise de Tarefas](/pages/projeto/etapa4/planejamento_analise_de_tarefas.md)
+    - [Planejamento do Relato dos Resultados da Análise de Tarefas](/pages/projeto/etapa4/planejamento_resultado_analise_de_tarefas.md)
 
 - **Apresentações**
 
