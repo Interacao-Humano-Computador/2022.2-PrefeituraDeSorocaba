@@ -62,4 +62,4 @@ Levando em conta os perfis do usuário e as necessidades do projeto foi elaborad
 | :--------: | :----: | :------------------------------------------------: | :------------------------------------: | :---------------------------------------------------: |
 | 12/12/2022 | `1.0`  | Criação do Planejamento da Avaliação do Storyboard | [Pablo](https://github.com/pabloheika) | [Charles Serafim](https://github.com/charles-serafim) |
 | 13/12/2022 | `1.1`  | Adiciona metodologia | [Pablo](https://github.com/pabloheika) | [Charles Serafim](https://github.com/charles-serafim) |
-| 14/12/2022 | `1.1`  | Adiciona sobre a avaliação e questionário | [Pablo](https://github.com/pabloheika) | [Charles Serafim](https://github.com/charles-serafim) |
+| 14/12/2022 | `1.2`  | Adiciona sobre a avaliação e questionário | [Pablo](https://github.com/pabloheika) | [Charles Serafim](https://github.com/charles-serafim) |
