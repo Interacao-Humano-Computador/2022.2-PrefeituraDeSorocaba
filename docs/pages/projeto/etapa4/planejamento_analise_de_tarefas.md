@@ -2,19 +2,17 @@
 
 ## Introdução
 
-Após terem sido realizadas pela equipe análises a respeito do sistema, dos seus usuários e das tarefas que eles buscam executar com o sistema, o próximo passo a ser efetuado no projeto de análise e design de IHC é a identificação e avaliação de como os usuários interagem de fato com o sistema. Aí entra o Planejamento da Análise de Tarefas, onde buscamos investigar e/ou confirmar as informações produzidas no documento de Análise de Tarefas, que identifica as tarefas executadas pelos usuários no sistema e como elas são realizadas, dentre outros aspectos. Para este planejamento, definiremos métodos de execução da análise e potencialmente roteiros a serem seguidos em determinadas etapas.
+Após terem sido realizadas pela equipe análises a respeito do sistema, dos seus usuários e das tarefas que eles buscam executar com o sistema, o próximo passo a ser efetuado no projeto de análise e design de IHC é a identificação e avaliação de como os usuários interagem de fato com o sistema. Aí entra o Planejamento da Análise de Tarefas, onde buscamos investigar e/ou confirmar as informações produzidas no documento de [Análise de Tarefas](https://interacao-humano-computador.github.io/2022.2-PrefeituraDeSorocaba/#/pages/projeto/etapa2/goms), que identifica as tarefas executadas pelos usuários no sistema e como elas são realizadas, dentre outros aspectos. Para este planejamento, definiremos métodos de execução da análise e potencialmente roteiros a serem seguidos em determinadas etapas.
 
 ## Metodologia
 
-Na análise das tarefas serão utilizados dois dos métodos de avaliação descritos no livro *Interação Humano-Computador e Experiência do Usuário*, de Simone D. J. Barbosa, Bruno Santana da Silva e outros autores: o método de inspeção e o método de investigação. Se possível, será realizado também um método de observação.
+Na análise das tarefas serão utilizados dois dos métodos de avaliação descritos no livro *Interação Humano-Computador e Experiência do Usuário*, de Simone D. J. Barbosa, Bruno Santana da Silva e outros autores: o método de inspeção e o método de investigação.
 
 Os métodos de inspeção tem como proposta examinar o sistema e tentar antever as possíveis consequências das decisões de design sobre as experiências de uso. Não envolvem diretamente os usuários, gerando assim relatos de experiências de uso potenciais. Permitem avaliar a conformidade com um padrão ou guia de estilo.
 
-Os métodos de observação geram dados sobre a realização das atividades por parte dos usuários, com ou sem apoio de sistemas interativos.
-
 Os métodos de investigação visam coletar, interpretar e analisar concepções, opiniões, expectativas e comportamentos do usuário relacionados com o sistema. Permitem investigar alternativas de design, problemas que os usuários costumam enfrentar, como eles se apropriam da tecnologia existente e quais são suas expectativas para futuras interações com tecnologias atuais e novas (Barbosa & Silva, 2021). O método de investigação utilizado será o questionário.
 
-Para estruturar e orientar o processo, utilizamos o framework DECIDE, proposto por Preece et al. em 2022, cujas atividades podem ser realizadas de forma iterativa e consistem em:
+Para estruturar e orientar o processo, utilizamos o *framework* DECIDE, proposto por Preece et al. em 2002, cujas atividades podem ser realizadas de forma iterativa e consistem em:
 
 D	Determinar os obetivos da avaliação
 E	Explorar perguntas a serem respondidas com a avaliação
@@ -23,7 +21,9 @@ I	Identificar e administrar as questões práticas da avaliação
 D	Decidir como lidar com as questões éticas
 E	Avaliar, interpretar e apresentar os dados
 
-A seguir, apresentamos como o framework DECIDE será executado pela equipe:
+Na seção seguinte, apresentamos como o *framework* DECIDE será executado pela equipe.
+
+## DECIDE
 
 ### D - Determinar os objetivos da avaliação
 
@@ -36,7 +36,7 @@ Esta avaliação terá como objetivo avaliar os seguites aspectos:
 
 ### E - Explorar perguntas a serem respondidas com a avaliação
 
-A avaliação pretende obter respostas para as seguites perguntas:
+A avaliação pretende obter respostas para as seguintes perguntas:
 
 - Como os usuários realizam as atividades que o sistema oferece?
 - Quanto os usuários consideram que o sistema os ajuda a realizar suas atividades?
@@ -61,34 +61,78 @@ A avaliação pretende obter respostas para as seguites perguntas:
 
 Estas perguntas gerais servirão de base para a montagem dos questionários e também para a produção do roteiro de inspeção.
 
+O percurso cognitivo, para cada tarefa analisada, deverá ajudar a responder as seguintes perguntas:
+
+- O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?)
+- O usuário vai notar que a ação correta está disponível?
+- O usuário vai associar a ação correta com o efeito que está tentando atingir?
+- Se a ação for executada corretamente, o usuário vai perceber que está progredindo na direção de concluir a tarefa?
+
+O entrevista conterá perguntas como:
+
+- Qual seu nome?
+- Qual sua idade?
+- Qual seu gênero?
+- Qual seu nível de escolaridade?
+- Qual sua ocupação?
+- Qual seu grau de uso de tecnologia?
+- Qual sua experiência com tecnologia?
+- Qual sua atitude perante tecnologia?
+- Que funcionalidades você espera encontrar em um site da sua prefeitura?
+- Que funcionalidades você gostaria de encontrar?
+- Encontrou as funcionalidades que esperava no site da Prefeitura de Sorocaba?
+- Se não encontrou, quais foram elas?
+- Qual sua opinião sobre o sistema atual? 
+  
 ### C - Escolher os métodos de avaliação a serem utilizados
 
 Os métodos utilizados nesta análise serão:
-- 
-- 
+- Percurso cognitivo (método de inspeção);
+- Questionário (método de investigação);
+
+O percurso cognitivo consiste em percorrer a interface inspecionando as ações projetadas para um usuário concluir cada tarefa utilizando o sistema. O avaliador se coloca no papel do usuário (neste método não é necessária a participação de um usuário real) e detalha como seria a interação do usuário com o sistema naquele momento.
+
+O questionário é "é um formulário impresso ou on-line com perguntas que os usuários e demais participantes devem responder, a fim de fornecer os dados necessários em uma pesquisa, análise ou avaliação" (Barbosa & Silva, 2021). Ele permite coletar dados que não são esperados pelos avaliadores, servindo como uma forte complementação para outros métodos de avaliação.
 
 ### I - Identificar e administrar as questões práticas da avaliação
 
+Será realizado um teste piloto do questionário para verificar se as perguntas elencadas são suficientes para obter respostas sobre relevantes sobre as tarefas. O teste piloto para o percurso cognitivo seguirá os mesmos princípios, sendo realizado com um ou dois dos membros do grupo.
+
 De acordo com cada método de avaliação utilizado, lidaremos com as questões práticas da seguite forma:
-- 
-- 
+
+#### Percurso cognitivo
+
+Os membros do grupo realizarão a avaliação do percurso cognitivo para cada tarefa elencada, de acordo com o número recomendado de avaliadores para este método (3 a 5 avaliadores). As tarefas são as seguintes:
+
+- Acessar a aba “Notícias”
+- Acessar a aba “Concursos e Processos Seletivos”
+- Consultar 2° via de IPTU
+- Encontrar informações sobre doação de plaquetas em Sorocaba
+- Visualizar os sorteios realizados pelo “Nota da Bolada”
+- Encontrar informações sobre o Procon de Sorocaba
+
+#### Questionário
+
+Serão recrutados alguns usuários que já participaram ou não dos questionários anteriores para responderem perguntas a respeito de como realizam ou realizariam as tarefas supracitadas. Buscaremos de 5 a 10 usuários dentro do perfil médio definido no documento de [Perfil de Usuário](https://interacao-humano-computador.github.io/2022.2-PrefeituraDeSorocaba/#/pages/projeto/etapa2/perfil_usuario).
+
+O questionário terá como objetivo trazer observações possivelmente não encontradas apenas com o percurso cognitivo.
 
 ### D - Decidir como lidar com as questões éticas
 
-As questões éticas a respeito da avaliação devem ser tratadas de acordo com o definido no documento de Aspectos Éticos de Pesquisas Envolvendo Pessoas, já definido pela equipe.
+As questões éticas a respeito da avaliação devem ser tratadas de acordo com o definido no documento de [Aspectos Éticos](https://interacao-humano-computador.github.io/2022.2-PrefeituraDeSorocaba/#/pages/projeto/etapa2/aspectos_eticos) sobre Pesquisas Envolvendo Pessoas, já definido pela equipe.
 
 ### E - Avaliar, interpretar e apresentar os dados
 
-Para a avaliação e interpretação, faremos da seguinte forma...
+Para a avaliação e interpretação, os resultados serão verificados e sua confiabilidade será analisada.
 
 A apresentação dos resultados da avaliação e interpretação será feita através de um relatório final.
 
 O relatório final sobre a avaliação incluirá os seguites pontos, descritos do livro da Simone:
 
 - os objetivos e escopo da avaliação;
-- a forma como a avaliação foi realizada (método de avaliação empregado);
+- a forma como a avaliação foi realizada (métodos de avaliação empregados);
 - o número e o perfil de usuários e avaliadores que participaram da avaliação;
-- um sumário dos dados coletados, incluindo tabelas e gráficos;
+- um sumário dos dados coletados, podendo incluir tabelas e gráficos;
 - um relato da interpretação e análise dos dados;
 - uma lista dos problemas encontrados;
 - um planejamento para o reprojeto do sistema.
@@ -99,9 +143,10 @@ O relatório final sobre a avaliação incluirá os seguites pontos, descritos d
 
 ## Tabela de Versionamento
 
-|    Data    | Versão |                           Descrição                           |                         Autor                         |                     Revisor                     |
-| :--------: | :----: | :-----------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------: |
-| 13/12/2022 | `1.0`  | Criação do documento, template e definição de algumas tarefas | [Charles Serafim](https://github.com/charles-serafim) | [Pablo S. Costa](https://github.com/pabloheika) |
+| Data | Versão | Descrição | Autor | Revisor |
+| :--: | :----: | :-------: | :---: | :-----: |
+| 13/12/2022 | `1.0` | Criação do documento, template e definição de algumas tarefas | [Charles Serafim](https://github.com/charles-serafim) | [Pablo S. Costa](https://github.com/pabloheika) |
+| 14/12/2022 | `1.1` | Definição dos métodos, questões práticas e cronograma | [Charles Serafim](https://github.com/charles-serafim) | [Pablo S. Costa](https://github.com/pabloheika) |
 
 
 
