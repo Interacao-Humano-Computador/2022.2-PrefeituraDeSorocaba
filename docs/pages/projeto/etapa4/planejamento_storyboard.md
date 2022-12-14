@@ -34,7 +34,7 @@ Levando em conta os perfis do usuário e as necessidades do projeto foi elaborad
 
 </br>
 <div style="text-align: center;">
-<p>Tabela 1: Questionatio. </p>
+<p>Tabela 1: Questionátio. </p>
 </div>
 
 |   Questão   |             Pergunta              |  Resposta   |
@@ -60,4 +60,6 @@ Levando em conta os perfis do usuário e as necessidades do projeto foi elaborad
 
 |    Data    | Versão |                     Descrição                      |                 Autor                  |                        Revisor                        |
 | :--------: | :----: | :------------------------------------------------: | :------------------------------------: | :---------------------------------------------------: |
-| 21/11/2022 | `1.0`  | Criação do Planejamento da Avaliação do Storyboard | [Pablo](https://github.com/pabloheika) | [Charles Serafim](https://github.com/charles-serafim) |
+| 12/12/2022 | `1.0`  | Criação do Planejamento da Avaliação do Storyboard | [Pablo](https://github.com/pabloheika) | [Charles Serafim](https://github.com/charles-serafim) |
+| 13/12/2022 | `1.1`  | Adiciona metodologia | [Pablo](https://github.com/pabloheika) | [Charles Serafim](https://github.com/charles-serafim) |
+| 14/12/2022 | `1.1`  | Adiciona sobre a avaliação e questionário | [Pablo](https://github.com/pabloheika) | [Charles Serafim](https://github.com/charles-serafim) |
