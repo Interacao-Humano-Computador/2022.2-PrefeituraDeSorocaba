@@ -6,6 +6,7 @@ Abaixo segue a primeira apresentação do projeto:
 
 ## Histórico de versões
 
-|    Data    | Versão |      Descrição       |               Autor               |
-| :--------: | :----: | :------------------: | :-------------------------------: |
-| 23.11.2022 |  1.0   | Criação do documento | [Luan](https://github.com/Luanmq) |
+|    Data    | Versão |      Descrição       |               Autor               |                    Revisor                     |
+| :--------: | :----: | :------------------: | :-------------------------------: | :--------------------------------------------: |
+| 23/11/2022 |  `1.0`   | Criação do documento e adição de vídeo | [Luan](https://github.com/Luanmq) | [Lucas Gomes](https://github.com/lucasgcaldas) |
+| 14/12/2022 | `1.1`  | Adição de revisor na tabela | [Lucas Gomes](https://github.com/lucasgcaldas) | [Luan](https://github.com/Luanmq) |
