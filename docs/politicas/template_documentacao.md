@@ -69,4 +69,4 @@ Textos e imagens em outros idiomas devem ser traduzidos para o português brasil
 
 |    Data    | Versão |                Descrição               |                         Autor                         | Revisor |
 | :--------: | :----: | :------------------------------------: | :---------------------------------------------------: | :-----: |
-| 21/11/2022 | `1.0`  | Criação do template para documentações | [Charles Serafim](https://github.com/charles-serafim) | -
+| 21/11/2022 | `1.0`  | Criação do template para documentações | [Charles Serafim](https://github.com/charles-serafim) | - |
