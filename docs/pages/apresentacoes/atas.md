@@ -20,14 +20,15 @@ Serão apresentadas por título, junto com a sua data, presença, onde ocorrreu,
 <br>
 
 ## Reunião para mostrar o que se foi feito sobre o "Planejamento de Projeto"
-<<<<<<< HEAD
-|Reunião 2|  |
+
+| Reunião 2 |  |
 | -- | -- |
 |**Data**| 21/11/2022 |
 |**Presentes**| Todos presentes|
 |**Local**| Discord|
 |**Conteúdo**| Conversamos mostrando o que cada um fez na sua parte, explicando o que se foi feito para todos terem um entendimento amplo de todo o projeto. Expomos nossas dificuldades e o que ainda não tinha sido feito. |
-|**Definido**| Foi definido para nos ajudarmos nessas dificuldades para caminhar melhor com o porojeto. Terminar todas essas questões até o dia 23/11/2022
+|**Definido**| Foi definido para nos ajudarmos nessas dificuldades para caminhar melhor com o porojeto. Terminar todas essas questões até o dia 23/11/2022 |
+<br>
 
 ## Reunião para organizar as tarefas e entregas da "Etapa 2"
 |Reunião 3|  |
