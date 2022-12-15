@@ -15,10 +15,15 @@ Os métodos de investigação visam coletar, interpretar e analisar concepções
 Para estruturar e orientar o processo, utilizamos o *framework* DECIDE, proposto por Preece et al. em 2002, cujas atividades podem ser realizadas de forma iterativa e consistem em:
 
 D	Determinar os obetivos da avaliação
+<br>
 E	Explorar perguntas a serem respondidas com a avaliação
+<br>
 C	Escolher os métodos de avaliação a serem utilizados
+<br>
 I	Identificar e administrar as questões práticas da avaliação
+<br>
 D	Decidir como lidar com as questões éticas
+<br>
 E	Avaliar, interpretar e apresentar os dados
 
 Na seção seguinte, apresentamos como o *framework* DECIDE será executado pela equipe.
@@ -68,7 +73,7 @@ O percurso cognitivo, para cada tarefa analisada, deverá ajudar a responder as 
 - O usuário vai associar a ação correta com o efeito que está tentando atingir?
 - Se a ação for executada corretamente, o usuário vai perceber que está progredindo na direção de concluir a tarefa?
 
-O entrevista conterá perguntas como:
+O questionário conterá perguntas como:
 
 - Qual seu nome?
 - Qual sua idade?
