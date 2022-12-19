@@ -29,15 +29,20 @@
     - [Aspectos Éticos](/pages/projeto/etapa2/aspectos_eticos.md)
 
   - **Etapa 3**
+
     - [Guia de estilo](/pages/projeto/etapa3/guia_estilo.md)
     - [Princípios Gerais e Diretrizes](/pages/projeto/etapa3/principios_gerais.md)
     - [Metas de Usabilidade](/pages/projeto/etapa3/metas_de_usabilidade.md)
 
   - **Etapa 4**
+
     - [Planejamento da Avaliação do Storyboard](/pages/projeto/etapa4/planejamento_storyboard.md)
     - [Planejamento do Relato dos Resultados da Avaliação do Storyboard](/pages/projeto/etapa4/planejamento_resultado_storyboard.md)
     - [Planejamento da Análise de Tarefas](/pages/projeto/etapa4/planejamento_analise_de_tarefas.md)
     - [Planejamento do Relato dos Resultados da Análise de Tarefas](/pages/projeto/etapa4/planejamento_resultado_analise_de_tarefas.md)
+
+  - **Etapa 5**
+    - [Planejamento do Relato dos Resultados da Avaliação do Protótipo de papel](/pages/projeto/etapa5/planejamento_resultado_prototipo_papel.md)
 
 - **Apresentações**
 
