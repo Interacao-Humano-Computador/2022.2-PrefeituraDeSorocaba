@@ -1,4 +1,5 @@
 # Sobre
+
 <img style="margin:0; padding:0; width:100%" src="https://interacao-humano-computador.github.io/2022.2-PrefeituraDeSorocaba/media/readme/linha.png" alt="linha vemelha e amarela">
 
 Este repositório em página foi criado para facilitar a organização dos materiais e documentos utilizados na matéria Interação Humano Computador da Univerdidade de Brasília.
@@ -8,6 +9,8 @@ Com uma organização dinâmica e intuitiva, facilitamos o processo de encontrar
 O site escolhido para avaliação pelo grupo foi o da [Prefeitura de Sorocaba](https://www.sorocaba.sp.gov.br/).
 
 # Colaboradores
+
+<center>
 <img style="margin:0; padding:0" src="https://interacao-humano-computador.github.io/2022.2-PrefeituraDeSorocaba/media/readme/linha.png" alt="linha vemelha e amarela">
 
 <!-- Lembrar de colocar as pessoas em ordem alfabética -->
@@ -35,8 +38,10 @@ O site escolhido para avaliação pelo grupo foi o da [Prefeitura de Sorocaba](h
     </td>
    </tr>    
 </table>
+</center>
 
 # Cronograma Executado
+
 <img style="margin:0; padding:0" src="https://interacao-humano-computador.github.io/2022.2-PrefeituraDeSorocaba/media/readme/linha.png" alt="linha vemelha e amarela">
 
 Abaixo segue o cronograma relatando a execução das atividades de cada etapa do projeto por cada integrante do grupo:
@@ -61,5 +66,9 @@ Abaixo segue o cronograma relatando a execução das atividades de cada etapa do
 |   3   |  Princípios Gerais do Projeto  | 09/12/2022 | 11/12/2022 |                                   [Maria Abritta](https://github.com/MariaAbritta)                                   |
 |   3   |      Metas de Usabilidade      | 09/12/2022 | 11/12/2022 |             [Lucas](https://github.com/lucasgcaldas) e [Maria Abritta](https://github.com/MariaAbritta)              |
 |   3   |         Guia de Estilo         | 09/12/2022 | 11/12/2022 |                     [Luan](https://github.com/Luanmq) e [Lucas](https://github.com/lucasgcaldas)                     |
+
+|    Data    | Versão |      Descrição       |               Autor               |                 Revisor                  |
+| :--------: | :----: | :------------------: | :-------------------------------: | :--------------------------------------: |
+| 23/11/2022 | `1.0`  | Criação do documento | [Luan](https://github.com/Luanmq) | [Lucas](https://github.com/lucasgcaldas) |
 
 </center>
