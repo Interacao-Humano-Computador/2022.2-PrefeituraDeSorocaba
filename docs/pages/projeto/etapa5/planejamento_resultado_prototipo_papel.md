@@ -40,4 +40,4 @@ Após garantir a relevância da avaliação, abaixo são encontradas perguntas q
 
 |    Data    | Versão |                 Descrição                 |               Autor               | Revisor |
 | :--------: | :----: | :---------------------------------------: | :-------------------------------: | :-----: |
-| 19/12/2022 | `1.0`  | Criação do documento e adição dos tópicos | [Luan](https://github.com/Luanmq) |    -    |
+| 19/12/2022 | `1.0`  | Criação do documento e adição dos tópicos | [Luan](https://github.com/Luanmq) | [Lucas Gomes](https://github.com/lucasgcaldas) |
