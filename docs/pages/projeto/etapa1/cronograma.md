@@ -223,3 +223,4 @@ Os tópicos de Etapas apresentam os cronogramas de tarefas elaborados de acordo 
 | :--------: | :----: | :------------------------------------------------------: | :--------------------------------------------: | :---------------------------------------------------: |
 | 21/11/2022 | `1.0`  |              Adição do cronograma completo               | [Lucas Gomes](https://github.com/lucasgcaldas) | [Charles Serafim](https://github.com/charles-serafim) |
 | 22/11/2022 | `1.1`  | Adição de novo integrante e replanejamento do cronograma | [Lucas Gomes](https://github.com/lucasgcaldas) |        [Pablo](https://github.com/pabloheika)         |
+| 20/12/2022 | `1.2`  | Organizando as tarefas e foi decidido que o Lucas e o Pablo sempre adicionarão e reviraão o cronograma, para evitar do histórico ficar repetitivo | [Lucas Gomes](https://github.com/lucasgcaldas) |        [Pablo](https://github.com/pabloheika)         |
