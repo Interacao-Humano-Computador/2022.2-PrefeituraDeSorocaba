@@ -35,6 +35,8 @@ Após garantir a relevância da avaliação, abaixo são encontradas perguntas q
 ## Referências Bibliográficas
 
 > BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação Humano-Computador e Experiência de Usuário. 2021.
+>
+> Preece, Jennifer, Rogers, Yvonne, e Sharp, Helen (2002). Interaction Design: Beyond Human-Computer Interaction. John Wiley & Sons.
 
 ## Tabela de Versionamento
 
