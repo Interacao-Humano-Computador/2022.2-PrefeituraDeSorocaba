@@ -6,11 +6,9 @@ Após terem sido realizadas pela equipe análises a respeito do sistema, dos seu
 
 ## Metodologia
 
-Na análise das tarefas serão utilizados dois dos métodos de avaliação descritos no livro *Interação Humano-Computador e Experiência do Usuário*, de Simone D. J. Barbosa, Bruno Santana da Silva e outros autores: o método de inspeção e o método de investigação.
+Na análise das tarefas será utilizado um dos métodos de avaliação descritos no livro *Interação Humano-Computador e Experiência do Usuário*, de Simone D. J. Barbosa, Bruno Santana da Silva e outros autores: o método de inspeção.
 
 Os métodos de inspeção tem como proposta examinar o sistema e tentar antever as possíveis consequências das decisões de design sobre as experiências de uso. Não envolvem diretamente os usuários, gerando assim relatos de experiências de uso potenciais. Permitem avaliar a conformidade com um padrão ou guia de estilo.
-
-Os métodos de investigação visam coletar, interpretar e analisar concepções, opiniões, expectativas e comportamentos do usuário relacionados com o sistema. Permitem investigar alternativas de design, problemas que os usuários costumam enfrentar, como eles se apropriam da tecnologia existente e quais são suas expectativas para futuras interações com tecnologias atuais e novas (Barbosa & Silva, 2021). O método de investigação utilizado será o questionário.
 
 Para estruturar e orientar o processo, utilizamos o *framework* DECIDE, proposto por Preece et al. em 2002, cujas atividades podem ser realizadas de forma iterativa e consistem em:
 
@@ -72,38 +70,18 @@ O percurso cognitivo, para cada tarefa analisada, deverá ajudar a responder as 
 - O usuário vai notar que a ação correta está disponível?
 - O usuário vai associar a ação correta com o efeito que está tentando atingir?
 - Se a ação for executada corretamente, o usuário vai perceber que está progredindo na direção de concluir a tarefa?
-
-O questionário conterá perguntas como:
-
-- Qual seu nome?
-- Qual sua idade?
-- Qual seu gênero?
-- Qual seu nível de escolaridade?
-- Qual sua ocupação?
-- Qual seu grau de uso de tecnologia?
-- Qual sua experiência com tecnologia?
-- Qual sua atitude perante tecnologia?
-- Que funcionalidades você espera encontrar em um site da sua prefeitura?
-- Que funcionalidades você gostaria de encontrar?
-- Encontrou as funcionalidades que esperava no site da Prefeitura de Sorocaba?
-- Se não encontrou, quais foram elas?
-- Qual sua opinião sobre o sistema atual? 
   
 ### C - Escolher os métodos de avaliação a serem utilizados
 
-Os métodos utilizados nesta análise serão:
-- Percurso cognitivo (método de inspeção);
-- Questionário (método de investigação);
+O método utilizado nesta análise seráo o Percurso Cognitivo (método de inspeção);
 
 O percurso cognitivo consiste em percorrer a interface inspecionando as ações projetadas para um usuário concluir cada tarefa utilizando o sistema. O avaliador se coloca no papel do usuário (neste método não é necessária a participação de um usuário real) e detalha como seria a interação do usuário com o sistema naquele momento.
 
-O questionário é "é um formulário impresso ou on-line com perguntas que os usuários e demais participantes devem responder, a fim de fornecer os dados necessários em uma pesquisa, análise ou avaliação" (Barbosa & Silva, 2021). Ele permite coletar dados que não são esperados pelos avaliadores, servindo como uma forte complementação para outros métodos de avaliação.
-
 ### I - Identificar e administrar as questões práticas da avaliação
 
-Será realizado um teste piloto do questionário para verificar se as perguntas elencadas são suficientes para obter respostas sobre relevantes sobre as tarefas. O teste piloto para o percurso cognitivo seguirá os mesmos princípios, sendo realizado com um ou dois dos membros do grupo.
+Será realizado um teste piloto do percurso cognitivo para verificar se as perguntas elencadas são suficientes para obter respostas sobre relevantes sobre as tarefas.
 
-De acordo com cada método de avaliação utilizado, lidaremos com as questões práticas da seguite forma:
+De acordo com o método de avaliação utilizado, lidaremos com as questões práticas da seguite forma:
 
 #### Percurso cognitivo
 
@@ -115,12 +93,6 @@ Os membros do grupo realizarão a avaliação do percurso cognitivo para cada ta
 - Encontrar informações sobre doação de plaquetas em Sorocaba
 - Visualizar os sorteios realizados pelo “Nota da Bolada”
 - Encontrar informações sobre o Procon de Sorocaba
-
-#### Questionário
-
-Serão recrutados alguns usuários que já participaram ou não dos questionários anteriores para responderem perguntas a respeito de como realizam ou realizariam as tarefas supracitadas. Buscaremos de 5 a 10 usuários dentro do perfil médio definido no documento de [Perfil de Usuário](https://interacao-humano-computador.github.io/2022.2-PrefeituraDeSorocaba/#/pages/projeto/etapa2/perfil_usuario).
-
-O questionário terá como objetivo trazer observações possivelmente não encontradas apenas com o percurso cognitivo.
 
 ### D - Decidir como lidar com as questões éticas
 
@@ -152,6 +124,7 @@ O relatório final sobre a avaliação incluirá os seguites pontos, descritos d
 | :--: | :----: | :-------: | :---: | :-----: |
 | 13/12/2022 | `1.0` | Criação do documento, template e definição de algumas tarefas | [Charles Serafim](https://github.com/charles-serafim) | [Pablo S. Costa](https://github.com/pabloheika) |
 | 14/12/2022 | `1.1` | Definição dos métodos, questões práticas e cronograma | [Charles Serafim](https://github.com/charles-serafim) | [Pablo S. Costa](https://github.com/pabloheika) |
+| 21/12/2022 | `1.2` | Exclusão do questionário como método utilizado na análise | [Charles Serafim](https://github.com/charles-serafim) | - |
 
 
 
