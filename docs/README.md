@@ -48,27 +48,32 @@ Abaixo segue o cronograma relatando a execução das atividades de cada etapa do
 
 <center>
 
-| Etapa |            Artefato            |   Início   |  Entrega   |                                                     Responsáveis                                                     |
-| :---: | :----------------------------: | :--------: | :--------: | :------------------------------------------------------------------------------------------------------------------: |
-|   1   |             Equipe             | 20/11/2022 | 22/11/2022 |                                   [Maria Abritta](https://github.com/MariaAbritta)                                   |
-|   1   |       Atas das reuniões        | 22/11/2022 | 23/11/2022 |                                   [Maria Abritta](https://github.com/MariaAbritta)                                   |
-|   1   |        Site Selecionado        | 20/11/2022 | 22/11/2022 |                                   [Maria Abritta](https://github.com/MariaAbritta)                                   |
-|   1   |   Listas de sites avaliados    | 20/11/2022 | 22/11/2022 |                                       [Lucas](https://github.com/lucasgcaldas)                                       |
-|   1   |        Cronograma geral        | 20/11/2022 | 22/11/2022 |                                       [Lucas](https://github.com/lucasgcaldas)                                       |
-|   1   |          Ferramentas           | 21/11/2022 | 21/11/2022 |                                          [Luan](https://github.com/Luanmq)                                           |
-|   1   |      Cronograma executado      | 23/11/2022 | 23/11/2022 |                                          [Luan](https://github.com/Luanmq)                                           |
-|   1   |       Processo de design       | 21/11/2022 | 22/11/2022 |                                    [Charles](https://github.com/charles-serafim)                                     |
-|   2   |            Personas            | 29/11/2022 | 07/12/2022 |           [Charles](https://github.com/charles-serafim) e [Maria Abritta](https://github.com/MariaAbritta)           |
-|   2   |       Perfis de Usuários       | 29/11/2022 | 07/12/2022 | [Lucas](https://github.com/lucasgcaldas), [Luan](https://github.com/Luanmq) e [Pablo](https://github.com/pabloheika) |
-|   2   |              GOMS              | 29/11/2022 | 07/12/2022 |                                       [Lucas](https://github.com/lucasgcaldas)                                       |
-|   2   | Análise Hierárquica de Tarefas | 09/12/2022 | 11/12/2022 |                                        [Pablo](https://github.com/pabloheika)                                        |
-|   2   |  Aspectos Éticos da Pesquisa   | 09/12/2022 | 11/12/2022 |                                    [Charles](https://github.com/charles-serafim)                                     |
-|   3   |  Princípios Gerais do Projeto  | 09/12/2022 | 11/12/2022 |                                   [Maria Abritta](https://github.com/MariaAbritta)                                   |
-|   3   |      Metas de Usabilidade      | 09/12/2022 | 11/12/2022 |             [Lucas](https://github.com/lucasgcaldas) e [Maria Abritta](https://github.com/MariaAbritta)              |
-|   3   |         Guia de Estilo         | 09/12/2022 | 11/12/2022 |                     [Luan](https://github.com/Luanmq) e [Lucas](https://github.com/lucasgcaldas)                     |
+| Etapa | Artefato | Início | Entrega | Responsáveis | Revisores
+| :---: | :------: | :----: | :-----: | :----------: | :-------: |
+| 1 | Equipe | 20/11/2022 | 22/11/2022 | [Maria Abritta](https://github.com/MariaAbritta) | [Lucas](https://github.com/lucasgcaldas) |
+| 1 | Atas das reuniões | 22/11/2022 | 23/11/2022 | [Maria Abritta](https://github.com/MariaAbritta) | [Lucas](https://github.com/lucasgcaldas) |
+| 1 | Site Selecionado | 20/11/2022 | 22/11/2022 | [Maria Abritta](https://github.com/MariaAbritta) | [Lucas](https://github.com/lucasgcaldas) |
+| 1 | Listas de sites avaliados | 20/11/2022 | 22/11/2022 | [Lucas](https://github.com/lucasgcaldas) | [Maria Abritta](https://github.com/MariaAbritta) |
+| 1 | Cronograma geral | 20/11/2022 | 22/11/2022 | [Lucas](https://github.com/lucasgcaldas) |[Maria Abritta](https://github.com/MariaAbritta) |
+| 1 | Ferramentas | 21/11/2022 | 21/11/2022 | [Luan](https://github.com/Luanmq) | [Charles](https://github.com/charles-serafim) |
+| 1 | Cronograma executado | 23/11/2022 | 23/11/2022 | [Luan](https://github.com/Luanmq) | [Charles](https://github.com/charles-serafim) |
+| 1 | Processo de design | 21/11/2022 | 22/11/2022 | [Charles](https://github.com/charles-serafim) | [Luan](https://github.com/Luanmq) |
+| 2 | Personas | 29/11/2022 | 07/12/2022 | [Charles](https://github.com/charles-serafim), [Maria Abritta](https://github.com/MariaAbritta) | [Pablo](https://github.com/pabloheika) |
+| 2 | Perfis de Usuários | 29/11/2022 | 07/12/2022 | [Lucas](https://github.com/lucasgcaldas), [Luan](https://github.com/Luanmq), [Pablo](https://github.com/pabloheika) | [Charles](https://github.com/charles-serafim) |
+| 2 | GOMS | 29/11/2022 | 07/12/2022 | [Lucas](https://github.com/lucasgcaldas) | [Pablo](https://github.com/pabloheika) |
+| 2 | Análise Hierárquica de Tarefas | 09/12/2022 | 11/12/2022 | [Pablo](https://github.com/pabloheika) | [Maria Abritta](https://github.com/MariaAbritta) |
+| 2 | Aspectos Éticos da Pesquisa | 09/12/2022 | 11/12/2022 | [Charles](https://github.com/charles-serafim) | [Luan](https://github.com/Luanmq) |
+| 3 | Princípios Gerais do Projeto | 09/12/2022 | 11/12/2022 | [Maria Abritta](https://github.com/MariaAbritta) | [Luan](https://github.com/Luanmq) |
+| 3 | Metas de Usabilidade | 09/12/2022 | 11/12/2022 | [Lucas](https://github.com/lucasgcaldas), [Maria Abritta](https://github.com/MariaAbritta) | [Charles](https://github.com/charles-serafim) |
+| 3 | Guia de Estilo | 09/12/2022 | 11/12/2022 | [Luan](https://github.com/Luanmq), [Lucas](https://github.com/lucasgcaldas) | [Charles](https://github.com/charles-serafim) |
+| 4 | Relato dos resultados do Story Board | 15/12/2022 | 21/12/2022 | [Charles](https://github.com/charles-serafim), [Pablo](https://github.com/pabloheika) | [Maria Abritta](https://github.com/MariaAbritta) |
+| 4 | Relato de Análise de tarefas | 15/12/2022 | 21/12/2022 | [Charles](https://github.com/charles-serafim), [Pablo](https://github.com/pabloheika) | [Lucas](https://github.com/lucasgcaldas) |
+| 4 | Planejamento da Avaliação do Protótipo de Papel | 15/12/2022 | 21/12/2022 | [Maria Abritta](https://github.com/MariaAbritta), [Lucas](https://github.com/lucasgcaldas) | [Luan](https://github.com/Luanmq) |
+| 4 | Planejamento do relato dos resultados da avaliação do Protótipo de Papel | 15/12/2022 | 21/12/2022 | [Luan](https://github.com/Luanmq) |[Lucas](https://github.com/lucasgcaldas) |
 
 |    Data    | Versão |      Descrição       |               Autor               |                 Revisor                  |
 | :--------: | :----: | :------------------: | :-------------------------------: | :--------------------------------------: |
 | 23/11/2022 | `1.0`  | Criação do documento | [Luan](https://github.com/Luanmq) | [Lucas](https://github.com/lucasgcaldas) |
+| 21/12/2022 | `1.1`  | Atualizando cronograma e adicionando revisores | [Lucas](https://github.com/lucasgcaldas) | [Luan](https://github.com/Luanmq) |
 
 </center>
