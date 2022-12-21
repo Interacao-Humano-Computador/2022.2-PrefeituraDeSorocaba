@@ -18,7 +18,6 @@ Antes de abordar os resultados é importante entender se a avaliação foi feita
 2. **Validade interna do estudo:** O método de avaliação mede o que deveria medir? Os dados são coletados de uma forma precisa? É feita alguma atividade para evitar distorção dos dados?
 3. **Validade externa do estudo:** Até que ponto os resultados podem ser generalizados ou transferidos a um outro contexto semelhante?
 4. **Validade ecológica do estudo:** Quanto os materiais, métodos e ambiente de estudo se assemelham à situação real investigada?
-5. **Objetivos e escopo da avaliação:**
 
 ### Questões sobre os resultados
 
@@ -40,6 +39,7 @@ Após garantir a relevância da avaliação, abaixo são encontradas perguntas q
 
 ## Tabela de Versionamento
 
-|    Data    | Versão |                 Descrição                 |               Autor               | Revisor |
-| :--------: | :----: | :---------------------------------------: | :-------------------------------: | :-----: |
+|    Data    | Versão |                 Descrição                 |               Autor               |                    Revisor                     |
+| :--------: | :----: | :---------------------------------------: | :-------------------------------: | :--------------------------------------------: |
 | 19/12/2022 | `1.0`  | Criação do documento e adição dos tópicos | [Luan](https://github.com/Luanmq) | [Lucas Gomes](https://github.com/lucasgcaldas) |
+| 21/12/2022 | `1.1`  |     Correção na escrita do documento      | [Luan](https://github.com/Luanmq) | [Lucas Gomes](https://github.com/lucasgcaldas) |
