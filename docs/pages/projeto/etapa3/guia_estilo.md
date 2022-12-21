@@ -4,7 +4,7 @@
 
 ### Objetivo
 
-O Guia de estilo tem como objetivo registrar as principais decisões de design tomadas, sendo ferramenta de comunicação entre os membros da equipe de design e também com a equipe de desenvolvimento. Um guia de estilo deve incorporar decisões de design envolvendo os principais elementos e considerações de design de interface. No caso, a análise é aplicada ao site da Prefeitura de Sorocaba.
+O Guia de estilo tem como objetivo registrar as principais decisões de design tomadas, sendo ferramenta de comunicação entre os membros da equipe de design e também com a equipe de desenvolvimento. Um guia de estilo deve incorporar decisões de design que estejam alinhadas com os [Principios Gerais e Diretrizes do Projeto](https://interacao-humano-computador.github.io/2022.2-PrefeituraDeSorocaba/#/pages/projeto/etapa3/principios_gerais.md) e as [Metas de usabilidade](https://interacao-humano-computador.github.io/2022.2-PrefeituraDeSorocaba/#/pages/projeto/etapa3/metas_de_usabilidade.md), assim foi procurado definir elementos que cumprissem com requisitos apresentados por esses dois tópicos apresentados.
 
 ### Organização e conteúdo do guia de estilo
 
@@ -160,11 +160,11 @@ Por último foi escolhida a cor cinza. Uma cor neutra característica de ambient
 
 ## Elementos de interação
 
-### Estilos de interação 
+### Estilos de interação
 
 As interações com o usuário no sitema searão por meio de ícones, botões e formulários.
 
-### Seleção de um estilo 
+### Seleção de um estilo
 
 Seguiremos utilizando ícones, botões e formulários.
 
@@ -230,11 +230,11 @@ Os elementos de ação são os componentes nos quais o usuário desempenha algum
 
 ## Vocabulários e padrões
 
-### Terminologia 
+### Terminologia
 
 Por ser destinado ao público geral, a terminologia utilizada no site é simples, com excessão em algumas telas como Legislação, Fiscalização Tributária, ITBI, que podem requerer um conhecimento mais específicos de nomenclaturas.
 
-### Tipos de tela (para tarefas comuns) 
+### Tipos de tela (para tarefas comuns)
 
 Os protótipos de alta e baixa fidelidade devem seguir o guia de estilo e possuir as seguintes telas, mas seguindo todas os mesmos padroes de design:
 
@@ -268,7 +268,7 @@ Em telas como a de Segunda via de IPTU, em que necessitam que o usuário preench
 
 ## Tabela de Versionamento
 
-|    Data    | Versão |      Descrição       |               Autor               |                    Revisor                     |
-| :--------: | :----: | :------------------: | :-------------------------------: | :--------------------------------------------: |
-| 08/12/2022 | `1.0`  | Criação do documento | [Luan](https://github.com/Luanmq) | [Lucas Gomes](https://github.com/lucasgcaldas) |
-| 10/12/2022 | `1.1`  | Adição da Introdução, Elementos de interação e Vocabulários e padrões | [Lucas Gomes](https://github.com/lucasgcaldas) | [Luan](https://github.com/Luanmq) |
+|    Data    | Versão |                                             Descrição                                             |                     Autor                      |                    Revisor                     |
+| :--------: | :----: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
+| 08/12/2022 | `1.0`  | Criação do documento, Análise do ambiente de trabalho, Elementos de Interface e Elementos de ação |       [Luan](https://github.com/Luanmq)        | [Lucas Gomes](https://github.com/lucasgcaldas) |
+| 10/12/2022 | `1.1`  |               Adição da Introdução, Elementos de interação e Vocabulários e padrões               | [Lucas Gomes](https://github.com/lucasgcaldas) |       [Luan](https://github.com/Luanmq)        |
