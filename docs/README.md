@@ -66,14 +66,19 @@ Abaixo segue o cronograma relatando a execução das atividades de cada etapa do
 | 3 | Princípios Gerais do Projeto | 09/12/2022 | 11/12/2022 | [Maria Abritta](https://github.com/MariaAbritta) | [Luan](https://github.com/Luanmq) |
 | 3 | Metas de Usabilidade | 09/12/2022 | 11/12/2022 | [Lucas](https://github.com/lucasgcaldas), [Maria Abritta](https://github.com/MariaAbritta) | [Charles](https://github.com/charles-serafim) |
 | 3 | Guia de Estilo | 09/12/2022 | 11/12/2022 | [Luan](https://github.com/Luanmq), [Lucas](https://github.com/lucasgcaldas) | [Charles](https://github.com/charles-serafim) |
-| 4 | Relato dos resultados do Story Board | 15/12/2022 | 21/12/2022 | [Charles](https://github.com/charles-serafim), [Pablo](https://github.com/pabloheika) | [Maria Abritta](https://github.com/MariaAbritta) |
-| 4 | Relato de Análise de tarefas | 15/12/2022 | 21/12/2022 | [Charles](https://github.com/charles-serafim), [Pablo](https://github.com/pabloheika) | [Lucas](https://github.com/lucasgcaldas) |
-| 4 | Planejamento da Avaliação do Protótipo de Papel | 15/12/2022 | 21/12/2022 | [Maria Abritta](https://github.com/MariaAbritta), [Lucas](https://github.com/lucasgcaldas) | [Luan](https://github.com/Luanmq) |
-| 4 | Planejamento do relato dos resultados da avaliação do Protótipo de Papel | 15/12/2022 | 21/12/2022 | [Luan](https://github.com/Luanmq) |[Lucas](https://github.com/lucasgcaldas) |
+| 4 | Planejamento da Avaliação do Storyboard | 12/12/2022 | 14/12/2022 | [Pablo](https://github.com/pabloheika) | [Charles](https://github.com/charles-serafim) |
+| 4 | Planejamento do relato dos resultados da avaliação do Storyboard | 12/12/2022 | 14/12/2022 | [Pablo](https://github.com/pabloheika) | [Charles](https://github.com/charles-serafim) |
+ 4 | Planejamento da Análise de Tarefas | 12/12/2022 | 14/12/2022 | [Charles](https://github.com/charles-serafim) | [Pablo](https://github.com/pabloheika) |
+ 4 | Planejamento do Relato dos Resultados da Análise de Tarefas | 12/12/2022 | 14/12/2022 | [Charles](https://github.com/charles-serafim) | [Pablo](https://github.com/pabloheika) |
+| 5 | Relato dos resultados do Story Board | 15/12/2022 | 21/12/2022 | [Charles](https://github.com/charles-serafim), [Pablo](https://github.com/pabloheika) | [Maria Abritta](https://github.com/MariaAbritta) |
+| 5 | Relato de Análise de tarefas | 15/12/2022 | 21/12/2022 | [Charles](https://github.com/charles-serafim), [Pablo](https://github.com/pabloheika) | [Lucas](https://github.com/lucasgcaldas) |
+| 5 | Planejamento da Avaliação do Protótipo de Papel | 15/12/2022 | 21/12/2022 | [Maria Abritta](https://github.com/MariaAbritta), [Lucas](https://github.com/lucasgcaldas) | [Luan](https://github.com/Luanmq) |
+| 5 | Planejamento do relato dos resultados da avaliação do Protótipo de Papel | 15/12/2022 | 21/12/2022 | [Luan](https://github.com/Luanmq) |[Lucas](https://github.com/lucasgcaldas) |
 
 |    Data    | Versão |      Descrição       |               Autor               |                 Revisor                  |
 | :--------: | :----: | :------------------: | :-------------------------------: | :--------------------------------------: |
 | 23/11/2022 | `1.0`  | Criação do documento | [Luan](https://github.com/Luanmq) | [Lucas](https://github.com/lucasgcaldas) |
 | 21/12/2022 | `1.1`  | Atualizando cronograma e adicionando revisores | [Lucas](https://github.com/lucasgcaldas) | [Luan](https://github.com/Luanmq) |
+| 21/12/2022 | `1.2`  | Atualizando cronograma da etapa 4 | [Lucas](https://github.com/lucasgcaldas) | [Luan](https://github.com/Luanmq) |
 
 </center>
