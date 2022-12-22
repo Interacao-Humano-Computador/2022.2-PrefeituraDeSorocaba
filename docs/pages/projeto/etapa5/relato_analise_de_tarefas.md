@@ -339,7 +339,7 @@ A seguir apresentamos as tarefas que apresentaram histórias de insucesso e as r
   - Ao realizar a tarefa, o usuário deve aprender que o ícone utilizado para a pesquisa é o de um binóculo e que o título do botão é "F9-Pesquisar".
   - Como sugestões de correções na interface podemos ter a renomeação do botão para algo como "Consultar" ou "Ir" e a modificação do ícone de um binóculo para o ícone de uma luta, mais comumente utilizado para consultas.
 
--Tarefa: Encontrar informações sobre doação de plaquetas em Sorocaba
+- Tarefa: Encontrar informações sobre doação de plaquetas em Sorocaba
   - Ação: Clicar no botão "Doe Plaquetas!"
   - Problema: O usuário vai notar que a ação correta está disponível?
   - Resposta: Não, pois o botões de doação de plaquetas estão dispostos em um carrosel com diversas informações que fica girando e se não estiver aparente no momento, a única maneira de encontrá-los é clicando em um outro menu, que não vai diretamente pra doação de plaquetas, mas torna aparente as opções relaciondas à doação de plaquetas no carrossel
