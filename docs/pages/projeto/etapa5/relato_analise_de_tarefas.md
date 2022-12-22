@@ -412,4 +412,4 @@ A seguir apresentamos as tarefas que apresentaram histórias de insucesso e as r
 
 |    Data    | Versão |                Descrição               |                         Autor                         | Revisor |
 | :--------: | :----: | :------------------------------------: | :---------------------------------------------------: | :-----: |
-| 21/12/2022 | `1.0`  | Análise de Tarefas e Relato | [Charles Serafim](https://github.com/charles-serafim) | - |
+| 21/12/2022 | `1.0`  | Análise de Tarefas e Relato | [Charles Serafim](https://github.com/charles-serafim) | [Pablo](https://github.com/pabloheika) |

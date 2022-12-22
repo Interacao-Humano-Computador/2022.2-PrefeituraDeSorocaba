@@ -38,14 +38,14 @@ Levando em conta os perfis do usuário e as necessidades do projeto foi elaborad
 </div>
 
 |   Questão   |             Pergunta              |  Resposta   |
-| :---: | :-------------------------------: | :---------: |
-|   1   | Qual a sua idade? | <p style="text-align: left;">[] Menos de 20 anos</br>[] Entre 21 a 30 anos</br>[] Entre 31 e 40 anos</br>[] Entre 41 e 50 anos</br>[] Mais de 50 anos</p> |
-|   2   | Qual o seu nível de escolaridade? | <p style="text-align: left;">[] Ensino fundamental incompleto</br>[] Ensino fundamental completo</br>[] Ensino médio incompleto</br>[] Ensino médio completo</br>[] Ensino superior incompleto</br>[] Ensino superior completo</p> |
-|   3   | O que você busca encontrar no site de uma prefeitura?| <p style="text-align: left;">Dissertativo </p> |
-|   4   | Após acessar o site da prefeitura de Sorocaba você encontrou a funcionalidade requerida? | <p style="text-align: left;">[] Sim </br>[] Não</p>  |
-|   5   | Em uma escala de 1 à 5, qual a sua satisfação com o design do site?  | <p style="text-align: left;">[] 1</br>[] 2</br>[] 3</br>[] 4</br>[] 5</p> |
-|   6   | O storyboard apresentado retrata a sua experiencia com o site | <p style="text-align: left;">[] Sim </br>[] Não</p> |
-|   6.1   | Se não. O que está em discordância com sua experiencia? | <p style="text-align: left;">Dissertativo </p> |
+| :---: | :-------------------------------: | :--------- |
+|   1   | Qual a sua idade? | &#9746; Menos de 20 anos</br>&#9746; Entre 21 a 30 anos</br>&#9744; Entre 31 e 40 anos</br>&#9744; Entre 41 e 50 anos</br>&#9744; Mais de 50 anos |
+|   2   | Qual o seu nível de escolaridade? | &#9744; Ensino fundamental incompleto</br>&#9744; Ensino fundamental completo</br>&#9744; Ensino médio incompleto</br>&#9744; Ensino médio completo</br>&#9746; Ensino superior incompleto</br>&#9746; Ensino superior completo |
+|   3   | O que você busca encontrar no site de uma prefeitura?| Dissertativo  |
+|   4   | Após acessar o site da prefeitura de Sorocaba você encontrou a funcionalidade requerida? | &#9744; Sim </br>&#9744; Não  |
+|   5   | Em uma escala de 1 à 5, qual a sua satisfação com o design do site?  | &#9744; 1</br>&#9744; 2</br>&#9744; 3</br>&#9744; 4</br>&#9744; 5 |
+|   6   | O storyboard apresentado retrata a sua experiencia com o site | &#9744; Sim </br>&#9744; Não |
+|   6.1   | Se não. O que está em discordância com sua experiencia? | Dissertativo  |
 
 <div style="text-align: center;">
 <p>Fonte: Autoria própria. </p>
