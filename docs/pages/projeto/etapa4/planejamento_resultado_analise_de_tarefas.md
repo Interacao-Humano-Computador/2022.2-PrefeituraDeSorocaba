@@ -30,11 +30,11 @@ Nos relatórios, por parte dos avaliadores, devem constar quais os objetivos da 
 
 ### Forma como a avaliação foi realizada
 
-Outro ponto que deve constar é a qual método de avaliação a avaliação realizada corresponde. Utilizaremos questionários e percurso cognitivo. É interessante detalhar *como* foi realizada, quais passos foram seguidos, entre outros detalhes.
+Outro ponto que deve constar é a qual método de avaliação a avaliação realizada corresponde. Utilizaremos o percurso cognitivo. É interessante detalhar *como* foi realizada, quais passos foram seguidos, entre outros detalhes.
 
 ### Número e o perfil de usuários e avaliadores que participaram da avaliação
 
-Também será necessário que o relator informe quantos usuários participaram da avaliação (quando for uma avaliação com usuários), qual o perfil dos usuários que participaram ou o perfil de usuários adotado como padrão para a avaliação, assim como informar detalhes relevantes a respeito dos avaliadores, para que questões a respeito de tendenciosidades sejam levadas em conta.
+Também será necessário que o relator informe qual o perfil dos usuários que participaram ou o perfil de usuários adotado como padrão para a avaliação, assim como informar detalhes relevantes a respeito dos avaliadores, para que questões a respeito de tendenciosidades sejam levadas em conta. Não será informado número de usuários porque o método utilizado não tem participação de usuários.
 
 ### Sumário dos dados coletados, podendo incluir tabelas e gráficos
 
@@ -42,7 +42,7 @@ Nesta seção, o relator deve apresentar um resumo dos dados coletados e também
 
 ### Relato da interpretação e análise dos dados
 
-Aqui, serão apresentados um relato dos resultados da interpretação e análise feitas sobre os dados coletados. É o local para comentar os resultados dos percursos cognitivos de cada tarefa e também questões relevantes encontradas nos questionários.
+Aqui, serão apresentados um relato dos resultados da interpretação e análise feitas sobre os dados coletados. É o local para comentar os resultados dos percursos cognitivos de cada tarefa.
 
 ### Lista dos problemas encontrados
 
@@ -61,6 +61,7 @@ Por fim, é imprescindível que o relatório contenha sugestões de correções 
 | Data | Versão | Descrição | Autor | Revisor |
 | :--: | :----: | :-------: | :---: | :-----: |
 | 14/12/2022 | `1.0` | Definição do cronograma e estrutura do relatório final | [Charles Serafim](https://github.com/charles-serafim) | [Pablo S. Costa](https://github.com/pabloheika) |
+| 21/12/2022 | `1.1` | Exclusão do questionário como método utilizado na análise | [Charles Serafim](https://github.com/charles-serafim) | - |
 
 
 
