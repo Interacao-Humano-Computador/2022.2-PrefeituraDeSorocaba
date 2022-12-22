@@ -62,6 +62,10 @@ O site não é tão simples de se aprender, uma vez que não possui padrão de d
 
 O site não possui fácil memorização, uma vez que algumas telas levam para outros sites da cidade com outros padrões diferentes e até mesmo as telas do próprio site, que em cada uma, a organização dos conteúdo são diferentes. Assim, o usuário pode ficar perdido e pode haver maior dificuldade de recordação a respeito de onde os conteúdos estão. 
 
+## Conclusão
+
+De acordo com as metas de usubilidade analisadas, iremos propor uma nova interface que visa principalmente corrigir as padronizações de design, para assim, termos uma interface com eficiência, aprendizagem e memorização. Isso será de econtro com o guia de estilo e princípios gerais do projeto.
+
 ## Referências Bibliográficas
 
 > BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010.

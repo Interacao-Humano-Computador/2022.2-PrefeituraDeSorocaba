@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Os protótipos de papel são elaborados com a finalidade de permitir que os stakeholders consigam interagir com um produto que foi pensado, coletando pontos fortes e fracos de alguma tela ou funcionalidade. Sendo assim, com essa avalialçao, há uma maior refinamento do design, dos requisitos, permitindo realização de testes iniciais. Quanto mais próxima e ﬁel for a representação da interface da solução ﬁnal, melhores serão as condições de o avaliador prever a facili dade que o usuário terá para aprender a realizar as tarefas em questão (Barbosa, 2021).
+Os protótipos de papel são elaborados com a finalidade de permitir que os stakeholders consigam interagir com um produto que foi pensado, coletando pontos fortes e fracos de alguma tela ou funcionalidade. Sendo assim, com essa avalialçao, há uma maior refinamento do design, dos requisitos, permitindo realização de testes iniciais. Quanto mais próxima e ﬁel for a representação da interface da solução ﬁnal, melhores serão as condições de o avaliador prever a facilidade que o usuário terá para aprender a realizar as tarefas em questão (Barbosa, 2021).
 
 ## Objetivo
 
@@ -23,7 +23,7 @@ Sendo assim, a metodologia selecionada foi a entrevista, uma vez que o avaliador
 
 ## Execução
 
-### Termo de Consentimento
+### Termo de Consentimento (BARBOSA, 2021)
 
 No começo da entrevista será aplicado um termo de consentimento, que atesta que o participante entende as garantias e os riscos do estudo e concorda com sua participação naquelas condições. 
 
@@ -81,3 +81,4 @@ Sendo assim, é esperado a execução correta desse planejamento na próxima eta
 | :--------: | :----: | :---------------------------------------: | :-------------------------------: | :-----: |
 | 19/12/2022 | `1.0`  | Criação do documento | [Lucas Gomes](https://github.com/lucasgcaldas) | [Luan](https://github.com/Luanmq) |
 | 19/12/2022 | `1.1`  | Adicionando o planejamento da avaliação do protótipo de papel | [Lucas Gomes](https://github.com/lucasgcaldas) | [Maria Abritta](https://github.com/MariaAbritta) |
+| 21/12/2022 | `1.2`  | Adicionando referencia no termo de concentimento | [Lucas Gomes](https://github.com/lucasgcaldas) | [Maria Abritta](https://github.com/MariaAbritta) |
