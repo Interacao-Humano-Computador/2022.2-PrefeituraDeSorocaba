@@ -44,6 +44,7 @@
   - **Etapa 5**
     - [Planejamento do Relato dos Resultados da Avaliação do Protótipo de papel](/pages/projeto/etapa5/planejamento_resultado_prototipo_papel.md)
     - [Planejamento da Avaliação do Protótipo de papel](/pages/projeto/etapa5/planejamento_avaliacao_prototipo_papel.md)
+    - [Relato da Avaliação da Análise de Rarefas](/pages/projeto/etapa5/relato_analise_de_tarefas.md)
 
 - **Apresentações**
 
