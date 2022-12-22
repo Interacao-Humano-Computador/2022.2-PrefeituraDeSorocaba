@@ -16,15 +16,6 @@ Durante o processo do percurso, são consideradas, em sequência, cada uma das a
 
 A Tabela 1 mostra as atividades referentes ao método de percurso cognitivo.
 
-<<<<<<< HEAD
-| Atividade | Tarefa |
-| :------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Preparação | <ol> <li> identificar os perfis de usuários <li> definir quais tarefas farão parte da avaliação <li> descrever as ações necessárias para realizar cada tarefa <li> obter uma representação da interface, executável ou não </ol> |
-| Coleta de dados | <ol> <li> percorrer a interface de acordo com a sequência de ações necessárias para realizar cada tarefa <li> para cada ação enumerada, analisar se o usuário executaria a ação corretamente, repondendo e justificando a resposta às seguintes perguntas: P1. O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?) P2. O usuário vai notar que a ação correta está disponível? P3. O usuário vai associar a ação correta com o efeito que está tentando atingir? P4. Se a ação for executada corretamente, o usuário vai perceber que está progredindo na direção de concluir a tarefa? <li> relatar uma história aceitável sobre o sucesso ou falha em realizar cada ação que compõe a tarefa </ol> |
-| Interpretação e Consolidação dos resultados | <ol> <li> o que o usuário precisa saber _a priori_ para realizar as tarefas <li> o que o usuário deve aprender enquanto realiza as tarefas <li> sugestões de correções para os problemas encontrados </ol> |
-| Relato dos resultados | <ol><li> gerar um relatório consolidado com os problemas encontrados e sugestões de correção </ol> |
-=======
-
 <div style="text-align: center">
 <p>Tabela 1: Atividades do Percurso Cognitivo. </p>
 </div>
@@ -37,9 +28,8 @@ A Tabela 1 mostra as atividades referentes ao método de percurso cognitivo.
 | Relato dos resultados                       | <ol><li> gerar um relatório consolidado com os problemas encontrados e sugestões de correção </ol>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 <div style="text-align: center">
-<p>Fonte: Autoria própria. </p>
+<p>Fonte: BARBOSA, Simone Diniz Junqueira; Interação humano-computador, 2010. </p>
 </div>
->>>>>>> 866d1277a6e3a258afe0ad2cb4b2072bd29cb31b
 
 ### Preparação
 
