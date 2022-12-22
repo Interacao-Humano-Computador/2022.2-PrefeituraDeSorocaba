@@ -54,6 +54,7 @@ Com a leitura desse documento espera-se, que os leitores compreendam as dificuld
 
 ## Tabela de Versionamento
 
-|    Data    | Versão |       Descrição       |                      Autor                      |                        Revisor                        |
+<<<<<<< HEAD
+| Data | Versão | Descrição | Autor | Revisor |
 | :--------: | :----: | :-------------------: | :---------------------------------------------: | :---------------------------------------------------: |
-| 22/12/2022 | `1.0`  | Criação do storyboard | [Pablo S. Costa](https://github.com/pabloheika) | [Charles Serafim](https://github.com/charles-serafim) |
+| 22/12/2022 | `1.0` | Criação do storyboard | [Pablo S. Costa](https://github.com/pabloheika) | [Charles Serafim](https://github.com/charles-serafim) |
