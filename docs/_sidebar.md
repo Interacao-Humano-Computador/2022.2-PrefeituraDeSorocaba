@@ -23,10 +23,11 @@
   - **Etapa 2**
 
     - [Perfil de usuário](/pages/projeto/etapa2/perfil_usuario.md)
-    - [Análise GOMS](/pages/projeto/etapa2/goms.md)
-    - [Análise Hierárquica de Tarefas](/pages/projeto/etapa2/HTA.md)
     - [Personas](/pages/projeto/etapa2/personas.md)
     - [Aspectos Éticos](/pages/projeto/etapa2/aspectos_eticos.md)
+    - Análise de Tarefas
+      - [Análise GOMS](/pages/projeto/etapa2/goms.md)
+      - [Análise Hierárquica de Tarefas](/pages/projeto/etapa2/HTA.md)
 
   - **Etapa 3**
 
@@ -45,7 +46,7 @@
     - [Planejamento do Relato dos Resultados da Avaliação do Protótipo de papel](/pages/projeto/etapa5/planejamento_resultado_prototipo_papel.md)
     - [Planejamento da Avaliação do Protótipo de papel](/pages/projeto/etapa5/planejamento_avaliacao_prototipo_papel.md)
     - [Relato da Avaliação da Análise de Rarefas](/pages/projeto/etapa5/relato_analise_de_tarefas.md)
-    -  [Storyboard](/pages/projeto/etapa5/storyboard.md)
+    - [Resultados do Storyboard](/pages/projeto/etapa5/storyboard.md)
 
 - **Apresentações**
 

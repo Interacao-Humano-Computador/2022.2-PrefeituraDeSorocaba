@@ -1,4 +1,4 @@
-# Relato da Análise de Tarefas
+# Relato da Avaliação da Análise de Tarefas
 
 ## Introdução
 
@@ -16,62 +16,69 @@ Durante o processo do percurso, são consideradas, em sequência, cada uma das a
 
 A Tabela 1 mostra as atividades referentes ao método de percurso cognitivo.
 
-| Atividade | Tarefa |
-| :-------- | :----- |
-| Preparação | <ol> <li> identificar os perfis de usuários <li> definir quais tarefas farão parte da avaliação <li> descrever as ações necessárias para realizar cada tarefa <li> obter uma representação da interface, executável ou não </ol> |
-| Coleta de dados | <ol> <li> percorrer a interface de acordo com a sequência de ações necessárias para realizar cada tarefa <li> para cada ação enumerada, analisar se o usuário executaria a ação corretamente, repondendo e justificando a resposta às seguintes perguntas: P1. O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?) P2. O usuário vai notar que a ação correta está disponível? P3. O usuário vai associar a ação correta com o efeito que está tentando atingir? P4. Se a ação for executada corretamente, o usuário vai perceber que está progredindo na direção de concluir a tarefa? <li> relatar uma história aceitável sobre o sucesso ou falha em realizar cada ação que compõe a tarefa </ol> |
-| Interpretação e Consolidação dos resultados | <ol> <li> o que o usuário precisa saber *a priori* para realizar as tarefas <li> o que o usuário deve aprender enquanto realiza as tarefas <li> sugestões de correções para os problemas encontrados </ol> |
-| Relato dos resultados | <ol><li> gerar um relatório consolidado com os problemas encontrados e sugestões de correção </ol> |
-
+| Atividade                                   | Tarefa                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| :------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Preparação                                  | <ol> <li> identificar os perfis de usuários <li> definir quais tarefas farão parte da avaliação <li> descrever as ações necessárias para realizar cada tarefa <li> obter uma representação da interface, executável ou não </ol>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Coleta de dados                             | <ol> <li> percorrer a interface de acordo com a sequência de ações necessárias para realizar cada tarefa <li> para cada ação enumerada, analisar se o usuário executaria a ação corretamente, repondendo e justificando a resposta às seguintes perguntas: P1. O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?) P2. O usuário vai notar que a ação correta está disponível? P3. O usuário vai associar a ação correta com o efeito que está tentando atingir? P4. Se a ação for executada corretamente, o usuário vai perceber que está progredindo na direção de concluir a tarefa? <li> relatar uma história aceitável sobre o sucesso ou falha em realizar cada ação que compõe a tarefa </ol> |
+| Interpretação e Consolidação dos resultados | <ol> <li> o que o usuário precisa saber _a priori_ para realizar as tarefas <li> o que o usuário deve aprender enquanto realiza as tarefas <li> sugestões de correções para os problemas encontrados </ol>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Relato dos resultados                       | <ol><li> gerar um relatório consolidado com os problemas encontrados e sugestões de correção </ol>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 ### Preparação
 
 Tarefas investigadas e suas sequências de ações:
+
 - Tarefa 1 - Acessar a aba “Notícias” e ler uma notícia
-	Sequência de ações:
-	- Clicar no botão "Notícias"
-	- Clicar em uma notícia para ler
+  Sequência de ações:
+
+  - Clicar no botão "Notícias"
+  - Clicar em uma notícia para ler
 
 - Tarefa 2 - Acessar a aba “Concursos e Processos Seletivos”
-	Sequência de ações:
-	- Clicar no botão "Concurso"
-	- Clicar e acessar a página de um concurso de interesse
-	- Clicar e visualizar um edital ou publicação de interesse
+  Sequência de ações:
+
+  - Clicar no botão "Concurso"
+  - Clicar e acessar a página de um concurso de interesse
+  - Clicar e visualizar um edital ou publicação de interesse
 
 - Tarefa 3 - Consultar 2° via de IPTU
-	Sequência de ações:
-	- Clicar no botão "IPTU"
-	- Clicar no botão "Segunda via – IPTU e Taxas Diversas"
-	- Preencher o campo "Inscrição imobiliária"
-	- Clicar no botão "F9-Pesquisar"
+  Sequência de ações:
+
+  - Clicar no botão "IPTU"
+  - Clicar no botão "Segunda via – IPTU e Taxas Diversas"
+  - Preencher o campo "Inscrição imobiliária"
+  - Clicar no botão "F9-Pesquisar"
 
 - Tarefa 4 - Encontrar informações sobre doação de plaquetas em Sorocaba
-	Sequência de ações:
-	- Clicar no botão "Doe Plaquetas!"
-	- Encontrar informações sobre onde doar plaquetas
-	- Encontrar o número de telefone para informações sobre a doação de plaquetas
+  Sequência de ações:
+
+  - Clicar no botão "Doe Plaquetas!"
+  - Encontrar informações sobre onde doar plaquetas
+  - Encontrar o número de telefone para informações sobre a doação de plaquetas
 
 - Tarefa 5 - Visualizar os sorteios realizados pelo “Nota da Bolada”
-	Sequência de ações:
-	- Clicar no botão "Nota da Bolada"
-	- Clicar no botão "Sorteios"
-	- Visualizar informações sobre os sorteios
-	- Clicar em um sorteio específico e visualizar o(s) contribuinte(s) sorteado(s)
+  Sequência de ações:
+
+  - Clicar no botão "Nota da Bolada"
+  - Clicar no botão "Sorteios"
+  - Visualizar informações sobre os sorteios
+  - Clicar em um sorteio específico e visualizar o(s) contribuinte(s) sorteado(s)
 
 - Tarefa 6 - Encontrar informações sobre o Procon de Sorocaba
-	Sequência de ações:
-	- Clicar no botão "Procon Sorocaba"
-	- Clicar no botão "Atendimento"
-	- Visualizar informações sobre o Procon Sorocaba
+  Sequência de ações:
+  - Clicar no botão "Procon Sorocaba"
+  - Clicar no botão "Atendimento"
+  - Visualizar informações sobre o Procon Sorocaba
 
 Material de apoio:
+
 - Perguntas do método:
-	P1. O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?)
-	P2. O usuário vai notar que a ação correta está disponível?
-	P3. O usuário vai associar a ação correta com o efeito que está tentando atingir?
-	P4. Se a ação for executada corretamente, o usuário vai perceber que está progredindo na direção de concluir a tarefa?
+  P1. O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?)
+  P2. O usuário vai notar que a ação correta está disponível?
+  P3. O usuário vai associar a ação correta com o efeito que está tentando atingir?
+  P4. Se a ação for executada corretamente, o usuário vai perceber que está progredindo na direção de concluir a tarefa?
 
 Perfil do Usuário:
+
 - Idade: entre 21 e 30 anos
 - Ensino superior em andamento ou completo
 - Acostumado a utilizar tecnologia, precisa de ajuda em algumas coisas
@@ -79,6 +86,7 @@ Perfil do Usuário:
 - Pouca experiência em realizar as tarefas no site
 
 Número e perfil dos avaliadores:
+
 - Quantidade: um avaliador
 - Perfil: estudante da disciplina de Interação Humano Computador da UnB - FGA
 
@@ -89,16 +97,18 @@ A execução de cada tarefa foi realizada, respondendo às perguntas fornecidas 
 #### Tarefa 1 - Acessar a aba “Notícias” e ler uma notícia
 
 Ação 1: Clicar no botão "Notícias"
+
 - P1. O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?)
-	- Sim, pois a ação é familiar ao usuário
+  - Sim, pois a ação é familiar ao usuário
 - P2. O usuário vai notar que a ação correta está disponível?
-	- Sim, pois o botão "Notícias" está posicionado na página de forma que facilite a sua localização
+  - Sim, pois o botão "Notícias" está posicionado na página de forma que facilite a sua localização
 - P3. O usuário vai associar a ação correta com o efeito que está tentando atingir?
-	- Sim, pois a interface deixa claro que o botão "Notícias" é para acessar as notícias
+  - Sim, pois a interface deixa claro que o botão "Notícias" é para acessar as notícias
 - P4. Se a ação for executada corretamente, o usuário vai perceber que está progredindo na direção de concluir a tarefa?
-	- Sim, pois ao clicar no botão "Notícias" é aberta uma página denominada "Agência de Notícias", com diversas notícias em artigos, vídeos e jornais
+  - Sim, pois ao clicar no botão "Notícias" é aberta uma página denominada "Agência de Notícias", com diversas notícias em artigos, vídeos e jornais
 
 Ação 2: Clicar em uma notícia para ler
+
 - P1. O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?)
   - Sim, pois a ação é familiar ao usuário
 - P2. O usuário vai notar que a ação correta está disponível?
@@ -111,6 +121,7 @@ Ação 2: Clicar em uma notícia para ler
 #### Tarefa 2 - Acessar a aba “Concursos e Processos Seletivos”
 
 Ação 1: Clicar no botão "Concurso"
+
 - P1. O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?)
   - Sim, pois seu objetivo é visualizar informações sobre concursos e imagina que haja um campo no site da prefeitura para isso
 - P2. O usuário vai notar que a ação correta está disponível?
@@ -122,6 +133,7 @@ Ação 1: Clicar no botão "Concurso"
   - Sim, pois ao executar a ação, é aberta uma página denominada "Concurso Público Sorocaba", com o título “Concursos e Processos Seletivos”
 
 Ação 2: Clicar e acessar a página de um concurso de interesse
+
 - P1. O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?)
   - Sim, pois ao querer acessar um concurso específico, vai imaginar que há a opção de acessar um específico
 - P2. O usuário vai notar que a ação correta está disponível?
@@ -132,6 +144,7 @@ Ação 2: Clicar e acessar a página de um concurso de interesse
   - Sim, pois ao clicar em um concurso é aberta a sua página
 
 Ação 3: Clicar e visualizar um edital ou publicação de interesse
+
 - P1. O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?)
   - Sim, pois sabe que para visualizar um edital ou publicação específica necessita clicar nele
 - P2. O usuário vai notar que a ação correta está disponível?
@@ -145,6 +158,7 @@ Ação 3: Clicar e visualizar um edital ou publicação de interesse
 #### Tarefa 3 - Consultar 2° via de IPTU
 
 Ação 1: Clicar no botão "IPTU"
+
 - P1. O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?)
   - Sim, pois seu objetivo é relacionado ao IPTU e imagina que haja um campo no site da prefeitura para isso
 - P2. O usuário vai notar que a ação correta está disponível?
@@ -156,6 +170,7 @@ Ação 1: Clicar no botão "IPTU"
   - Sim, pois ao executar a ação, é aberta uma página denominada "IPTU", com diversas opções de ações a respeito do IPTU
 
 Ação 2: Clicar no botão "Segunda via – IPTU e Taxas Diversas"
+
 - P1. O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?)
   - Sim, pois deseja consultar a segunda via do IPTU e imagina que haja uma opção assim denominada, por experiência
 - P2. O usuário vai notar que a ação correta está disponível?
@@ -166,6 +181,7 @@ Ação 2: Clicar no botão "Segunda via – IPTU e Taxas Diversas"
   - Não, pois a aba aberta não deixa claro que a consulta a ser feita é de segunda via de IPTU
 
 Ação 3 Preencher o campo "Inscrição imobiliária"
+
 - P1. O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?)
   - Sim, pois para consultar a sua segunda via de IPTU imagina que deva informar seu número de inscrição imobiliária
 - P2. O usuário vai notar que a ação correta está disponível?
@@ -176,6 +192,7 @@ Ação 3 Preencher o campo "Inscrição imobiliária"
   - Sim, pois imagina que deve-se preencher o número para realizar a consulta
 
 Ação 4: Clicar no botão "F9-Pesquisar"
+
 - P1. O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?)
   - Sim, pois ao preencher o campo imagina que tenha que clicar em algum botão para realizar a pesquisa
 - P2. O usuário vai notar que a ação correta está disponível?
@@ -188,6 +205,7 @@ Ação 4: Clicar no botão "F9-Pesquisar"
 #### Tarefa 4 - Encontrar informações sobre doação de plaquetas em Sorocaba
 
 Ação 1: Clicar no botão "Doe Plaquetas!"
+
 - P1. O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?)
   - Sim, pois vai procurar algum elemento na tela relacionado à doação deplaquetas
 - P2. O usuário vai notar que a ação correta está disponível?
@@ -198,6 +216,7 @@ Ação 1: Clicar no botão "Doe Plaquetas!"
   - Sim, pois ao clicar em um elemento correspondente à doação de plaquetas, uma página com uma notícia é aberta
 
 Ação 2: Encontrar informações sobre onde doar plaquetas
+
 - P1. O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?)
   - Sim, pois o usuário quer as informações que a página fornece
 - P2. O usuário vai notar que a ação correta está disponível?
@@ -209,6 +228,7 @@ Ação 2: Encontrar informações sobre onde doar plaquetas
   - Sim, pois terá obtido a informação que desejava
 
 Ação 3: Encontrar o número de telefone para informações sobre a doação de plaquetas
+
 - P1. O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?)
   - Sim, pois o usuário quer as informações que a página fornece
 - P2. O usuário vai notar que a ação correta está disponível?
@@ -222,6 +242,7 @@ Ação 3: Encontrar o número de telefone para informações sobre a doação de
 #### Tarefa 5 - Visualizar os sorteios realizados pelo “Nota da Bolada”
 
 Ação 1: Clicar no botão "Nota da Bolada"
+
 - P1. O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?)
   - Sim, pois vai procurar algum elemento na tela relacionado aos sorteios do Nota da Bolada
 - P2. O usuário vai notar que a ação correta está disponível?
@@ -232,6 +253,7 @@ Ação 1: Clicar no botão "Nota da Bolada"
   - Sim, pois ao clicar em um elemento correspondente Nota da Bolada, uma nova página é aberta
 
 Ação 2: Clicar no botão "Sorteios"
+
 - P1. O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?)
   - Sim, pois deseja acessar a página dos sorteios realizados
 - P2. O usuário vai notar que a ação correta está disponível?
@@ -242,6 +264,7 @@ Ação 2: Clicar no botão "Sorteios"
   - Sim, pois ao clicar no botão será aberta uma página denominada "Sorteios"
 
 Ação 3: Visualizar informações sobre os sorteios
+
 - P1. O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?)
   - Sim, pois há diversas informações sobre os sorteios disponíveis
 - P2. O usuário vai notar que a ação correta está disponível?
@@ -252,6 +275,7 @@ Ação 3: Visualizar informações sobre os sorteios
   - Sim, pois visualizará as informações sobre os sorteios
 
 Ação 4: Clicar em um sorteio específico e visualizar o(s) contribuinte(s) sorteado(s)
+
 - P1. O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?)
   - Sim, pois aparentemente ao clicar no sorteio você consegue visualizar o(s) contribuinte(s) sorteado(s)
 - P2. O usuário vai notar que a ação correta está disponível?
@@ -264,6 +288,7 @@ Ação 4: Clicar em um sorteio específico e visualizar o(s) contribuinte(s) sor
 #### Tarefa 6 - Encontrar informações sobre o Procon de Sorocaba
 
 Ação 1: Clicar no botão "Procon Sorocaba"
+
 - P1. O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?)
   - Sim, pois vai procurar algum elemento na tela relacionado ao Procon
 - P2. O usuário vai notar que a ação correta está disponível?
@@ -274,6 +299,7 @@ Ação 1: Clicar no botão "Procon Sorocaba"
   - Sim, pois ao clicar em um elemento correspondente Procon Sorocaba, uma nova página é aberta
 
 Ação 2: Clicar no botão "Atendimento"
+
 - P1. O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?)
   - Não, pois não vai imaginar que as informações a respeito do Procon Sorocaba estão na aba "Atendimento", sendo esse um caso de má escolha de título
 - P2. O usuário vai notar que a ação correta está disponível?
@@ -284,6 +310,7 @@ Ação 2: Clicar no botão "Atendimento"
   - Sim, pois ao clicar no botão "Atendimento", irá abrir uma página com informações diversas do Procon Sorocaba
 
 Ação 3: Visualizar informações sobre o Procon Sorocaba
+
 - P1. O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?)
   - Sim, pois busca informações e está em uma página com informações de telefone, endereço e opção de fazer denúnicas
 - P2. O usuário vai notar que a ação correta está disponível?
@@ -296,13 +323,15 @@ Ação 3: Visualizar informações sobre o Procon Sorocaba
 ### Consolidação dos Resultados
 
 Na consolidação dos resultados, trazemos uma síntese dos resultados sobre as seguintes questões para cada uma das tarefas:
-- Qual o conhecimento que os usuários devem possuir *a priori* para serem capazes de executar a tarefa analisada?
+
+- Qual o conhecimento que os usuários devem possuir _a priori_ para serem capazes de executar a tarefa analisada?
 - Qual o conhecimento que os usuários deveriam aprender enquanto realizam a tarefa analisada?
 - Quais as sugestões de correções na interface?
 
 A seguir apresentamos as tarefas que apresentaram histórias de insucesso e as respostas às perguntas supracitadas.
 
 - Tarefa: Acessar a aba “Concursos e Processos Seletivos”
+
   - Ação: Clicar e visualizar um edital ou publicação de interesse
   - Problema: O usuário vai notar que a ação correta está disponível?
   - Respota: Não, pois em alguns concursos a página não apresenta nenhum arquivo ou informação sobre o concurso
@@ -312,6 +341,7 @@ A seguir apresentamos as tarefas que apresentaram histórias de insucesso e as r
   - Deixamos como sugestão de correção na interface a separação entre abas de concursos para os quais há publicações e concursos para os quais não há, para facilitar a identificação por parte do usuário
 
 - Tarefa: Consultar 2° via de IPTU
+
   - Ação: Clicar no botão "IPTU"
   - Problema: O usuário vai notar que a ação correta está disponível?
   - Resposta: Sim, pois o botão está disponível na página
@@ -322,15 +352,17 @@ A seguir apresentamos as tarefas que apresentaram histórias de insucesso e as r
   - Uma sugestão de correção na interface é fazer um único menu onde possa-se acessar as funcionalidades da página, divididas por categoria, em vez da forma espalhada que estão hoje.
 
 - Tarefa: Consultar 2° via de IPTU
+
   - Ação: Clicar no botão "Segunda via – IPTU e Taxas Diversas"
   - Problema: Se a ação for executada corretamente, o usuário vai perceber que está progredindo na direção de concluir a tarefa?
-  - Resposta:  Não, pois a aba aberta não deixa claro que a consulta a ser feita é de segunda via de IPTU
+  - Resposta: Não, pois a aba aberta não deixa claro que a consulta a ser feita é de segunda via de IPTU
   - Local na interface onde ocorreu o problema: Página de consulta da segunda via de IPTU
   - Para não cair nesse problema, o usuário deveria saber a priori que aquela é a página de consulta da segunda via de IPTU, ou seja, necessitaria já ter entrado na página antes.
   - Ao realizar a tarefa, o usuário deve aprender que aquela é, de fato, a página que está procurando, e lembrar dessa informação para próximas realização da tarefa.
   - A sugestão de correção na interface é colocar um título na página ou descrição do que se trata.
 
 - Tarefa: Consultar 2° via de IPTU
+
   - Ação: Clicar no botão "F9-Pesquisar"
   - Problema: O usuário vai notar que a ação correta está disponível?
   - Resposta: Não, pois o botão não está lozalizado de forma intuitiva e possui um nome muito específico e um símbolo incomum para consultas
@@ -340,6 +372,7 @@ A seguir apresentamos as tarefas que apresentaram histórias de insucesso e as r
   - Como sugestões de correções na interface podemos ter a renomeação do botão para algo como "Consultar" ou "Ir" e a modificação do ícone de um binóculo para o ícone de uma luta, mais comumente utilizado para consultas.
 
 - Tarefa: Encontrar informações sobre doação de plaquetas em Sorocaba
+
   - Ação: Clicar no botão "Doe Plaquetas!"
   - Problema: O usuário vai notar que a ação correta está disponível?
   - Resposta: Não, pois o botões de doação de plaquetas estão dispostos em um carrosel com diversas informações que fica girando e se não estiver aparente no momento, a única maneira de encontrá-los é clicando em um outro menu, que não vai diretamente pra doação de plaquetas, mas torna aparente as opções relaciondas à doação de plaquetas no carrossel
@@ -349,6 +382,7 @@ A seguir apresentamos as tarefas que apresentaram histórias de insucesso e as r
   - Deixamos como sugestão de correção na interface também colocar as informações sobre a doação de plaquetas em algum lugar fora do carrossel, para facilitar que seja encontrado na página.
 
 - Tarefa: Encontrar informações sobre doação de plaquetas em Sorocaba
+
   - Ações:
   - Encontrar informações sobre onde doar plaquetas
   - Encontrar o número de telefone para informações sobre a doação de plaquetas
@@ -361,6 +395,7 @@ A seguir apresentamos as tarefas que apresentaram histórias de insucesso e as r
   - Sugerimos como correção na interface adicionar uma aba de contato ou informações institucionais centralizadas, como endereço, telefone, sítio da internet se for o caso, e uma com informações sobre como agendar a doação.
 
 - Tarefa: Visualizar os sorteios realizados pelo “Nota da Bolada”
+
   - Ação: Clicar no botão "Nota da Bolada"
   - Problema: O usuário vai notar que a ação correta está disponível?
   - Resposta: Não, pois o botões relacionados ao Nota da Bolada estão dispostos em um carrosel com diversas informações que fica girando e se não estiver aparente no momento, a única maneira de encontrá-los é clicando em um outro menu, que não vai diretamente para a página do Nota da Bolada, mas torna aparente as opções relaciondas ao Nota da Bolada no carrossel
@@ -370,6 +405,7 @@ A seguir apresentamos as tarefas que apresentaram histórias de insucesso e as r
   - Deixamos como sugestão de correção na interface também colocar as informações sobre o Nota da Bolada em algum lugar fora do carrossel, para facilitar que seja encontrado na página.
 
 - Tarefa: Visualizar os sorteios realizados pelo “Nota da Bolada”
+
   - Ação: Clicar em um sorteio específico e visualizar o(s) contribuinte(s) sorteado(s)
   - Problemas:
   - O usuário vai notar que a ação correta está disponível?
@@ -383,6 +419,7 @@ A seguir apresentamos as tarefas que apresentaram histórias de insucesso e as r
   - Deixamos como sugestão duas possibilidades: excluir a opção de "Visualizar" e o pop-up que surge com o título "Contribuinte(s) sorteado(s)"; ou passar a exibir informações sobre o(s) contribuinte(s) sorteado(s).
 
 - Tarefa: Encontrar informações sobre o Procon de Sorocaba
+
   - Ação: Clicar no botão "Procon Sorocaba"
   - Problema: O usuário vai notar que a ação correta está disponível?
   - Resposta: Não, pois o botões relacionados ao Procon Sorocaba estão dispostos em um carrosel com diversas informações que fica girando e se não estiver aparente no momento, a única maneira de encontrá-los é clicando em um outro menu, que não vai diretamente para a página do Procon Sorocaba, mas torna aparente as opções relaciondas ao Procon Sorocaba no carrossel
@@ -410,6 +447,6 @@ A seguir apresentamos as tarefas que apresentaram histórias de insucesso e as r
 
 ## Tabela de Versionamento
 
-|    Data    | Versão |                Descrição               |                         Autor                         | Revisor |
-| :--------: | :----: | :------------------------------------: | :---------------------------------------------------: | :-----: |
+|    Data    | Versão |          Descrição          |                         Autor                         |                Revisor                 |
+| :--------: | :----: | :-------------------------: | :---------------------------------------------------: | :------------------------------------: |
 | 21/12/2022 | `1.0`  | Análise de Tarefas e Relato | [Charles Serafim](https://github.com/charles-serafim) | [Pablo](https://github.com/pabloheika) |
