@@ -43,10 +43,10 @@
     - [Planejamento do Relato dos Resultados da Análise de Tarefas](/pages/projeto/etapa4/planejamento_resultado_analise_de_tarefas.md)
 
   - **Etapa 5**
-    - [Planejamento do Relato dos Resultados da Avaliação do Protótipo de papel](/pages/projeto/etapa5/planejamento_resultado_prototipo_papel.md)
-    - [Planejamento da Avaliação do Protótipo de papel](/pages/projeto/etapa5/planejamento_avaliacao_prototipo_papel.md)
     - [Relato da Avaliação da Análise de Rarefas](/pages/projeto/etapa5/relato_analise_de_tarefas.md)
     - [Resultados do Storyboard](/pages/projeto/etapa5/storyboard.md)
+    - [Planejamento da Avaliação do Protótipo de papel](/pages/projeto/etapa5/planejamento_avaliacao_prototipo_papel.md)
+    - [Planejamento do Relato dos Resultados da Avaliação do Protótipo de papel](/pages/projeto/etapa5/planejamento_resultado_prototipo_papel.md)
 
 - **Apresentações**
 
