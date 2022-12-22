@@ -1,8 +1,8 @@
-# Relato da Análise de Tarefas
+# Relato dos Resultados da Avaliação da Análise de Tarefas
 
 ## Introdução
 
-Este documento traz os resultados da Análise de Tarefas realizada a respeito do site da [Prefeitura de Sorocaba](https://www.sorocaba.sp.gov.br/). Ele está dividido em três partes: Percurso Cognitivo, Questionário e Conclusão.
+Este documento traz os resultados da avaliação da Análise de Tarefas realizada a respeito do site da [Prefeitura de Sorocaba](https://www.sorocaba.sp.gov.br/). Ele está dividido em três partes: Percurso Cognitivo, Questionário e Conclusão.
 
 ## Percurso Cognitivo
 
