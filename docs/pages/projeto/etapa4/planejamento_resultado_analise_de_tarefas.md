@@ -6,7 +6,23 @@ Este documento tem como objetivos definir como e quando serão apresentados os r
 
 ## Cronograma
 
-Os prazos para a realização destas avaliações devem seguir o proposto no [Cronograma de Atividades](https://interacao-humano-computador.github.io/2022.2-PrefeituraDeSorocaba/#/pages/projeto/etapa1/cronograma) do projeto.
+Os prazos para a realização destas avaliações seguirão o cronograma disposto na Tabela 1.
+
+<div style="text-align: center">
+<p>Tabela 1: Cronograma. </p>
+</div>
+
+| Etapa                                          | Data de início | Data de término |
+| :--------------------------------------------: | :------------: | :-------------: |
+| Teste Piloto                                   |   26/12/2022   |    26/12/2022   |
+| Avaliação dos resultados do Teste Piloto       |   26/12/2022   |    27/12/2022   |
+| Ajustes no questionário final                  |   27/12/2022   |    27/12/2022   |
+| Aplicação do questionário final                |   27/12/2022   |    09/01/2022   |
+| Avaliação dos resultados do questionário final |   09/01/2022   |    11/01/2022   |
+
+<div style="text-align: center">
+<p>Fonte: Charles Serafim. </p>
+</div>
 
 ## Relatório
 
@@ -26,15 +42,48 @@ Nas seções abaixo, será detalhado como cada parte do relatório deve ser elab
 
 ### Objetivos e escopo da avaliação
 
-Nos relatórios, por parte dos avaliadores, devem constar quais os objetivos da avaliação que foi feita e qual o escopo dela, ou seja, *o que* ela pretendeu avaliar.
+Esta avaliação terá como objetivo avaliar a fidelidade das tarefas elencadas pelo grupo com a realidade, sendo estas:
+- Acessar a aba “Notícias”
+- Acessar a aba “Concursos e Processos Seletivos”
+- Consultar 2° via de IPTU
+- Encontrar informações sobre doação de plaquetas em Sorocaba
+- Visualizar os sorteios realizados pelo “Nota da Bolada”
+- Encontrar informações sobre o Procon de Sorocaba
 
 ### Forma como a avaliação foi realizada
 
-Outro ponto que deve constar é a qual método de avaliação a avaliação realizada corresponde. Utilizaremos o percurso cognitivo. É interessante detalhar *como* foi realizada, quais passos foram seguidos, entre outros detalhes.
+O método utilizado nesta análise será o Questionário (método de investigação).
+
+Ele conterá as seguintes perguntas:
+- Qual a sua faixa etária?
+- Qual o seu gênero?
+- Qual o seu grau de escolaridade?
+- Qual a sua ocupação?
+- Qual a renda mensal per capita (a média por pessoa) do seu núcleo familiar?
+- Qual você considera que é a sua frequência de uso de tecnologia?
+- Como você vê sua facilidade e experiência ao utilizar tecnologia, numa escala de 1 a 5?
+- Qual a sua relação/atitude perante tecnologia?
+- Que tipo de ação, consulta ou tarefa você buscaria fazer ao entrar no site da sua prefeitura?
+- Em relação às atividade/tarefas listadas abaixo (as tarefas elencadas), para quais você ATUALMENTE utiliza o site de sua prefeitura para realizá-las?
+- Agora, em relação às atividade/tarefas listadas abaixo (as tarefas elencadas), quais você GOSTARIA que o site da sua prefeitura oferecesse para realizar?
+- E quais dessas tarefas (as tarefas elencadas) você JAMAIS procuraria no site da sua prefeitura?
+- Sugestões, dúvidas, críticas e comentários...
 
 ### Número e o perfil de usuários e avaliadores que participaram da avaliação
 
-Também será necessário que o relator informe qual o perfil dos usuários que participaram ou o perfil de usuários adotado como padrão para a avaliação, assim como informar detalhes relevantes a respeito dos avaliadores, para que questões a respeito de tendenciosidades sejam levadas em conta. Não será informado número de usuários porque o método utilizado não tem participação de usuários.
+Será realizado um teste piloto do questionário para verificar se as perguntas elencadas são suficientes para obter respostas sobre relevantes sobre as tarefas.
+O teste piloto será feito com um usuário apenas, na data de 26/12/2022.
+
+Após feito o teste piloto, poderão ser modificadas as perguntas ou aceitas, sendo assim, serão buscados de 5 a 10 usuários para responderem ao questionário final, a partir da data de 27/12/2022.
+
+Os uuários seguirão o perfil elencado na pesquisa sobre usuários:
+- Idade: entre 21 e 30 anos
+- Ensino superior em andamento ou completo
+- Acostumado a utilizar tecnologia, precisa de ajuda em algumas coisas
+- Já acessou o site poucas vezes
+- Pouca experiência em realizar as tarefas no site
+
+O questionário foi elaborado por um estudante da disciplina de Interação Humano Computador da UnB - FGA.
 
 ### Sumário dos dados coletados, podendo incluir tabelas e gráficos
 
@@ -46,7 +95,7 @@ Aqui, serão apresentados um relato dos resultados da interpretação e análise
 
 ### Lista dos problemas encontrados
 
-Deverá ser elaborada e apresentada no relatório uma lista dos problemas encontrados com a avaliação, em qual método e qual etapa foram encontrados, que tipo de problema é, dentre outros aspectos.
+Deverá ser elaborada e apresentada no relatório uma lista dos problemas encontrados com a avaliação, que tipo de problema é, dentre outros aspectos.
 
 ### Planejamento para o reprojeto do sistema
 
@@ -61,7 +110,8 @@ Por fim, é imprescindível que o relatório contenha sugestões de correções 
 | Data | Versão | Descrição | Autor | Revisor |
 | :--: | :----: | :-------: | :---: | :-----: |
 | 14/12/2022 | `1.0` | Definição do cronograma e estrutura do relatório final | [Charles Serafim](https://github.com/charles-serafim) | [Pablo S. Costa](https://github.com/pabloheika) |
-| 21/12/2022 | `1.1` | Exclusão do questionário como método utilizado na análise | [Charles Serafim](https://github.com/charles-serafim) | - |
+| 21/12/2022 | `1.1` | Exclusão do questionário como método utilizado na análise | [Charles Serafim](https://github.com/charles-serafim) | [Lucas](https://github.com/lucasgcaldas) |
+| 26/12/2022 | `1.3` | Mudança dos objetivos e método da avaliação | [Charles Serafim](https://github.com/charles-serafim) | - |
 
 
 
