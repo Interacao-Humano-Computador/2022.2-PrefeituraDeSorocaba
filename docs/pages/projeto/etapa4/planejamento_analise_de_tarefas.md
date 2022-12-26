@@ -1,14 +1,15 @@
-# Planejamento da Análise de Tarefas
+# Planejamento da Avaliação da Análise de Tarefas
 
 ## Introdução
 
-Após terem sido realizadas pela equipe análises a respeito do sistema, dos seus usuários e das tarefas que eles buscam executar com o sistema, o próximo passo a ser efetuado no projeto de análise e design de IHC é a identificação e avaliação de como os usuários interagem de fato com o sistema. Aí entra o Planejamento da Análise de Tarefas, onde buscamos investigar e/ou confirmar as informações produzidas no documento de [Análise de Tarefas](https://interacao-humano-computador.github.io/2022.2-PrefeituraDeSorocaba/#/pages/projeto/etapa2/goms), que identifica as tarefas executadas pelos usuários no sistema e como elas são realizadas, dentre outros aspectos. Para este planejamento, definiremos métodos de execução da análise e potencialmente roteiros a serem seguidos em determinadas etapas.
+Após terem sido realizadas pela equipe análises a respeito do sistema, dos seus usuários e das tarefas que eles buscam executar com o sistema, o próximo passo a ser efetuado no projeto de análise e design de IHC é a identificação e avaliação sobre esse levantamento de tarefas, afim de identificar se de fato condizem com a realidade. Aí entra o Planejamento da Análise de Tarefas, onde buscamos investigar e/ou confirmar as informações produzidas no documento de [Análise de Tarefas](https://interacao-humano-computador.github.io/2022.2-PrefeituraDeSorocaba/#/pages/projeto/etapa2/goms), que identifica as tarefas executadas pelos usuários no sistema e como elas são realizadas, dentre outros aspectos. Para este planejamento, definiremos métodos de execução da análise e potencialmente roteiros a serem seguidos em determinadas etapas.
 
 ## Metodologia
 
-Na análise das tarefas será utilizado um dos métodos de avaliação descritos no livro *Interação Humano-Computador e Experiência do Usuário*, de Simone D. J. Barbosa, Bruno Santana da Silva e outros autores: o método de inspeção.
+Na avaliação da análise das tarefas será utilizado um dos métodos de avaliação descritos no livro *Interação Humano-Computador e Experiência do Usuário*, de Simone D. J. Barbosa, Bruno Santana da Silva e outros autores: o método de investigação.
 
-Os métodos de inspeção tem como proposta examinar o sistema e tentar antever as possíveis consequências das decisões de design sobre as experiências de uso. Não envolvem diretamente os usuários, gerando assim relatos de experiências de uso potenciais. Permitem avaliar a conformidade com um padrão ou guia de estilo.
+Os métodos de investigação visam coletar, interpretar e analisar concepções, opiniões, expectativas e comportamentos do usuário relacionados com o sistema. Permitem investigar alternativas de design, problemas que os usuários costumam enfrentar, como eles se apropriam da tecnologia existente e quais são suas expectativas para futuras interações com tecnologias atuais e novas (Barbosa & Silva, 2021). O método de investigação utilizado será o questionário.
+
 
 Para estruturar e orientar o processo, utilizamos o *framework* DECIDE, proposto por Preece et al. em 2002, cujas atividades podem ser realizadas de forma iterativa e consistem em:
 
@@ -30,69 +31,48 @@ Na seção seguinte, apresentamos como o *framework* DECIDE será executado pela
 
 ### D - Determinar os objetivos da avaliação
 
-Esta avaliação terá como objetivo avaliar os seguites aspectos:
-
-- apropriação da tecnologia pelos usuários
-- ideias e alternativas de design
-- conformidade com um padrão
-- problemas na interação e na interface
-
-### E - Explorar perguntas a serem respondidas com a avaliação
-
-A avaliação pretende obter respostas para as seguintes perguntas:
-
-- Como os usuários realizam as atividades que o sistema oferece?
-- Quanto os usuários consideram que o sistema os ajuda a realizar suas atividades?
-- Quanto o sistema leva os usuários a utilizarem outras funcionalidades para além da que buscar primariamente utilizar?
-- Para os usuários, quais são os pontos fortes e fracos do sistema?
-- Quais objetivos os usuários conseguem realizar através do sistema?
-- Quais objetivos não conseguem realizar?
-- Como o sistema poderia oferecer métodos mais interessantes ou eficientes para os usuários atingirem seus objetivos?
-- Quais funcionalidades os usuários esperariam encontrar no sistema que não encontraram?
-- O sistema fornece simplicidade nas estruturas das tarefas?
-- O sistema tem equilíbrio entre controle e liberdade do usuário?
-- O sistema possui consistência e padronização?
-- O sistema promove a eficiência do usuário?
-- O sistema permite que as ações possíveis sejam facilmente visíveis e reconhecidas?
-- O sistema tem conteúdo relevante e expressão adequada?
-- O sistema é projetado de forma a se recuperar de possíveis erros cometidos pelos usuários?
-- Os usuários conseguem operar o sistema?
-- Os usuários atingem seus objetivos? Em quanto tempo? Após cometer quantos erros?
-- Que parte da interface e da interação deixa os usuários insatisfeitos?
-- Que parte da interface desmotiva os usuários a explorarem outras funcionalidades?
-- Com que frequencia os problemas na interface e interação ocorrem?
-
-Estas perguntas gerais servirão de base para a montagem dos questionários e também para a produção do roteiro de inspeção.
-
-O percurso cognitivo, para cada tarefa analisada, deverá ajudar a responder as seguintes perguntas:
-
-- O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?)
-- O usuário vai notar que a ação correta está disponível?
-- O usuário vai associar a ação correta com o efeito que está tentando atingir?
-- Se a ação for executada corretamente, o usuário vai perceber que está progredindo na direção de concluir a tarefa?
-  
-### C - Escolher os métodos de avaliação a serem utilizados
-
-O método utilizado nesta análise seráo o Percurso Cognitivo (método de inspeção);
-
-O percurso cognitivo consiste em percorrer a interface inspecionando as ações projetadas para um usuário concluir cada tarefa utilizando o sistema. O avaliador se coloca no papel do usuário (neste método não é necessária a participação de um usuário real) e detalha como seria a interação do usuário com o sistema naquele momento.
-
-### I - Identificar e administrar as questões práticas da avaliação
-
-Será realizado um teste piloto do percurso cognitivo para verificar se as perguntas elencadas são suficientes para obter respostas sobre relevantes sobre as tarefas.
-
-De acordo com o método de avaliação utilizado, lidaremos com as questões práticas da seguite forma:
-
-#### Percurso cognitivo
-
-Os membros do grupo realizarão a avaliação do percurso cognitivo para cada tarefa elencada, de acordo com o número recomendado de avaliadores para este método (3 a 5 avaliadores). As tarefas são as seguintes:
-
+Esta avaliação terá como objetivo avaliar a fidelidade das tarefas elencadas pelo grupo com a realidade, sendo estas:
 - Acessar a aba “Notícias”
 - Acessar a aba “Concursos e Processos Seletivos”
 - Consultar 2° via de IPTU
 - Encontrar informações sobre doação de plaquetas em Sorocaba
 - Visualizar os sorteios realizados pelo “Nota da Bolada”
 - Encontrar informações sobre o Procon de Sorocaba
+
+### E - Explorar perguntas a serem respondidas com a avaliação
+
+A avaliação pretende obter respostas para as seguintes perguntas:
+- Dados demográficos a respeito do usuário
+- Quais tarefas o usuário costuma realizar ao acessar o site da prefeitura
+- Quais tarefas o usuário gostaria de realizar ao acessar o site da prefeitura
+- Quais tarefas o usuário jamais realizaria ao acessar o site da prefeitura
+  
+### C - Escolher os métodos de avaliação a serem utilizados
+
+O método utilizado nesta análise seráo o Questionário (método de investigação);
+
+### I - Identificar e administrar as questões práticas da avaliação
+
+Será realizado um teste piloto do questionário para verificar se as perguntas elencadas são suficientes para obter respostas sobre relevantes sobre as tarefas.
+O teste piloto será feito com um usuário apenas, na data de 26/12/2022.
+
+Após feito o teste piloto, poderão ser modificadas as perguntas ou aceitas, sendo assim, serão buscados de 5 a 10 usuários para responderem ao questionário final, a partir da data de 27/12/2022.
+
+Um cronograma com as datas será apresentado na Tabela 1.
+
+<div style="text-align: center">
+<p>Tabela 1: Cronograma. </p>
+</div>
+
+| Etapa                                    | Data de início | Data de término |
+| :--------------------------------------: | :------------: | :-------------: |
+| Teste Piloto                             |   26/12/2022   |    26/12/2022   |
+| Avaliação dos resultados do Teste Piloto |   26/12/2022   |    27/12/2022   |
+| Aplicação do quetionário final           |   27/12/2022   |    09/01/2022   |
+
+<div style="text-align: center">
+<p>Fonte: Charles Serafim. </p>
+</div>
 
 ### D - Decidir como lidar com as questões éticas
 
@@ -124,7 +104,8 @@ O relatório final sobre a avaliação incluirá os seguites pontos, descritos d
 | :--: | :----: | :-------: | :---: | :-----: |
 | 13/12/2022 | `1.0` | Criação do documento, template e definição de algumas tarefas | [Charles Serafim](https://github.com/charles-serafim) | [Pablo S. Costa](https://github.com/pabloheika) |
 | 14/12/2022 | `1.1` | Definição dos métodos, questões práticas e cronograma | [Charles Serafim](https://github.com/charles-serafim) | [Pablo S. Costa](https://github.com/pabloheika) |
-| 21/12/2022 | `1.2` | Exclusão do questionário como método utilizado na análise | [Charles Serafim](https://github.com/charles-serafim) | - |
+| 21/12/2022 | `1.2` | Exclusão do questionário como método utilizado na análise | [Charles Serafim](https://github.com/charles-serafim) | [Luan](https://github.com/Luanmq) |
+| 26/12/2022 | `1.3` | Mudança dos objetivos e método da avaliação | [Charles Serafim](https://github.com/charles-serafim) | - |
 
 
 
