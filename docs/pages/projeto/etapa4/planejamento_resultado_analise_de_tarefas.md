@@ -17,8 +17,8 @@ Os prazos para a realização destas avaliações seguirão o cronograma dispost
 | Teste Piloto                                   |   26/12/2022   |    26/12/2022   |
 | Avaliação dos resultados do Teste Piloto       |   26/12/2022   |    27/12/2022   |
 | Ajustes no questionário final                  |   27/12/2022   |    27/12/2022   |
-| Aplicação do questionário final                |   27/12/2022   |    09/01/2022   |
-| Avaliação dos resultados do questionário final |   09/01/2022   |    11/01/2022   |
+| Aplicação do questionário final                |   27/12/2022   |    09/01/2023   |
+| Avaliação dos resultados do questionário final |   09/01/2023   |    11/01/2023   |
 
 <div style="text-align: center">
 <p>Fonte: Charles Serafim. </p>
