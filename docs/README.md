@@ -73,12 +73,18 @@ Abaixo segue o cronograma relatando a execução das atividades de cada etapa do
 | 5 | Relato dos resultados do Story Board | 15/12/2022 | 21/12/2022 | [Charles](https://github.com/charles-serafim), [Pablo](https://github.com/pabloheika) | [Maria Abritta](https://github.com/MariaAbritta) |
 | 5 | Relato de Análise de tarefas | 15/12/2022 | 21/12/2022 | [Charles](https://github.com/charles-serafim), [Pablo](https://github.com/pabloheika) | [Lucas](https://github.com/lucasgcaldas) |
 | 5 | Planejamento da Avaliação do Protótipo de Papel | 15/12/2022 | 21/12/2022 | [Maria Abritta](https://github.com/MariaAbritta), [Lucas](https://github.com/lucasgcaldas) | [Luan](https://github.com/Luanmq) |
-| 5 | Planejamento do relato dos resultados da avaliação do Protótipo de Papel | 15/12/2022 | 21/12/2022 | [Luan](https://github.com/Luanmq) |[Lucas](https://github.com/lucasgcaldas) |
+| 5 | Planejamento do relato dos resultados da avaliação do Protótipo de Papel | 15/12/2022 | 21/12/2022 | [Luan](https://github.com/Luanmq) | [Lucas](https://github.com/lucasgcaldas) |
+| 6 | Protótipo de baixa fidelidade (protótipo de papel) | 04/01/2023 | 11/01/2023 | [Luan](https://github.com/Luanmq) |[Lucas](https://github.com/lucasgcaldas) |
+| 6 | Relato dos resultados da avaliação do protótipo de baixa fidelidade | 04/01/2023 | 11/01/2023 | [Charles](https://github.com/charles-serafim) | [Pablo](https://github.com/pabloheika) |
+| 6 | Planejamento da Avaliação do protótipo de alta fidelidade | 04/01/2023 | 11/01/2023 | [Maria Abritta](https://github.com/MariaAbritta) | [Luan](https://github.com/Luanmq) |
+| 6 | Planejamento da Avaliação do relato dos resultados da avaliação do protótipo de alta fidelidade | 04/01/2023 | 11/01/2023 | [Lucas](https://github.com/lucasgcaldas) | [Maria Abritta](https://github.com/MariaAbritta) |
+
 
 |    Data    | Versão |      Descrição       |               Autor               |                 Revisor                  |
 | :--------: | :----: | :------------------: | :-------------------------------: | :--------------------------------------: |
-| 23/11/2022 | `1.0`  | Criação do documento | [Luan](https://github.com/Luanmq) | [Lucas](https://github.com/lucasgcaldas) |
+| 23/11/2022 | `1.0`  | Criação do documento | [Luan](https://github.com/Luanmq) | [Lucas](https://github.com/lucasgcaldas) |   
 | 21/12/2022 | `1.1`  | Atualizando cronograma e adicionando revisores | [Lucas](https://github.com/lucasgcaldas) | [Luan](https://github.com/Luanmq) |
-| 21/12/2022 | `1.2`  | Atualizando cronograma da etapa 4 | [Lucas](https://github.com/lucasgcaldas) | [Luan](https://github.com/Luanmq) |
+| 21/12/2022 | `1.2`  | Atualizando cronograma da etapa 4 e 5| [Lucas](https://github.com/lucasgcaldas) | [Luan](https://github.com/Luanmq) |
+| 10/01/2023 | `1.3`  | Atualizando cronograma da etapa 6| [Lucas](https://github.com/lucasgcaldas) | [Luan](https://github.com/Luanmq) |
 
 </center>
