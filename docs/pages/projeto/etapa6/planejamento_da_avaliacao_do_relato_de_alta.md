@@ -53,13 +53,17 @@ Primeiramente será mostrado as telas do do
 
 | Número | Pergunta | Resposta | 
 | :----: | :------: | :------: |
-| 1 | Qual sua idade? | Caixa de texto |
-| 2 | Qual sua escolaridade? | Caixa de texto |
+| 1 | Qual sua idade? | Resposta subjetiva |
+| 2 | Qual sua escolaridade? | Resposta subjetiva |
 | 3 | Utiliza o site da prefeitura da sua cidade? | Sim? Não? |
-| 4 | Ao visualizar as tela de 2a via do IPTU, sentiu dificuldade de entender os passos para emitir a 2a via do IPTU? | Sim? Não? |
-| 5 | Ao visualizar as tela de IPTU Premiado, sentiu dificuldade de entender os passos para verificar se o seu IPTU foi premiado? | Sim? Não? |
-| 6 | Cite 3 características do protótipo que te chamou mais atenção. | Caixa de texto |
-| 8 | Cite uma coisa que você sentiu falta no protótipo. | Caixa de texto |
+| 4 | Há padronização de design dos botoẽs? | Sim? Não? |
+| 5 | As telas transmitem segurança ao usuário? | Sim? Não? |
+| 6 | As telas são intuitivas e de fácil memorização? | Sim? Não? |
+| 7 | As telas feitas são suficientes para a realização da tarefa? | Sim? Não? |
+| 8 | Você considera que alguma atividade possa ser feita de forma mais simples? | Sim? Não? |
+| 9 | Se sim, como? | Resposta subjetiva |
+| 10 | Cite 3 características das telas que te chamou mais atenção. | Resposta subjetiva |
+| 11 | Cite uma coisa que você sentiu falta nas telas. | Resposta subjetiva |
 
 <div style="text-align: center">
 <p>Fonte: Autoria própria. </p>
@@ -79,3 +83,4 @@ Sendo assim, é esperado a execução correta desse planejamento na próxima eta
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
 | 10/01/2023 | `1.0`  | Criação do documento | [Lucas Gomes](https://github.com/Neitan2001) | [Maria Abritta](https://github.com/MariaAbritta) |
+| 10/01/2023 | `1.1`  | Revisão do documento | [Lucas Gomes](https://github.com/Neitan2001) | [Luan](https://github.com/Luanmq) |
