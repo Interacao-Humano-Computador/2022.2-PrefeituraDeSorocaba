@@ -48,6 +48,10 @@
     - [Planejamento da Avaliação do Protótipo de papel](/pages/projeto/etapa5/planejamento_avaliacao_prototipo_papel.md)
     - [Planejamento do Relato dos Resultados da Avaliação do Protótipo de papel](/pages/projeto/etapa5/planejamento_resultado_prototipo_papel.md)
 
+   - **Etapa 6**
+   - [Planejamento da Avaliação do Protótipo de Alta Fidelidade](/pages/projeto/etapa6/planejamentoDaAvaliacaoDeAlta.md)
+   - [Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](/pages/projeto/etapa6/planejamentoDaAvaliacaoDoRelatoDeAlta.md)
+
 - **Apresentações**
 
   - [Apresentação 1](/pages/apresentacoes/apresentacao1.md)
