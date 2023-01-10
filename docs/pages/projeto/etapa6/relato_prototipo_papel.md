@@ -2,7 +2,71 @@
 
 ## Introdução
 
-Este documento traz os resultados da avaliação do Protótipo de Baixa Fidelidade (Protótipo de Papel) realizada a respeito do site da [Prefeitura de Sorocaba](https://www.sorocaba.sp.gov.br/). Ele está dividido em duas partes: Teste Piloto e Relatório.
+Este documento traz os resultados da avaliação do Protótipo de Baixa Fidelidade (Protótipo de Papel) realizada a respeito do site da [Prefeitura de Sorocaba](https://www.sorocaba.sp.gov.br/). Ele está dividido em três partes: Protótipo de Papel, Teste Piloto e Relatório.
+
+## Protótipo de Papel
+
+Abaixo, nas Figura 1-4, apresentamos o protótipo de papel construído. Ele representa a navegação necessária para realizar a tarefa de consulta de 2ª via de IPTU no site da Prefeitura de Sorocaba.
+
+A Figura 1 representa a tela inicial do site da Prefeitura de Sorocaba, ponto de partida para a consulta da 2ª via de IPTU.
+
+<div style="text-align: center">
+<p>Figura 1: Protótipo de Papel - Tela inicial. </p>
+</div>
+
+<div align="center">
+<img width="700 px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-PrefeituraDeSorocaba/master/docs/media/prototitpo_papel/prototitpo_papel_1.png"/>
+</div>
+
+<div style="text-align: center">
+<p>Fonte: Autoria própria. </p>
+</div>
+<br>
+
+A Figura 2 representa a tela aberta após se clicar no botão "IPTU" no site da Prefeitura. Nela, são apresentadas diversas opções relacionadas ao IPTU, incluindo a consulta de 2ª via e débitos.
+
+<div style="text-align: center">
+<p>Figura 2: Protótipo de Papel - Tela IPTU. </p>
+</div>
+
+<div align="center">
+<img width="700 px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-PrefeituraDeSorocaba/master/docs/media/prototitpo_papel/prototitpo_papel_2.png"/>
+</div>
+
+<div style="text-align: center">
+<p>Fonte: Autoria própria. </p>
+</div>
+<br>
+
+A Figura 3 representa a tela de consulta de débitos e 2ª via de IPTU. Nela é feita a busca através do número de inscrição imobiliária.
+
+<div style="text-align: center">
+<p>Figura 3: Protótipo de Papel - Tela de consulta. </p>
+</div>
+
+<div align="center">
+<img width="700 px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-PrefeituraDeSorocaba/master/docs/media/prototitpo_papel/prototitpo_papel_3.png"/>
+</div>
+
+<div style="text-align: center">
+<p>Fonte: Autoria própria. </p>
+</div>
+<br>
+
+A Figura 4 representa a tela gerada a partir da localização do registro imobiliário, com os débitos e opções de pagamento.
+
+<div style="text-align: center">
+<p>Figura 4: Protótipo de Papel - Tela de débitos e pagamentos. </p>
+</div>
+
+<div align="center">
+<img width="700 px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-PrefeituraDeSorocaba/master/docs/media/prototitpo_papel/prototitpo_papel_4.png"/>
+</div>
+
+<div style="text-align: center">
+<p>Fonte: Autoria própria. </p>
+</div>
+<br>
 
 ## Teste Piloto
 
@@ -22,7 +86,7 @@ Foi realizado o teste piloto com uma entrevistada, utilizando-se o site da prefe
 | 4 | Ao utilizar o site da prefeitura, sentiu dificuldade de acessar as notícias da cidade? | Não |
 | 5 | Ao utilizar o site da prefeitura, sentiu dificuldade de acessar a tela de 2a via do IPTU? | Sim |
 | 6 | Ao utilizar o site da prefeitura, sentiu dificuldade de acessar a tela do MEI? | Sim |
-| 7 | Cite 3 características do site que te chamou mais atenção. | <ol> <li> É difícil encontrar o que você quer <li> A aparência do site é um pouco caótica <li> Cores neons <li> sobreposição de imagens <li> o site não é intuitivo (a gente demora a descobrir o que tá acontecendo com nossas ações) <li> não tem um menu suspenso de carta de serviços <li> é um site dentro de outro site dentro de outro site |
+| 7 | Cite 3 características do site que te chamou mais atenção. | <ol> <li> É difícil encontrar o que você quer <li> A aparência do site é um pouco caótica <li> Cores neons e sobreposição de imagens |
 | 8 | Cite uma coisa que você sentiu falta no site. | Notícias, ultimos videos, publicações oficiais, pauta oficial, divulgação das pesquisas e as proprias ações da prefeitura |
 
 <div style="text-align: center">
