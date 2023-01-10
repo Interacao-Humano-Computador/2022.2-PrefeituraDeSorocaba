@@ -15,7 +15,7 @@ A Figura 1 representa a tela inicial do site da Prefeitura de Sorocaba, ponto de
 </div>
 
 <div align="center">
-<img width="700 px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-PrefeituraDeSorocaba/master/docs/media/prototitpo_papel/prototitpo_papel_1.png"/>
+<img width="700 px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-PrefeituraDeSorocaba/master/docs/media/prototipo_papel/prototipo_papel_1.png"/>
 </div>
 
 <div style="text-align: center">
@@ -30,7 +30,7 @@ A Figura 2 representa a tela aberta após se clicar no botão "IPTU" no site da 
 </div>
 
 <div align="center">
-<img width="700 px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-PrefeituraDeSorocaba/master/docs/media/prototitpo_papel/prototitpo_papel_2.png"/>
+<img width="700 px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-PrefeituraDeSorocaba/master/docs/media/prototipo_papel/prototipo_papel_2.png"/>
 </div>
 
 <div style="text-align: center">
@@ -45,7 +45,7 @@ A Figura 3 representa a tela de consulta de débitos e 2ª via de IPTU. Nela é 
 </div>
 
 <div align="center">
-<img width="700 px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-PrefeituraDeSorocaba/master/docs/media/prototitpo_papel/prototitpo_papel_3.png"/>
+<img width="700 px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-PrefeituraDeSorocaba/master/docs/media/prototipo_papel/prototipo_papel_3.png"/>
 </div>
 
 <div style="text-align: center">
@@ -60,7 +60,7 @@ A Figura 4 representa a tela gerada a partir da localização do registro imobil
 </div>
 
 <div align="center">
-<img width="700 px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-PrefeituraDeSorocaba/master/docs/media/prototitpo_papel/prototitpo_papel_4.png"/>
+<img width="700 px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-PrefeituraDeSorocaba/master/docs/media/prototipo_papel/prototipo_papel_4.png"/>
 </div>
 
 <div style="text-align: center">
