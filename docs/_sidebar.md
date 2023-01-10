@@ -39,7 +39,7 @@
 
     - [Planejamento da Avaliação do Storyboard](/pages/projeto/etapa4/planejamento_storyboard.md)
     - [Planejamento do Relato dos Resultados da Avaliação do Storyboard](/pages/projeto/etapa4/planejamento_resultado_storyboard.md)
-    - [Planejamento da Análise de Tarefas](/pages/projeto/etapa4/planejamento_analise_de_tarefas.md)
+    - [Planejamento da Avaliação da Análise de Tarefas](/pages/projeto/etapa4/planejamento_analise_de_tarefas.md)
     - [Planejamento do Relato dos Resultados da Análise de Tarefas](/pages/projeto/etapa4/planejamento_resultado_analise_de_tarefas.md)
 
   - **Etapa 5**
