@@ -1,4 +1,4 @@
-# Relato dos Resultados da Avaliação do Protótipo de Baixa Fidelidade
+# Relato dos Resultados da Avaliação do Protótipo de papel
 
 ## Introdução
 
@@ -6,7 +6,11 @@ Este documento traz os resultados da avaliação do Protótipo de Baixa Fidelida
 
 ## Protótipo de Papel
 
-Abaixo, nas Figura 1-4, apresentamos o protótipo de papel construído. Ele representa a navegação necessária para realizar a tarefa de consulta de 2ª via de IPTU no site da Prefeitura de Sorocaba.
+Abaixo, nas Figura 1-4, apresentamos todas as telas feitas no protótipo de papel construído. Ele representa a navegação necessária para realizar a tarefa de consulta de 2ª via de IPTU no site da Prefeitura de Sorocaba.
+
+Também é possível testar o funcionamento do Protótipo de papel pela sua construção utilizando o site de prototipação Marvel App. Segue o link para acesso: [Protótipo de papel com Marvel App](https://marvelapp.com/prototype/18j7j124/screen/90291657)
+
+### Telas
 
 A Figura 1 representa a tela inicial do site da Prefeitura de Sorocaba, ponto de partida para a consulta da 2ª via de IPTU.
 
@@ -78,16 +82,16 @@ Foi realizado o teste piloto com uma entrevistada, utilizando-se o site da prefe
 <p>Tabela 1: Respostas da Entrevista do Teste Piloto. </p>
 </div>
 
-| Número | Pergunta | Resposta | 
-| :----: | :------: | :------: |
-| 1 | Qual sua idade? | 24 |
-| 2 | Qual sua escolaridade? | Superior completo |
-| 3 | Utiliza o site da prefeitura da sua cidade? | Sim |
-| 4 | Ao utilizar o site da prefeitura, sentiu dificuldade de acessar as notícias da cidade? | Não |
-| 5 | Ao utilizar o site da prefeitura, sentiu dificuldade de acessar a tela de 2a via do IPTU? | Sim |
-| 6 | Ao utilizar o site da prefeitura, sentiu dificuldade de acessar a tela do MEI? | Sim |
-| 7 | Cite 3 características do site que te chamou mais atenção. | <ol> <li> É difícil encontrar o que você quer <li> A aparência do site é um pouco caótica <li> Cores neons e sobreposição de imagens |
-| 8 | Cite uma coisa que você sentiu falta no site. | Notícias, ultimos videos, publicações oficiais, pauta oficial, divulgação das pesquisas e as proprias ações da prefeitura |
+| Número |                                         Pergunta                                          |                                                               Resposta                                                               |
+| :----: | :---------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
+|   1    |                                      Qual sua idade?                                      |                                                                  24                                                                  |
+|   2    |                                  Qual sua escolaridade?                                   |                                                          Superior completo                                                           |
+|   3    |                        Utiliza o site da prefeitura da sua cidade?                        |                                                                 Sim                                                                  |
+|   4    |  Ao utilizar o site da prefeitura, sentiu dificuldade de acessar as notícias da cidade?   |                                                                 Não                                                                  |
+|   5    | Ao utilizar o site da prefeitura, sentiu dificuldade de acessar a tela de 2a via do IPTU? |                                                                 Sim                                                                  |
+|   6    |      Ao utilizar o site da prefeitura, sentiu dificuldade de acessar a tela do MEI?       |                                                                 Sim                                                                  |
+|   7    |                Cite 3 características do site que te chamou mais atenção.                 | <ol> <li> É difícil encontrar o que você quer <li> A aparência do site é um pouco caótica <li> Cores neons e sobreposição de imagens |
+|   8    |                       Cite uma coisa que você sentiu falta no site.                       |      Notícias, ultimos videos, publicações oficiais, pauta oficial, divulgação das pesquisas e as proprias ações da prefeitura       |
 
 <div style="text-align: center">
 <p>Fonte: Autoria própria. </p>
@@ -100,16 +104,16 @@ A partir do teste piloto, observou-se que as perguntas fornecem informações in
 <p>Tabela 2: Roteiro de perguntas. </p>
 </div>
 
-| Número | Pergunta | Resposta | 
-| :----: | :------: | :------: |
-|  1 | Qual sua idade? | Resposta subjetiva |
-|  2 | Qual sua escolaridade? | Resposta subjetiva |
-|  3 | Utiliza o site da prefeitura da sua cidade? | Sim? Não? |
-|  4 | Você já consultou a 2ª via de IPTU no site da prefeitura? | Sim? Não? |
-|  5 | Com qual frequência você faz isso? | Resposta subjetiva |
-|  6 | Após realizar a consulta, você considera que a sequência de atividades faz sentido? | Sim? Não? |
-|  7 | Você imagina outra forma de realizar a consulta? | Sim? Não? |
-|  8 | Descreva de que forma imagina. | Resposta subjetiva |
+| Número |                                      Pergunta                                       |      Resposta      |
+| :----: | :---------------------------------------------------------------------------------: | :----------------: |
+|   1    |                                   Qual sua idade?                                   | Resposta subjetiva |
+|   2    |                               Qual sua escolaridade?                                | Resposta subjetiva |
+|   3    |                     Utiliza o site da prefeitura da sua cidade?                     |     Sim? Não?      |
+|   4    |              Você já consultou a 2ª via de IPTU no site da prefeitura?              |     Sim? Não?      |
+|   5    |                         Com qual frequência você faz isso?                          | Resposta subjetiva |
+|   6    | Após realizar a consulta, você considera que a sequência de atividades faz sentido? |     Sim? Não?      |
+|   7    |                  Você imagina outra forma de realizar a consulta?                   |     Sim? Não?      |
+|   8    |                           Descreva de que forma imagina.                            | Resposta subjetiva |
 
 <div style="text-align: center">
 <p>Fonte: Autoria própria. </p>
@@ -129,7 +133,7 @@ Antes de abordar os resultados é importante entender se a avaliação foi feita
 
 ## Questões sobre os resultados
 
-Após garantir a relevância da avaliação, abaixo são encontrados pontos sobre os temas abordados e os resultados. 
+Após garantir a relevância da avaliação, abaixo são encontrados pontos sobre os temas abordados e os resultados.
 
 ### 1. Objetivos e escopo da avaliação
 
@@ -149,6 +153,7 @@ Ela seguiu a seguinte ordem:
 ### 3. Quantidade e o Perfil de usuários e avaliadores que participaram da avaliação
 
 Perfil do Usuário:
+
 - Idade: entre 21 e 30 anos
 - Ensino superior em andamento ou completo
 - Acostumado a utilizar tecnologia, precisa de ajuda em algumas coisas
@@ -156,6 +161,7 @@ Perfil do Usuário:
 - Pouca experiência em realizar as tarefas no site
 
 Número e perfil dos avaliadores:
+
 - Quantidade: dois avaliadores
 - Perfil: estudantes da disciplina de Interação Humano Computador da UnB - FGA
 
@@ -167,17 +173,17 @@ Nas Tabelas 3-5, fornecemos as respostas às perguntas e relatos sobre a utiliza
 <p>Tabela 3: Relato Entrevistado 1. </p>
 </div>
 
-| Número | Pergunta | Resposta | 
-| :----: | :------: | :------: |
-|  1 | Qual sua idade? | 24 |
-|  2 | Qual sua escolaridade? | Superior completo |
-|  3 | Utiliza o site da prefeitura da sua cidade? | Sim |
-|  4 | Você já consultou a 2ª via de IPTU no site da prefeitura? | Sim |
-|  5 | Com qual frequência você faz isso? | Ocasionalmente |
-|  6 | Após realizar a consulta, você considera que a sequência de atividades faz sentido? | Sim |
-|  7 | Você imagina outra forma de realizar a consulta? | Sim |
-|  8 | Descreva de que forma imagina. | Eu iria na cartilha de serviços e procuraria pelo IPTU na página |
-|  X | Relatos gerais sobre a utilização do protótipo de papel | Teve facilidade em realizar a tarefa através do percurso previsto pelo protótipo, apesar de ter achado pouco intuitivo o fato de abrirem-se várias páginas para realizar a consulta da 2ª via do IPTU |
+| Número |                                      Pergunta                                       |                                                                                               Resposta                                                                                                |
+| :----: | :---------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   1    |                                   Qual sua idade?                                   |                                                                                                  24                                                                                                   |
+|   2    |                               Qual sua escolaridade?                                |                                                                                           Superior completo                                                                                           |
+|   3    |                     Utiliza o site da prefeitura da sua cidade?                     |                                                                                                  Sim                                                                                                  |
+|   4    |              Você já consultou a 2ª via de IPTU no site da prefeitura?              |                                                                                                  Sim                                                                                                  |
+|   5    |                         Com qual frequência você faz isso?                          |                                                                                            Ocasionalmente                                                                                             |
+|   6    | Após realizar a consulta, você considera que a sequência de atividades faz sentido? |                                                                                                  Sim                                                                                                  |
+|   7    |                  Você imagina outra forma de realizar a consulta?                   |                                                                                                  Sim                                                                                                  |
+|   8    |                           Descreva de que forma imagina.                            |                                                                   Eu iria na cartilha de serviços e procuraria pelo IPTU na página                                                                    |
+|   X    |               Relatos gerais sobre a utilização do protótipo de papel               | Teve facilidade em realizar a tarefa através do percurso previsto pelo protótipo, apesar de ter achado pouco intuitivo o fato de abrirem-se várias páginas para realizar a consulta da 2ª via do IPTU |
 
 <div style="text-align: center">
 <p>Fonte: Autoria própria. </p>
@@ -188,16 +194,16 @@ Nas Tabelas 3-5, fornecemos as respostas às perguntas e relatos sobre a utiliza
 <p>Tabela 4: Relato Entrevistado 2. </p>
 </div>
 
-| Número | Pergunta | Resposta | 
-| :----: | :------: | :------: |
-|  1 | Qual sua idade? | 24 |
-|  2 | Qual sua escolaridade? | Superior em andamento |
-|  3 | Utiliza o site da prefeitura da sua cidade? | Sim |
-|  4 | Você já consultou a 2ª via de IPTU no site da prefeitura? | Sim |
-|  5 | Com qual frequência você faz isso? | Raramente |
-|  6 | Após realizar a consulta, você considera que a sequência de atividades faz sentido? | Sim |
-|  7 | Você imagina outra forma de realizar a consulta? | Não |
-|  X | Relatos gerais sobre a utilização do protótipo de papel | Teve facilidade em realizar a tarefa através do percurso previsto pelo protótipo e não relatou possíveis outras formas de fazê-lo |
+| Número |                                      Pergunta                                       |                                                             Resposta                                                              |
+| :----: | :---------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
+|   1    |                                   Qual sua idade?                                   |                                                                24                                                                 |
+|   2    |                               Qual sua escolaridade?                                |                                                       Superior em andamento                                                       |
+|   3    |                     Utiliza o site da prefeitura da sua cidade?                     |                                                                Sim                                                                |
+|   4    |              Você já consultou a 2ª via de IPTU no site da prefeitura?              |                                                                Sim                                                                |
+|   5    |                         Com qual frequência você faz isso?                          |                                                             Raramente                                                             |
+|   6    | Após realizar a consulta, você considera que a sequência de atividades faz sentido? |                                                                Sim                                                                |
+|   7    |                  Você imagina outra forma de realizar a consulta?                   |                                                                Não                                                                |
+|   X    |               Relatos gerais sobre a utilização do protótipo de papel               | Teve facilidade em realizar a tarefa através do percurso previsto pelo protótipo e não relatou possíveis outras formas de fazê-lo |
 
 <div style="text-align: center">
 <p>Fonte: Autoria própria. </p>
@@ -208,17 +214,17 @@ Nas Tabelas 3-5, fornecemos as respostas às perguntas e relatos sobre a utiliza
 <p>Tabela 5: Relato Entrevistado 3. </p>
 </div>
 
-| Número | Pergunta | Resposta | 
-| :----: | :------: | :------: |
-|  1 | Qual sua idade? | 20 |
-|  2 | Qual sua escolaridade? | Superior completo |
-|  3 | Utiliza o site da prefeitura da sua cidade? | Sim |
-|  4 | Você já consultou a 2ª via de IPTU no site da prefeitura? | Não |
-|  5 | Com qual frequência você faz isso? | Nunca |
-|  6 | Após realizar a consulta, você considera que a sequência de atividades faz sentido? | Não |
-|  7 | Você imagina outra forma de realizar a consulta? | Sim |
-|  8 | Descreva de que forma imagina. | Buscaria na caixa de pesquisa da página inicial da prefeitura por "IPTU" |
-|  X | Relatos gerais sobre a utilização do protótipo de papel | Teve dificuldades em realizar a tarefa através do percurso previsto pelo protótipo, uma vez que imaginava outras formas de fazer e achou que se não estivesse escrito "IPTU" no botão, a posição tornaria muito difícil encontrá-lo |
+| Número |                                      Pergunta                                       |                                                                                                              Resposta                                                                                                               |
+| :----: | :---------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   1    |                                   Qual sua idade?                                   |                                                                                                                 20                                                                                                                  |
+|   2    |                               Qual sua escolaridade?                                |                                                                                                          Superior completo                                                                                                          |
+|   3    |                     Utiliza o site da prefeitura da sua cidade?                     |                                                                                                                 Sim                                                                                                                 |
+|   4    |              Você já consultou a 2ª via de IPTU no site da prefeitura?              |                                                                                                                 Não                                                                                                                 |
+|   5    |                         Com qual frequência você faz isso?                          |                                                                                                                Nunca                                                                                                                |
+|   6    | Após realizar a consulta, você considera que a sequência de atividades faz sentido? |                                                                                                                 Não                                                                                                                 |
+|   7    |                  Você imagina outra forma de realizar a consulta?                   |                                                                                                                 Sim                                                                                                                 |
+|   8    |                           Descreva de que forma imagina.                            |                                                                              Buscaria na caixa de pesquisa da página inicial da prefeitura por "IPTU"                                                                               |
+|   X    |               Relatos gerais sobre a utilização do protótipo de papel               | Teve dificuldades em realizar a tarefa através do percurso previsto pelo protótipo, uma vez que imaginava outras formas de fazer e achou que se não estivesse escrito "IPTU" no botão, a posição tornaria muito difícil encontrá-lo |
 
 <div style="text-align: center">
 <p>Fonte: Autoria própria. </p>
