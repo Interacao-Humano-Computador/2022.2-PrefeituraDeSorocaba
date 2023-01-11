@@ -141,7 +141,7 @@ Esta avaliação tem por objetivo identificar problemas de usabilidade antes mes
 
 ### 2. Forma como a avaliação foi realizada
 
-A avaliação do protótipo de papel foi feita simultaneamente à entrevista, de forma presencial. Foram entrevistadas três pessoas e durante a entrevista foi feita a simulação com o protótipo de papel, anotando-se às respostas as perguntas e outros pontos observados durante a avaliação.
+A avaliação do protótipo de papel foi feita simultaneamente à entrevista, de forma presencial. Foram entrevistadas três pessoas e durante a entrevista foi feita a simulação com o protótipo de papel, anotando-se as respostas às perguntas e outros pontos observados durante a avaliação.
 
 Ela seguiu a seguinte ordem:
 
