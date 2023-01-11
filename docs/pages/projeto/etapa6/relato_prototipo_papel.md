@@ -268,6 +268,7 @@ Como sugestões de correções obtidas com a avaliação, temos:
 
 ## Tabela de Versionamento
 
-|    Data    | Versão |           Descrição           |                         Autor                         |              Revisor              |
-| :--------: | :----: | :---------------------------: | :---------------------------------------------------: | :-------------------------------: |
-| 10/01/2023 | `1.0`  | Análise do Protótipo e Relato | [Charles Serafim](https://github.com/charles-serafim) | [Luan](https://github.com/Luanmq) |
+|    Data    | Versão |                 Descrição                 |                         Autor                         |                        Revisor                        |
+| :--------: | :----: | :---------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: |
+| 10/01/2023 | `1.0`  |       Análise do Protótipo e Relato       | [Charles Serafim](https://github.com/charles-serafim) |           [Luan](https://github.com/Luanmq)           |
+| 10/01/2023 | `1.0`  | Adição do link do Protótipo no Marvel App |           [Luan](https://github.com/Luanmq)           | [Charles Serafim](https://github.com/charles-serafim) |
