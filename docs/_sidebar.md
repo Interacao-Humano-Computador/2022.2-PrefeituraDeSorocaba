@@ -43,13 +43,14 @@
     - [Planejamento do Relato dos Resultados da Análise de Tarefas](/pages/projeto/etapa4/planejamento_resultado_analise_de_tarefas.md)
 
   - **Etapa 5**
+
     - [Resultados da Avaliação da Análise de Rarefas](/pages/projeto/etapa5/relato_analise_de_tarefas.md)
     - [Resultados da Avaliação do Storyboard](/pages/projeto/etapa5/storyboard.md)
     - [Planejamento da Avaliação do Protótipo de papel](/pages/projeto/etapa5/planejamento_avaliacao_prototipo_papel.md)
     - [Planejamento do Relato dos Resultados da Avaliação do Protótipo de papel](/pages/projeto/etapa5/planejamento_resultado_prototipo_papel.md)
 
   - **Etapa 6**
-    - [Resultados da Avaliação do Protótipo de Alta Fidelidade](/pages/projeto/etapa6/relato_prototipo_papel.md)
+    - [Resultados da Avaliação do Protótipo do Protótipo de papel](/pages/projeto/etapa6/relato_prototipo_papel.md)
     - [Planejamento da Avaliação do Protótipo de Alta Fidelidade](/pages/projeto/etapa6/planejamento_da_avaliacao_de_alta.md)
     - [Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](/pages/projeto/etapa6/planejamento_da_avaliacao_do_relato_de_alta.md)
 
