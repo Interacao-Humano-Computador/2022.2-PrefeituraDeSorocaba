@@ -52,7 +52,7 @@
   - **Etapa 6**
     - [Resultados da Avaliação do Protótipo do Protótipo de papel](/pages/projeto/etapa6/relato_prototipo_papel.md)
     - [Planejamento da Avaliação do Protótipo de Alta Fidelidade](/pages/projeto/etapa6/planejamento_da_avaliacao_de_alta.md)
-    - [Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](/pages/projeto/etapa6/planejamento_da_avaliacao_do_relato_de_alta.md)
+    - [Planejamento da Avaliação do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](/pages/projeto/etapa6/planejamento_da_avaliacao_do_relato_de_alta.md)
 
 - **Apresentações**
 
