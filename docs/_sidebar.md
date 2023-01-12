@@ -43,14 +43,16 @@
     - [Planejamento do Relato dos Resultados da Análise de Tarefas](/pages/projeto/etapa4/planejamento_resultado_analise_de_tarefas.md)
 
   - **Etapa 5**
-    - [Relato da Avaliação da Análise de Rarefas](/pages/projeto/etapa5/relato_analise_de_tarefas.md)
-    - [Resultados do Storyboard](/pages/projeto/etapa5/storyboard.md)
+
+    - [Resultados da Avaliação da Análise de Rarefas](/pages/projeto/etapa5/relato_analise_de_tarefas.md)
+    - [Resultados da Avaliação do Storyboard](/pages/projeto/etapa5/storyboard.md)
     - [Planejamento da Avaliação do Protótipo de papel](/pages/projeto/etapa5/planejamento_avaliacao_prototipo_papel.md)
     - [Planejamento do Relato dos Resultados da Avaliação do Protótipo de papel](/pages/projeto/etapa5/planejamento_resultado_prototipo_papel.md)
 
-   - **Etapa 6**
-    - [Planejamento da Avaliação do Protótipo de Alta Fidelidade](/pages/projeto/etapa6/planejamentoDaAvaliacaoDeAlta.md)
-    - [Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](/pages/projeto/etapa6/planejamentoDaAvaliacaoDoRelatoDeAlta.md)
+  - **Etapa 6**
+    - [Resultados da Avaliação do Protótipo do Protótipo de papel](/pages/projeto/etapa6/relato_prototipo_papel.md)
+    - [Planejamento da Avaliação do Protótipo de Alta Fidelidade](/pages/projeto/etapa6/planejamento_da_avaliacao_de_alta.md)
+    - [Planejamento da Avaliação do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](/pages/projeto/etapa6/planejamento_da_avaliacao_do_relato_de_alta.md)
 
 - **Apresentações**
 
@@ -59,6 +61,7 @@
   - [Apresentação 3](/pages/apresentacoes/apresentacao3.md)
   - [Apresentação 4](/pages/apresentacoes/apresentacao4.md)
   - [Apresentação 5](/pages/apresentacoes/apresentacao5.md)
+  - [Apresentação 6](/pages/apresentacoes/apresentacao6.md)
 
-- [**Reuniões**](/pages/apresentacoes/atas.md)
+- [**Reuniões**](/pages/atas.md)
   <!-- - [Gravações](/pages/apresentacoes/gravacoes_reunioes.md) -->
