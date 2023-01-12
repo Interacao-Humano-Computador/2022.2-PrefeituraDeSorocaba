@@ -36,7 +36,7 @@ Os entrevistados devem se enquadrar no perfil de potenciais usuários do site da
 Avaliar a usabilidade do protótipo de alta fidelidade, que foi realizado na plataforma Figma, com base nos princípios de usabilidade definidos na disciplina.
 
 ## Questionário
-Durante a realização da entrevista, as seguintes perguntas deverão ser respondidas pelo entrevistado:
+Primeira parte do questinário é uma avaliação do site, para que os usuários consigam perceber as diferenças que traremos com a prototipação de alta fidelidade:
 
 * Você já havia utilizado o site da Prefeitura de Sorocaba?
 * Você se sentiu satisfeito com a interface apresentada?
@@ -49,6 +49,17 @@ Durante a realização da entrevista, as seguintes perguntas deverão ser respon
 * Em uma escala de 1 a 5, você considera que o site entrega facilidade para alcançar seus objetivos? Onde é 1 entrega e 5 não entrega.
 * Em uma escala de 1 a 5, você considera que o site te faz atingir seus objetivos? Onde 1 é faz e 5 não faz.
 * Em uma escala de 1 a 5, você considera que o site possui uma tolerância de erros? Tolerância de erro: Se o usuário pode se recuperar de erros com facilidade, sem prejudicar no fluxo de usabilidade do sistema. Onde 1 é possui e 5 é não possui.
+
+<br>
+
+Logo após isso, uma sessão para avaliarmos nosso protótipo em relação as perguntas anteriores, para percebermos se alcançamos nossos objetivos:
+
+* Você se sentiu satisfeito com a nova interface apresentada?
+* Em uma escala de 1 a 5, qual o nível de dificuldade para entender o novo design do site? Onde 1 é muito fácil e 5 é muito difícil.
+* Em uma escala de 1 a 5, você considera o novo design do site de fácil entendimento para novos usuários? Onde 1 é muito fácil e 5 muito difícil.
+* Em uma escala de 1 a 5, você considera que o novo design do site da Prefeitura possui elementos para facilitar a memorização das suas ações? Onde 1 é possui muitos e 5 possui nenhum.
+* Em uma escala de 1 a 5, você considera que o novo design do site é poluído visualmente? Onde 1 é pouco poluído e 5 é muito poluído.
+* Em uma escala de 1 a 5, você considera que o novo design do site entrega facilidade para alcançar seus objetivos? Onde é 1 entrega e 5 não entrega.
 
 <br>
 
