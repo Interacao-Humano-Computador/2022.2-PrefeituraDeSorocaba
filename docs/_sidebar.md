@@ -63,5 +63,5 @@
   - [Apresentação 5](/pages/apresentacoes/apresentacao5.md)
   - [Apresentação 6](/pages/apresentacoes/apresentacao6.md)
 
-- [**Reuniões**](/pages/apresentacoes/atas.md)
+- [**Reuniões**](/pages/atas.md)
   <!-- - [Gravações](/pages/apresentacoes/gravacoes_reunioes.md) -->
