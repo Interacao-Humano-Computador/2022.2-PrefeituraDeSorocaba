@@ -61,6 +61,7 @@
   - [Apresentação 3](/pages/apresentacoes/apresentacao3.md)
   - [Apresentação 4](/pages/apresentacoes/apresentacao4.md)
   - [Apresentação 5](/pages/apresentacoes/apresentacao5.md)
+  - [Apresentação 6](/pages/apresentacoes/apresentacao6.md)
 
 - [**Reuniões**](/pages/apresentacoes/atas.md)
   <!-- - [Gravações](/pages/apresentacoes/gravacoes_reunioes.md) -->
